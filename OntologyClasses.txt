@@ -1,0 +1,1684 @@
+Etiologic Factor
+Epidemiologic Factor
+Clinical Factor
+Diagnostic Factor
+Treatment
+Prognosis
+Epilepsy Syndrome List Cited From 1989 To 2014
+Cerebrovascular
+Functional
+Acquired
+Structural
+Incidence
+Demographics
+History
+Physical Examination
+Diagnostic Test
+Diagnostic Test Results
+Diagnostic Test Result Properties
+Diagnostic Test Procedure
+Medication
+Surgery
+Disease Course
+Infantile Spasms Blitz-Nick-Salaam Krampfe West Syndrome
+Progressive Myoclonic Epilepsy PME
+Frontal Lobe Epilepsy
+Temporal Lobe Epilepsy
+Reflex Epilepsy
+Posttraumatic Seizure
+Benign Infantile Seizure Benign Infantile Epilepsy
+Limbic Epilepsy
+Late Onset Occipital Epilepsy 
+Benign Focal Epilepsy 
+Early Onset Benign Occipital Epilepsy 
+Panyiotopolous Syndrome 
+Benign Occipital Epilepsy
+Occipital Lobe Epilepsy
+Early Onset Benign Occipital Epilepsy 
+Benign Focal Epilepsy 
+Panyiotopolous Syndrome 
+Late Onset Occipital Epilepsy 
+Benign Occipital Epilepsy
+Genetic
+Gene
+Pathology
+Anatomy
+Age Currently
+Sex
+Developmental History
+Social History
+Medical History
+Clinical History
+Sign Physical Exam Finding
+Body Measurements
+Vital Sign
+Polygraphic Recording
+Electrophysiologic Test
+Neuroimaging Test
+Laboratory Test
+EEG Test Result
+Electroencephalogram EEG Property
+Activation Procedure
+Pharmacokinetic Property
+Medication Class
+Pharmacodynamic Property
+Medication Name
+Evolution To Other
+Remission
+Death
+Ceroid-Lipofuscinosis
+Kojewnikows Syndrome 
+Chronic Progressive Epilepsia Partialis Continua Of Childhood
+Inheritance
+Neurologic Pathology
+Distribution
+Orientation
+Location
+Abnormal Development
+Drug Use
+Alcohol Consumption
+Co-Morbidity
+Seizure Factor
+Paroxysmal Event
+Semiology
+Touch Sensitivity
+Circumference
+Blood Pressure
+EKG
+EEG Electroencephalogram
+Neuroimaging Test Anatomic
+Neuroimaging Test Functional
+Suppression Block Attenuation
+Complex Wave Pattern
+Duration EEG
+Seizure Wave Property
+Ictal Relationship
+Voltage Wave Potential
+Distribution EEG
+Corticosteroid
+Medication Name Generic
+Autosomal Inheritance
+X-Linked Inheritance
+Hamartoma
+Laterality
+Brain Part
+Body Part
+Retardation In Psychomotor Development
+Motor Disability
+Psychiatric Co-Morbidity
+Provocative Factor
+Seizure Descriptors
+Epileptic Event
+Sensory Symptom
+Autonomic Sign
+Respiratory Sign
+Psychic Symptom
+Tone And Movement Sign
+Affective Symptom
+Metabolic Imaging
+Normal Pattern
+Abnormal Pattern
+Duration Of EEG Complex
+Duration Of Ictal Seizure
+Duration Of Waveform
+Amplitude Factor
+Occurrence EEG Complex
+Frequency
+Quantity
+Polarity
+Waveform Wave Form Form Morphology Transient
+Rhythm Period
+Onset
+Ictal
+Low Voltage
+Medium Voltage
+High Voltage
+Unilateral
+Brain Quadrant
+Brain Region
+Brain Structure
+Brain Hemisphere
+Muscle Group
+Limb
+Head Part
+Axial
+Motor Disability
+Reflex Factor Sensory Factor
+Head Injury
+Nonsensory Factor
+State Dependent Phenomena
+Distribution Of Semiologic Seizure
+Duration Of Semiologic Seizure
+Occurrence Or Seizure Incident
+Evolution Of Semiologic Seizure
+Severity Of Semiologic Seizure
+Location Of Semiologic Seizure
+Rhythm Of A Semiologic Seizure
+Status Epilepticus Event
+Epileptic Seizure Event
+Gustatory Sensation
+Olfactory Sensation
+Complex Sensation
+Auditory Sensation
+Visual Sensation
+Somatosensory Sensation
+Blood Pressure Changes
+Gastrointestinal Sign
+Incontinence
+Cognition
+State Of Conciousness Or Functional Status
+Hallucinatory
+Illusory
+Increase In Tone
+Impairment Of Movement
+Complex Movement
+Loss Of Tone
+Cerebellar Signs
+Motor Sign
+Emotion Affect
+Affect Emotion
+Benign Epileptiform
+Brush
+Background Activity
+Spike-And-Slow-Wave Complex
+Background Abnormal
+Short Seizure
+Long Seizure
+Slow Wave
+Fast Or Short Wave
+Slow Activity
+Band
+Fast Activity
+Multiple Poly
+Normal Wave Form
+Burst
+Discharge
+Cycle
+Ictal Propagation
+Frontal Lobe
+Brain Junctions
+Parietal Lobe
+Occipital Lobe
+Hypothalamus
+Limbic System
+Brodmann s Area
+Temporal Lobe
+Extremity
+Proximal Limb
+Distal Limb
+Eyes
+Neck
+Trunk Torso
+Torso Trunk
+Visual Stimuli
+Eating
+Post-Ictal Phenomena
+Pre-Ictal Phenomena
+Laterality Of Semiology
+Duration Of A Semiologic Seizure
+Duration Of Seizure Condition
+Regular Occurrence
+Partial Seizure
+Generalized Seizure
+Partial Status Epilepticus
+Reflex Status
+Motor Status
+Dialeptic Status
+Aura Continua
+Motor Seizure
+Dialeptic Seizure
+Reflex Seizure
+Aura
+Gustatory Sensation Normal
+Gustatory Sensation Abnormal
+Olfactory Sensation Normal
+Olfactory Sensation Abnormal
+Auditory Sensation Abnormal
+Auditory Sensation Normal
+Visual Sensation Normal
+Visual Sensation Abnormal
+Somatosensory Sensation Normal
+Somatosensory Sensation Abnormal
+Autonomic Symptoms
+Propioception Abnormal
+Epigastric Sensation
+GI Signs ON HOID
+Memory Mnemonic
+Executive Function
+Dyscognitive
+Impaired Consciousness
+Loss Of Consciousness Unconscious
+Consciousness
+Alteration Of Conciousness
+Sleep Stages
+Awake
+Auditory Hallucination
+Prioceptive Hallucination
+Olfactory Hallucination
+Visual Hallucination
+Gustatory Hallucination
+Prioceptive Illusion
+Visual Illusion
+Olfactory Illusion
+Gustatory Illusion
+Auditory Illusion
+Automatism
+Automatisms
+Walking
+Muscle Contraction
+Language Related
+Mouth Movements
+Occular Movement Eye Movement
+Versive Movement
+Posture
+Delta Band Frequency
+Theta Band Frequency
+Delta Band Frequency
+Alpha Band Frequency
+Theta Band Frequency
+Normal Burst Type
+Epileptiform Discharge
+Sleep Wake Cycle
+Spread
+Premotor Area
+Motor Region
+Fronto-Parietal Junction
+Visual Cortex Region
+Subcortical Components
+Cortical Components
+Extremity
+Non-Lateralizing Phenomenon
+Lateralizing Phenomenon
+Unilateral Semiology
+Simple Partial Seizure
+Absence Seizure
+Clonic Seizure
+Tonic-Clonic Seizure
+Negative Motor Status
+Complex Motor Status
+Simple Motor Status
+Complex Motor Seizure
+Negative Motor Seizure
+Simple Motor Seizure
+Taste
+Gustatory Illusion
+Gustatory Hallucination
+Olfactory Illusion
+Olfactory Hallucination
+Auditory Hallucination
+Auditory Illusion
+Visual Illusion
+Visual Hallucination
+Headache
+Pain
+Prioceptive Illusion
+Prioceptive Hallucination
+Epigastic Sensation Abnormal
+Epigastic Sensation Normal
+Abdominal Peristalsis
+Amnesia
+Dysmnesia
+Alteration Of Responsiveness
+Non-REM Sleep
+REM Sleep
+Vertigo
+Positive Visual Hallucination
+Negative Visual Illusion
+Metamorphosia
+Sound Distortion
+Eating
+Spasm
+Motor Aphasia
+Eye Rotation
+Occular Oscillation
+Deviation Of The Eyes
+Rapid Eye Movement
+Tonic Posturing
+Spread Pattern
+Prerolandic Area
+Primay Motor Area
+Thalamus
+Impaired Cognition
+Automotor Status
+Postural Status
+Tonic-Clonic Status
+Automotor Seizure
+Clonic Seizure
+Tonic-Clonic Seizure
+Postural Seizure
+Sound Distortion
+Negative Visual Illusion
+Metamorphosia
+Positive Visual Hallucination
+Vertigo 
+Light Sleep
+Deep Sleep
+Unclassified Epilepsy Syndrome
+Unknown Cause
+Immune Mediated
+Infectious Agents
+Prevalence
+Sociodemographics
+Benign Focal Epilepsy 
+Early Onset Benign Occipital Epilepsy 
+Panyiotopolous Syndrome 
+Late Onset Occipital Epilepsy 
+Benign Occipital Epilepsy
+Migrating Focal Seizures Of Infancy
+Benign Neonatal Convulsions
+Benign Familial Neonatal Epilepsy BFNE
+Benign Familial Infantile Epilepsy
+Migrating Partial Seizures Of Epilepsy
+Hemiconvulsion-Hemiplegia Epilepsy Syndrome
+Juvenile Myoclonic Epilepsy 
+JME 
+Janz Syndrome 
+Impulsive Petit Mal
+Epilepsy With Generalized Tonic-Clonic Seizures Alone
+Epilepsy With Continuous Spike-Wave During Slow-Wave Sleep
+Immediate Post Cerebral Insult Seizure
+Ohtahara Syndrome
+Myoclonic Atonic Epilepsy 
+Doose Syndrome 
+Myoclonic Astatic Epilepsy 
+Myoclonic Astatic Petit Mal Epilepsy With Myoclonic-Astatic Seizures
+Familial Focal Epilepsy With Variable Foci
+Benign Neonatal Familial Convulsions 
+Benign Familial Neonatal Seizures 
+BFNS
+Mesial Temporal Lobe Epilepsy With Hippocampal Sclerosis 
+MTLE With HS 
+Mesial Temporal Lobe Epilepsy
+Panyiotopolous Syndrome 
+Benign Focal Epilepsy 
+Early Onset Benign Occipital Epilepsy 
+Late Onset Occipital Epilepsy 
+Benign Occipital Epilepsy
+Autosomal Dominant Epilepsy With Auditory Features 
+ADEAF
+Landau-Kleffner Syndrome 
+LKS 
+Acquired Epileptic Aphasia
+Benign Familial Neonatal Seizure 
+BFNS 
+Benign Neonatal Familial Convulsions
+Chemically Induced Seizure
+Childhood Absence Epilepsy 
+Pyknolepsy 
+Typical Absence Epilepsy
+Epilepsy Of Infancy With Migrating Focal Seizures
+Juvenile Absence Epilepsy 
+JAE
+Epilepsy With Myoclonic-Astatic Seizures 
+Doose Syndrome 
+Myoclonic Astatic Epilepsy 
+Myoclonic Atonic Epilepsy 
+Myoclonic Astatic Petit Mal
+Myoclonic Status In Nonprogressive Encephalopathies
+Mitochondrial Myopathy Ramsay-Hunt Like Syndrome
+Hemiconvulsion-Hemiplegia-Epilepsy
+Pyknolepsy Childhood Absence Epilepsy 
+Typical Absence Epilepsy
+Benign Rolandic Epilepsy Of Childhood 
+BREC 
+Lingual Epilepsy 
+Benign Childhood Epilepsy With CentroTemporal Spikes 
+Benign Epilepsy Of Childhood With Central Temporal Spikes 
+BECTS 
+Sylvian Seizures
+Typical Absence Epilepsy 
+Childhood Absence Epilepsy 
+Pyknolepsy
+Ramsay-Hunt Syndrome
+Epilepsy With Myoclonic Absence
+Primary Reading Epilepsy
+Early Post Cerebral Insult Seizure
+Myoclonic Astatic Petit Mal 
+Doose Syndrome 
+Myoclonic Astatic Epilepsy 
+Myoclonic Atonic Epilepsy 
+Epilepsy With Myoclonic-Astatic Seizures
+Febrile Seizures Plus FS
+Drug Induced Seizure
+Benign Childhood Epilepsy With Centro Temporal Spikes 
+Lingual Epilepsy 
+Benign Epilepsy Of Childhood With Central Temporal Spikes 
+BECTS 
+Benign Rolandic Epilepsy Of Childhood 
+BREC 
+Sylvian Seizures
+Gelastic Seizures With Hypothalamic Hamartoma
+Myoclonic Encephalopathy In Nonprogressive Disorders
+Benign Occipital Epilepsy Benign Focal Epilepsy Early Onset Benign Occipital Epilepsy Panyiotopolous Syndrome Late Onset Occipital Epilepsy
+Oligoepilepsy
+Epilepsy With General Tonic Clonic Seizure On Awakening
+Doose Syndrome Myoclonic Astatic Epilepsy Myoclonic Atonic Epilepsy Myoclonic Astatic Petit Mal Epilepsy With Myoclonic-Astatic Seizures
+Benign Epilepsies
+Early Infantile Epileptic Encephalopathy 
+EIEE
+Benign Neonatal Seizures 
+BNS
+Janz Syndrome Juvenile Myoclonic Epilepsy 
+JME 
+Impulsive Petit Mal
+Benign Infantile Epilepsy 
+Benign Infantile Seizure
+Sylvian Seizure Lingual Epilepsy Benign Epilepsy Of Childhood With Central Temporal Spikes 
+BECTS 
+Benign Childhood Epilepsy With Central Temporal Spikes Benign Rolandic Epilepsy Of Chilhood BREC
+Right Frontal Epilepsy
+Rolandic Epilepsy
+Myoclonic Epilepsy In Infancy MEI
+Early Infantile Epileptic Encephalopthy With Suppression Burst
+Familial Temporal Lobe Epilepsy
+Myoclonic Encephalopathy
+Benign Myoclonic Epilepsy In Infancy
+Blitz-Nick-Salaam Krampfe Infantile Spams West Syndrome
+Epilepsies With Grand Mal GTCS Seizures On Awakening
+West Syndrome Blitz-Nick-Salaam Krampfe Infantile Spasms
+Severe Myoclonic Epilepsy In Infancy
+Neonatal Seizures
+Myoclonic Astatic Epilepsy 
+Doose Syndrome 
+Myoclonic Atonic Epilepsy 
+Myoclonic Astatic Petit Mal Epilepsy With Myoclonic-Astatic Seizures
+Chronic Progressive Epilepsia Partialis Continua Of Childhood Kojewnikows Syndrome
+Dravet Syndrome
+Generalized Tonic-Clonic Seizure Grand Mal Seizure
+Epileptic Encephalopathy With Continuous Spike-And-Wave During Sleep 
+CSWS
+Acquired Epileptic Aphasia Landau-Kleffner Syndrome 
+LKS
+Febrile Seizures
+Dyssynergia Cerebellaris Myocloinia DCM With Epilepsy Ramsay-Hunt Syndrome I
+Early Myoclonic Encephalopathy 
+EME
+Myoclonic Absence Seizure
+Febrile Convulsions
+Benign Epilepsy Of Childhood With Central Temporal Spikes 
+BECTS 
+Lingual Epilepsy Benign Childhood Epilepsy With CentroTemporal Spikes 
+Benign Rolandic Epilepsy Of Childhood 
+BREC 
+Sylvian Seizures
+Lennox-Gastaut Syndrome LGS
+Ramsay-Hunt Like Syndrome Mitochondrial Myopathy
+Cherry Red Spot Myoclonus Syndrome Sialidosis With Isolated Deficit In Neuraminidase
+Alcohol-Withdrawal Seizure
+Rasmussen Syndrome
+Impulsive Petit Mal Janz Syndrome 
+Juvenile Myoclonic Epilepsy 
+JME
+Benign Familial Infantile Seizure
+Lingual Epilepsy 
+Benign Epilepsy Of Childhood With Central Temporal Spikes 
+BECTS 
+Benign Childhood Epilepsy With CentroTemporal Spikes 
+Benign Rolandic Epilepsy Of Childhood BREC Sylvian Seizures
+Childhood Epilepsy With Occipital Paroxysms
+Parietal Lobe Epilepsy
+Migrating Partial Seizures Of Early Infancy
+Intraventricular Hemorrhage
+Intraparenchymal Hemorrhage
+Stroke
+Metabolic Biochemistry
+Pathophysiologic
+Biochemistry Metabolic
+Physiologic
+Environmental Factor
+Histology
+Age Of Onset
+Surgical History
+Family History
+Fever
+Diagnostic Test Result
+Precocious Puberty
+Hemiparesis
+Observation
+Metabolic Test
+Genetic Test
+Brain Surgery
+Resistant To Therapy
+Relapse
+Relapsing Remitting
+Infantile Spasm Symptomatic Group
+Infantile Spasm Cryptogenic Group
+Lafora Disease
+Denatorubropallidoluysian Atrophy
+Neuroaxonal Dystrophy
+Degenerative Progressive Myoclonus Epilepsy Lundborg Type
+Myoclonus Epilepsy With Ragged Red Fibers MERRF
+Degenerative Progressive Myoclonus Epilepsy Finnish Type
+Unverricht-Lundborg Disease
+Sialidosis
+Autosomal-Dominant Nocturnal Frontal Lobe Epilepsy ADNFLE
+Cingulate Seizures
+Rolandic Partial Epilepsy
+Supplementary Motor Seizure
+Opercular Seizure
+Orbitofrontal Seizure
+Lingual Epilepsy 
+Benign Epilepsy Of Childhood With Central Temporal Spikes 
+BECTS 
+Benign Childhood Epilepsy With CentroTemporal Spikes 
+Benign Rolandic Epilepsy Of Childhood BREC Sylvian Seizures
+Dorsolateral Seizure
+Benign Rolandic Epilepsy Of Childhood BREC Lingual Epilepsy 
+Benign Childhood Epilepsy With CentroTemporal Spikes 
+Benign Epilepsy Of Childhood With Central Temporal Spikes 
+BECTS Sylvian Seizures
+Benign Epilepsy Of Childhood With Central Temporal Spikes 
+BECTS Lingual Epilepsy 
+Benign Childhood Epilepsy With CentroTemporal Spikes 
+Benign Rolandic Epilepsy Of Childhood 
+BREC 
+Sylvian Seizures
+Anterior Frontopolar Epilepsy
+Motor Cortex Seizure
+Benign Rolandic Epilepsy of Childhood 
+BREC
+Mesiobasal Limbic Seizures 
+Amygdalo-Hippocampal Seizures 
+Rhinoencephalic Seizures
+Other Familial Temporal Lobe Epilepsies
+Amygdalo-Hippocampal Seizures 
+Mesiobasal Limbic Seizures 
+Rhinoencephalic Seizures
+Lateral Temporal Seizure
+Rhinoencephalic Seizures 
+Amygdalo-Hippocampal Seizures 
+Mesiobasal Limbic Seizures
+Left Mesial Temporal Lobe Epilepsy
+Visual Sensitive Epilepsy
+Primary Reading Epilepsy
+Startle Epilepsy
+Idiopathic Photosensitive Occipital Lobe Epilepsy
+Early Posttraumatic Seizure
+Immediate Posttraumatic Seizure
+Benign Infantile Seizure Nonfamilial
+Mesial Temporal Lobe Epilepsy Defined By Specific Etiology
+Mesial Temporal Lobe Epilepsy With Hippocampal Sclerosis
+Late-Onset Childhood Occipital Epilepsy-Gastaut Type
+Childhood Epilepsy With Occipital Paroxysms
+Gastaut Syndrome
+Early-Onset Benign Childhood Occipital Epilepsy-Panayiotopoulos Type
+SCN1A Gene
+CDKL5 Gene
+SCN8A Gene
+DOCK7 Gene
+TSC1 Gene
+SLCA1 Gene
+PCDH19 Gene
+KCNA2 Gene
+PNKP Gene
+SPTAN1 Gene
+GNAO1 Gene
+ARX Gene
+STXBP1 Gene
+GABRD Gene
+CHRNA7 Gene
+GRIN2B Gene
+KCNB1 Gene
+CACNB4 Gene
+TSC2 Gene
+EFHC1 Gene
+KCNT1 Gene
+ST3GAL3 Gene
+SZT2 Gene
+TBC1D24 Gene
+EEF1A2 Gene
+SCN2A Gene
+PLCB1 Gene
+SLC25A22 Gene
+WWOX Gene
+NECAP1 Gene
+SLC13A5 Gene
+CACNA1H Gene
+GABRA1 Gene
+ELP4 Gene
+GABRG2 Gene
+AARS Gene
+CLCN2 Gene
+PIGA Gene
+HCN1 Gene
+SIK1 Gene
+DNM1 Gene
+GABRA3 Gene
+SCN9A Gene
+SLC35A2 Gene
+KCNQ2 Gene
+ARHGEF9 Gene
+Adolescent Greater Than 12-18 Years
+Child Greater Than 1-12 Years
+Adult Greater Than 18-60 Years
+Infant 1 Month To 1 Year
+Neonate Less Than Or Equal To 1 Month Or 44 Weeks Gestation
+Elderly Greater Than 60 Years
+Male
+Female
+Normal Development
+Review Of Systems
+Retinal Lacunae
+Cherry Red Spot
+Neurologic Exam
+Fundoscopic Examination
+Amblyopia
+Cranial Nerve Abnormalities
+Skin Findings
+Height
+Temperature
+Weight
+Body Mass Index BMI
+Respiratory Rate
+Body Temperature
+Heart Rate Pulse
+Pulse Heart Rate
+Polysomnogram
+Blood Chemistry
+Block Attenuation Suppression
+Attenuation Block Suppression
+Potential Wave Voltage
+Other Activation Procedure
+Sleep Deprivation Activation Procedure
+Injection Of Convulsant Drug Activation Procedure
+Photic Stimulation Activation Procedure
+Fixation-Off Sensitivity Activation Procedure
+Hyperventilation Activation Procedure
+Intermittent Photic Stimulation Activation Procedure
+Distribution PK
+Permeation
+Excretion
+Absorption
+Metabolism
+Side Effect
+Toxicity
+Use Of Medication
+Mechanism Of Action
+Evolution To Other Seizure
+Evolution To Other Epilepsy
+Controlled By Treatment
+Spontaneous Remission
+SUDEP Sudden Unexpected Death In Epilepsy
+Spielmeyer-Vogt-Sjogren Disease Ceriod-Lipofuscinosis Juvenile Form
+Late Infantile Ceroid-Lipofuscinosis Jansky Bielschoski Disease
+Jansky Bielschoski Disease Late Infantile Ceroid-Lipofuscinosis
+Santuavori Hatia Hagberg Disease Ceroid-Lipofuscinosis Infantile Type
+Ceroid-Lipofuscinosis Adult Type Kuf s Disease
+Ceroid-Lipofuscinosis Infantile Type Santuavori Hatia Hagberg Disease
+Ceroid-Lipofuscinosis Juvenile Form Spielmeyer-Vogt-Sjogren Disease
+Kuf s Disease Ceroid-Lipofuscinosis Adult Type
+Rolandic Partial Epilepsy
+Rasmussens Syndrome
+Mitochondrial Inheritance
+Y-Linked Inheritance
+Cavernous Angiomas
+Lissencephaly Pachygyria
+Astrocytoma
+Cortical Dysplasia
+Hemimegalencephaly
+Gangliocytoma
+Ganglioglioma
+Heterotopia
+Mesial Temporal Sclerosis
+Dysembryoplastic Neuroepithelial Tumor DNET
+Partial Focal Localization Related
+Focal Partial Localization Related
+Multifocal
+Localized
+Localization Related Focal Partial
+Symmetrical
+Multiregional
+Focus
+Regional
+Generalized Diffuse
+Diffuse Generalized
+Asymmetrical
+Central
+Posterior
+Distal
+Anterior
+Left
+Proximal
+Right
+Mental Retardation Intellectual Disability
+Learning Disability
+Intellectual Disability Mental Retardation
+Drug Use By Patient s Mother
+Drug Use By Patient
+Alcohol Consumption By Patient
+Alcohol Consumption By Patient s Mother
+Non-Epileptic Event
+Language Receptive
+Photosensitive
+Neuropsychologic Sign
+Staring Blank Stare
+Blank Stare Staring
+Action Myoclonus
+Semiology Modifier
+Sensitive To Touch
+Insensitive To Touch
+Head Circumference
+Waist Circumference
+Diastolic Blood Pressure
+Systolic Blood Pressure
+Holter Monitor
+Scalp EEG
+Intracranial EEG
+Computerized Tomography CT
+Magnetic Resonance Imaging MRI
+Magnetoencephalography MEG Scan
+Functional MRI fMRI
+Invariant Burst Suppression
+Burst-Suppression
+Transient Wave Form Form Morphology Waveform
+Period Rhythm
+Wave Form Form Morphology Transient Waveform
+Morphology Wave Form Form Transient Waveform
+Form Wave Form Morphology Transient Waveform
+Wave Potential Voltage
+Preictal
+Perictal
+Interictal
+Postictal
+Generalized EEG Diffuse EEG
+Bilateral EEG
+Diffuse EEG Generalized EEG
+Symmetry EEG
+Asymmetry EEG
+Unilateral EEG
+Oral Corticosteroid
+Ethosuximide
+Phenobarbital
+Adrenocorticotropic Hormone
+Autosomal Dominant Inheritance
+Autosomal Recessive Inheritance
+X-Linked Recessive Inheritance
+X-Linked Dominant Inheritance
+Hypothalamic Hamartomas
+Temporal Lobe Hamartoma
+Parietal Lobe Hamartoma
+Bilateral
+Contralateral
+Ipsilateral
+Individual Muscle
+Genital
+Brain
+Head
+Mental Retardation Intellectual Disability
+Intellectual Disability Mental Retardation
+Gross Motor Disability
+Fine Motor Disability
+Autism Spectrum Disorder
+Attention Deficit Hyperactivity Disorder ADHD
+Depression
+Personality Disorder
+Reactive Factor
+Sensory Factor Reflex Factor
+Mydriasis
+Flushing
+Sweating
+Palpitations
+Pallor
+Pupillary Dilation
+Fullness
+Cyanosis
+Bradycardia
+Piloerection
+Tachycardia
+Pale
+Deep Respiration
+Cyanosis Respiration
+Respiration Changes
+Stridor
+Apnea
+Repiration Arrest
+Pyramidal Signs
+Acoustic Startle
+Affect Change
+Positron Emission Tomography PET Scan
+Single-Photon Emission Computed Tomography SPECT
+Event-Related Slow Potential ERP
+Trace Alternant
+Photic Driving
+Rhythmic Temporal Theta Burst Of Drowsiness
+Posterior Slow Wave Of Youth
+Gamma Rhythm
+Delta Rhythm
+Beta Rhythm
+Fast Alpha Variant Rhythm
+Alpha Rhythm
+Mu Rhythm
+Trace Discontinue
+Vertex Sharp Transient V Wave
+Wicket Spikes
+Theta Rhythm
+Photomyogenic Response
+Slow Alpha Variant Rhythms
+Premature Temporal Theta Saw-Toothed Bursts
+Positive Bursts 14-6Hz Positive Spikes 14-6Hz
+Positive Spikes 14-6Hz Positive Bursts 14-6Hz
+Trace Continu
+V Wave Vertex Sharp Transient
+K Complex
+Encoches Frontal
+Alpha Variant Rhythms
+Six Hz Spike-And-Slow-Wave
+Triphasic Wave
+Rhythm Of Alpha Frequency
+Lambda Wave
+Positive Occipital Sharp Transient Of Sleep POSTS
+Small Sharp Spikes Benign Epileptiform Transient Of Sleep
+Saw-Toothed Bursts Premature Temporal Theta
+Sharp Wave
+Continuous Slow Activity
+Occipital Intermittent Rhythmic Delta Activity ORIDA
+Spike Wave
+Atypical Spike And Slow Wave Complex
+Status Epilepticus EEG
+Low Voltage Fast Activity
+Hypsarrhythmia
+Frontal Intermittent Rhythmic Delta Activity FIRDA
+Subclinical Rhythmical Discharges Of Adults SREDA
+Sharp And Slow Wave Complex
+Periodic Lateralized Epileptiform Discharges PLEDs
+Atypical Hypsarrhythmia
+Polyspike Complex
+Polyspike-And-Slow-Wave Complex
+Paroxysmal Fast
+Intermittent Slow Activity
+Photoparoxysmal Response
+Duration One To Several Seconds
+Duration Greater Than 3 Seconds
+Continuous Activity
+Alpha Wave
+Long Wave
+Amplitude Increase
+Peak Amplitude
+Variable Amplitude
+Large Amplitude
+Negative Amplitude
+Extreme Amplitude
+Small Amplitude
+Positive Amplitude
+Maximum Amplitude
+Equipotential
+Amplitude Decrease
+Asynchrony EEG
+Sequential
+Several Times A Day
+High Occurrence
+Cluster EEG
+Fragmentary
+Erratic
+Simultaneous Synchronous
+Isolated
+Intermittent
+Segmental
+Independent Temporally
+Synchronous Simultaneous
+Synchrony EEG
+Massive
+Frequent
+Repetitive
+Frequency Decreasing
+Mixture Of Frequencies
+Sustained
+Frequency Increasing
+Variable Frequency
+Single
+Poly Multiple
+Dipole
+Dipolar
+Negative Polarity
+Bipolar
+Unipolar
+Positive Polarity
+Atypical Period
+Quasiperiodic
+Polymorphic
+Interval
+Arrhythmic Activity
+Random
+Aperiodic Period
+Irregular Period
+Alternate Period Variable Rhythm
+Regular Period Periodic Period Rhythmic Period
+Variable Rhythm Alternate Period
+Rhythmic Period Periodic Period Regular Period
+Periodic Period Regular Period Rhythmic Period
+Intermixed Period
+Semiperiodical
+Gradual Onset
+Sudden Onset
+Ictal Onset
+Voltage Less Than 50pV
+Voltage Less Than 10uV
+Voltage Less Than 50uV
+Voltage Less Than 20uV
+Voltage Equals 50-100uV
+Voltage Less Than 75uV
+Voltage Greater Than 70uV
+Voltage Equals 100-200uV
+Voltage Less Than 240uV
+Voltage Greater Than 300uV
+Voltage Equals 1000uV
+Hemi
+Right Anterior Quadrant
+Right Posterior Quadrant
+Left Anterior Quadrant
+Left Posterior Quadrant
+Anterior Region
+Posterior Region
+Vertex Region
+Central Region
+Medulla Oblangata
+Longitudinal Fissure
+Pons
+Intraventricular Foramen
+Motor Strip
+Corpus Callosum
+Cerebellum
+Diencephalon
+Septum Pellucidum
+Midbrain
+Fornix
+Telencephalon
+Brain Stem
+Left Hemisphere
+Dominant Hemisphere
+Right Hemisphere
+Non-Dominant Hemisphere
+Extensor Muscle Group
+Flexor Muscle Group
+Chin
+Lips
+Tongue
+Eyelids
+Mouth
+Face
+Jaw
+Gross Motor Disability
+Fine Motor Disability
+Praxis
+Proprioceptive
+Reading
+Somatosensory
+Thinking
+Music
+Hot Water
+Startle
+Traumatic Brain Injury
+Fever
+Generalized Semiology
+Diffuse Semiology
+Asymmetrical Semiology
+Partial Semiology
+Focal Semiology
+Multiregional Semiology
+Symmetrical Semiology
+Localized Semiology
+Multifocal Semiology
+Regional Semiology
+Duration Of Semiologic Seizure Complex
+Irregular Occurrence
+Cluster Of Semiologic Seizure
+Jacksonian Seizure 
+Epileptic March
+Epileptic March 
+Order Of Semiology
+Order Of Seizure Sequence
+Severe
+Location Of Onset
+Asynchronous
+Engel 2001 Limbic Status Epilepticus-Psychomotor Status
+Engel 2001 Hemiconvulsive Status
+Autonomic Status
+Dyscognitive Status
+Dyscognitive Seizure
+Autonomic Seizure
+Scenery Hallucination
+Spoken Sentence Hallucination
+Music Hallucination
+Person Hallucination
+Propioception Normal
+Hypertension Sign
+Hypotension Sign
+Vomiting
+Urination Involuntary
+Bowel Movement Involuntary
+Perception
+Comprehension
+Confusion
+Attention
+Mnemonic Memory
+Awakening
+Hypnosis
+Arousal
+Anesthesia
+Dreaming
+Time Perception
+Unconscious Loss Of Consciousness
+Dysphasia
+Reality Sensation
+Stiffening
+Hypertonia
+Drooping Droop
+Slump
+Weakness
+Relaxation
+Droop Drooping
+Swimming
+Pedaling
+Rubbing
+REM Atonia
+Atonia
+Hypotonia
+Falling Fall
+Drop
+Fall Falling
+Extrapyramidal Signs
+Ataxia
+Tremor
+Fumbling
+Smooth
+Abduction
+Eye Movement Occular Movement
+Speech
+Scratching
+Upward
+Laughing
+Praxis
+Tapping
+Akinesia
+Gestures
+Adduction
+Positioning
+Interruption
+Mimicry
+Rage Anger
+Rejection
+Displeasure
+Worthiness
+Pleasure
+Anger Rage
+Unworthiness
+Joy
+Acceptance
+Panic
+Sadness
+Fear
+Terror
+Rage Anger
+Rejection
+Displeasure
+Worthiness
+Pleasure
+Anger Rage
+Unworthiness
+Joy
+Acceptance
+Panic
+Sadness
+Fear
+Terror
+Benign Epileptiform Transient Of Sleep Small Sharp Spikes
+Benign Epileptiform Discharges Of Childhood
+Delta Brush
+Delta Brushes
+Background Symmetry
+Three Hz Spike-And-Slow-Wave-Complex
+Background Fast Activity
+Background Slow Activity
+Background Asymmetry
+Less Than 100ms
+Less Than 20s
+Less Than 400ms
+Less Than 500ms
+Brief
+Duration Greater Than 1 Minute
+Theta Wave
+Delta Wave
+Gamma Wave
+Beta Wave
+Beta Band Frequency
+Gamma Band Frequency
+Beta Band Frequency
+Gamma Band Frequency
+Juvenile Myoclonic Epilepsy JME Janz Syndrome Impulsive Petit Mal
+Saw-Tooth Wave
+Monophasic Wave
+Diphasic Wave
+Clipping
+Sinusoidal Wave
+Polyphasic Wave
+Sine Wave
+Arch Shaped Wave
+Epileptiform Activity
+Menstrual Cycle
+Location Of Onset
+Mesial Frontal Lobe
+Supplemental Motor Area
+Opercular Region
+Primary Motor Area
+Orbitofrontal Region
+Cingulate Region
+Septal Area
+Precentral Sulcus
+Inferior Frontal Gyrus
+Supplementary Motor Region
+Prefrontal Area
+Orbital Gyrus
+Primary Sensorimotor Cortex
+Superior Frontal Sulcus
+Brocas Area Motor Speech Area
+Doroslateral Region
+Middle Frontal Gyrus
+Anterior Frontopolar Region
+Precentral Gyrus
+Motor Speech Area Brocas Area
+Superior Frontal Gyrus
+Temporo-Parieto-Occipital Junction
+Lateral Fissure
+Parieto-Occipital Sulcus
+Cingulate Gyrus
+Precuneus
+Supramarginal Gyrus
+Lateral Parietal Lobe
+Postcentral Sulcus
+Marginal Sulcus
+Superior Parietal Lobule
+Primary Somatosensory Area
+Intraparietal Sulcus
+Angular Gyrus
+Paracentral Lobule
+Inferior Parietal Lobule
+Postcentral Gyrus
+Primary Visual Area
+Supracalacrine
+Lingual Gyrus
+Calcarine Sulcus
+Cuneus
+Mammillary Body
+Brodmann Area 46
+Brodmann Area 45
+Brodmann Area 48
+Brodmann Area 47
+Brodmann Area 49
+Brodmann Area 40
+Brodmann Area 42
+Brodmann Area 41
+Brodmann Area 44
+Brodmann Area 43
+Brodmann Area 35
+Brodmann Area 34
+Brodmann Area 37
+Brodmann Area 36
+Brodmann Area 9
+Brodmann Area 39
+Brodmann Area 38
+Brodmann Area 4
+Brodmann Area 3
+Brodmann Area 2
+Brodmann Area 1
+Brodmann Area 31
+Brodmann Area 8
+Brodmann Area 7
+Brodmann Area 30
+Brodmann Area 6
+Brodmann Area 33
+Brodmann Area 32
+Brodmann Area 5
+Brodmann Area 24
+Brodmann Area 23
+Brodmann Area 26
+Brodmann Area 25
+Brodmann Area 28
+Brodmann Area 27
+Brodmann Area 29
+Brodmann Area 20
+Brodmann Area 22
+Brodmann Area 21
+Brodmann Area 13
+Brodmann Area 12
+Brodmann Area 15
+Brodmann Area 14
+Brodmann Area 17
+Brodmann Area 16
+Brodmann Area 19
+Brodmann Area 18
+Brodmann Area 51
+Brodmann Area 50
+Brodmann Area 52
+Brodmann Area 11
+Brodmann Area 10
+Middle Temporal Gyrus
+Receptive Speech Area
+Inferior Temporal Gyrus
+Primary Auditory Area
+Superior Temporal Gyrus
+Fingers
+Toes
+Hand
+Foot
+Arm
+Forearm
+Thigh
+Ankle
+Wrist
+Leg
+Hip
+Pupils
+Conjunctiva
+Throat
+Tonic Seizure
+Tonic Seizure
+Flashing Lights
+Patterns
+Chewing
+Biting
+Mastication
+Prodrome
+Contralateral Semiology
+Bilateral Semiology
+Ipsilateral Semiology
+Variable Duration
+Months Duration Of Condition
+Years Duration Of Condition
+Once A Year
+Once A Day
+Once A Week
+Once A Month
+Partial Seizures Evolving To Secondarily Generalized Seizures
+Complex Partial Seizure
+Atonic Seizure
+Myoclonic Seizure
+Tonic Seizure
+Epilepsia Partialis Continua
+Catamenial Status
+Photosensitive Status
+Atypical Dialeptic Status
+Typical Dialeptic Status
+Abdominal Aura Status
+Somatosensory Aura Status
+Olfactory Aura Status
+Visual Aura Status
+Auditory Aura Status
+Cephalic Aura Status
+Gustatory Aura Status
+Psychic Aura Status
+Autonomic Aura Status
+Convulsion
+Atypical Dialeptic Seizure
+Typical Dialeptic Seizure
+Catamenial Seizure
+Photosensitive Seizure
+Cephalic Aura
+Olfactory Aura
+Gustatory Aura
+Autonomic Aura
+Abdominal Aura
+Psychic Aura
+Auditory Aura
+Visual Aura
+Somatosensory Aura
+Smell
+Hearing
+Vision
+Sight
+Visual Acuity Decreased
+Touch
+Coldness
+Stiff Feeling
+Sense Of Movement
+Tingling
+Light-Headedness
+Numbness
+Sore
+Electric Shock Sensation
+Pins And Needles Sensation
+Crawling
+Desire To Move
+Paresthesia
+Hot Flashes
+Borborygmi
+Belching
+Bowel Movement Involuntary
+Anticipation
+Selection
+Monitoring Of Consequences
+Initiation Of Motor Activity
+Dreamy State
+Depersonalization
+Detachment
+Distortion Of Time Sense
+Sensation Of Unreality
+Disorientation
+Delirium
+Stupor
+Confused
+Lethargic
+Coma
+Unresponsiveness
+Loss Of Awareness
+Awareness
+Responsiveness
+Somnolence Drowsiness
+Falling Asleep
+Drowsiness Somnolence
+Stupor
+Relaxed
+Stressed
+Alert
+Single Tone
+Noise
+Drumming Sounds
+Buzz
+Music Tone
+Rushing Noise
+Odor
+Heautoscopy
+Sweet Taste Hallucination
+Sour Taste Hallucination
+Salty Taste Hallucination
+Acidic Taste Hallucination
+Metallic Taste Hallucination
+Bitter Taste Hallucination
+Umami Taste Hallucination
+Weight Change Sensation
+Absent Body Part
+Spatial Disorientation
+Asomatognosia
+Size Distortion
+Monocular Diplopia
+Object Distortion
+Object Spatial Inclination
+Distance Change
+Micropsia
+Macropsia
+Unpleasant Odor
+Metallic Taste Illusion
+Salivation
+Swallowing
+Retropulsion Walking Backwards
+Walking Backwards Retropulsion
+Aimless Walking
+Flexion
+Nods
+Lightning
+Jerk
+Extension
+Face Contraction
+Myotonic Contraction
+Myoclonic Contraction
+Cry
+Pallilalia
+Moan
+Vocalization
+Grunting
+Speech Slowed
+Speech Interrupted
+Speech Arrest
+Tooth Grinding
+Lip Smacking
+Sucking
+Licking
+Pursing
+Saccadic Eye Movement
+Eyelid Flutter
+Closed Eyes
+Conjugate Eye Movement
+Eye Blinking
+Oculogyric Deviation
+Open Eyes
+Oculoclonic Deviation
+Palpebral Jerks
+Swimming Eyes
+Turning
+Twisting
+Contraversive Movement
+Adversive Movement
+Balance
+Loss Of Balance
+3Hz
+6Hz
+1-3Hz
+4-5Hz
+4-7Hz
+3Hz
+6Hz
+1-3Hz
+7-11Hz
+4-5Hz
+4-7Hz
+Sleep Spindle
+Sharp Wave
+Spike Wave
+Diurnal Cycle
+Circadian Cycle
+Spread Destination
+Spread Termination
+Brodmann Area 6
+Rolandic Area
+Central Sulcus
+Visual Field
+Septal Area
+Amygdala
+Prefrontal Area
+Hippocampal Formation
+Parahippocampal Gyrus
+Orbital Area
+Cingulate Gyrus
+Fingers
+Toes
+Hand
+Foot
+Psychosis
+Todd s Paralysis Bravais Phenomenon
+Hemilateral Semiology
+Simple Partial Seizure With Motor Sign
+Typical Absence Seizure
+Atypical Absence Seizure
+Hemiclonic Seizure
+Generalized Tonic-Clonic Seizure 
+Grand Mal Seizure
+Grand Mal Seizure 
+Generalized Tonic-Clonic Seizure
+Negative Myoclonic Status
+Hypomotor Status
+Aphasic Status
+Atonic Status
+Astatic Status
+Akinetic Status
+Hypermotor Status
+Gelastic Status
+Tonic Status
+Myoclonic Status
+Epileptic Spasm Status
+Clonic Status
+Hypermotor Seizure
+Gelastic Seizure
+Astatic Seizure
+Hypomotor Seizure
+Negative Myoclonic Seizure
+Aphasic Seizure
+Atonic Seizure
+Akinetic Seizure
+Myoclonic Seizure
+Epileptic Spasm
+Tonic Seizure
+Sweet Taste
+Sour Taste
+Umami Taste
+Salty Taste
+Bitter Taste
+Metallic Taste Illusion
+Sweet Taste Hallucination
+Sour Taste Hallucination
+Salty Taste Hallucination
+Acidic Taste Hallucination
+Metallic Taste Hallucination
+Bitter Taste Hallucination
+Umami Taste Hallucination
+Unpleasant Odor
+Odor
+Single Tone
+Noise
+Drumming Sounds
+Buzz
+Music Tone
+Rushing Noise
+Monocular Diplopia
+Object Distortion
+Object Spatial Inclination
+Distance Change
+Micropsia
+Macropsia
+Heautoscopy
+Migraine Headache
+General Headache
+Burning Pain
+Shooting Pain
+Dull Pain
+Severe Pain
+Sharp Pain
+Vague Pain
+Weight Change Sensation
+Absent Body Part
+Spatial Disorientation
+Asomatognosia
+Size Distortion
+Choking
+Emptiness
+Rising Feeling
+Nausea
+Tightness
+Abnormal Epigastric Emptiness Feeling
+Sinking Feeling
+Butterflies Feeling
+Epigastric Malaise
+Churning Feeling
+Epigastric Pain
+Epigastric Emptiness
+Hunger
+Decreased Abdominal Peristalsis
+Increased Abdominal Peristalsis
+Complete Amnesia
+Retrograde Amnesia
+Anterograde Amnesia
+Partial Amnesia
+Jamais-Entendu
+Memory Of
+Deja-Entendu
+Familiarity Distortion
+Distortion Of Time Sense In Memory
+Flashback
+Deja Vu
+Panoramic Vision
+Jamais Vu
+Decreased Responsiveness
+Sleep Onset REM
+Falling In Space
+Rotational Horizontal
+Rotational Vertical
+Floating
+Simple Visual Patterns
+Spots
+Flickering Light
+Flashes
+Phosphenes
+Sparks
+Scotoma
+Amaurosis
+Hemianopsia
+Distortion
+Elongation
+Foreshortening
+Macroaccusia
+Microaccusia
+Chewing
+Biting
+Mastication
+Extensor Spasm
+Mixed Spasm
+Flexor Spasm
+Motor Dysphasia
+Upward Eye Rotation
+Vertical Occular Oscillation
+Horizontal Occular Oscillation
+Horizontal Deviation Of The Eyes
+Rapid Eye Movement Horizontal
+Rapid Eye Movement Vertical
+Rotatory
+Arching
+Salaam Posturing
+Decerebrate Posturing
+Decorticate Posturing
+Leaning
+Fencing
+Rigid
+Secondary Generalization
+Secondary Bilateral Synchrony
+Upper Prerolandic Area
+Lower Prerolandic Area
+Brodmann Area 4
+Dorsomedial Nuclei
+Anterior Nuclei
+Retrograde Amnesia
+Anterograde Amnesia
+Gestural Automotor Status
+Verbal Automotor Status
+Vocal Automotor Status
+Dysphasic Automotor Status
+Hypokinetic Automotor Status
+Hyperkinetic Automotor Status
+Mimetic Automotor Status
+Oroalimentary Automotor Status
+Dyspraxic Automotor Status
+Dacrystic Automotor Status
+Manual Or Pedal Automotor Status
+Spontaneous Automotor Status
+Interactive Automotor Status
+Dystonic Status
+Versive Status
+Grand Mal Status Generalized Tonic-Clonic Status
+Generalized Tonic-Clonic Status Grand Mal Status
+Verbal Automotor Seizure
+Interactive Automotor Seizure
+Mimetic Automotor Seizure
+Hypokinetic Automotor Seizure
+Dysphasic Automotor Seizure
+Manual Or Pedal Automotor Seizure
+Gestural Automotor Seizure
+Dacrystic Automotor Seizure
+Vocal Automotor Seizure
+Spontaneous Automotor Seizure
+Oroalimentary Automotor Seizure
+Hyperkinetic Automotor Seizure
+Dyspraxic Automotor Seizure
+Hemiclonic Seizure
+Generalized Tonic-Clonic Seizure Grand Mal Seizure
+Grand Mal Seizure Generalized Tonic-Clonic Seizure
+Dystonic Seizure
+Versive Seizure
+Macroaccusia
+Microaccusia
+Scotoma
+Amaurosis
+Hemianopsia
+Distortion
+Elongation
+Foreshortening
+Simple Visual Patterns
+Spots
+Flickering Light
+Flashes
+Phosphenes
+Sparks
+Falling In Space
+Rotational Horizontal
+Rotational Vertical
+Floating
+Stage 1 Sleep
+Stage 2 Sleep
+Stage 4 Sleep
+Stage 3 Sleep

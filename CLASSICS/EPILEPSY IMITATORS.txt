@@ -1,0 +1,286 @@
+EPILEPSY IMITATORS
+
+1.OVERVIEW
+2.SYNCOPE AND ANOXIC SEIZURES
+	a.Vasovagal syncope
+	b.Reflex anoxic seizures
+	c.Breath-holding attacks
+	d.Hyperventilation syncope
+	e.Compulsive valsalva
+	f.Neurological syncope
+	g.Imposed upper airways obstruction
+	h.Orthostatic intolerance
+	i.Long QT and cardiac syncope
+	j.Hyper-cyanotic spells
+3.BEHAVIORAL, PSYCHOLOGICAL AND PSYCHIATRIC DISORDERS
+	a.Daydreaming /inattention
+	b.Infantile gratification
+	c.Eidetic imagery
+	d.Tantrums and rage reactions
+	e.Out of body experiences
+	f.Panic attacks
+	g.Dissociative states
+	h.Non-epileptic seizures
+	i.Hallucinations in psychiatric disorders
+	j.Fabricated / factitious illness
+4.SLEEP RELATED CONDITIONS
+	a.Sleep related rhythmic movement disorders
+	b.Hypnogogic jerks
+	c.Parasomnias
+	d.REM sleep disorders
+	e.Benign neonatal sleep myoclonus
+	f.Periodic leg movements
+	g.Narcolepsy-cataplexy
+5.PAROXYSMAL MOVEMENT DISORDERS
+	a.Tics
+	b.Stereotypies
+	c.Paroxysmal kinesigenic dyskinesia
+	d.Paroxysmal nonkinesigenic dyskinesia
+	e.Paroxysmal exercise induced dyskinesia
+	f.Benign paroxysmal tonic upgaze
+	g.Episodic ataxias
+	h.Alternating hemiplegia
+	i.Hyperekplexia
+	j.Opsoclonus-myoclonus syndrome
+6.MIGRAINE ASSOCIATED DISORDERS
+	a.Migraine with visual aura
+	b.Familial hemiplegic migraine
+	c.Benign paroxysmal torticollis
+	d.Benign paroxysmal vertigo
+	e.Cyclical vomiting
+7.MISCELLANEOUS EVENTS
+	a.Benign myoclonus of infancy and shuddering attacks
+	b.Jitteriness
+	c.Sandifer syndrome
+	d.Non-epileptic head drops
+	e.Spasmus nutans
+	f.Raised intracranial pressure
+	g.Paroxysmal extreme pain disorder
+	h.Spinal myoclonus
+
+
+OVERVIEW
+
+There are a range of conditions associated with recurrent paroxysmal events that may imitate and be misdiagnosed as epilepsies, these are presented in this section of EpilepsyDiagnosis.org with reference to the epilepsies that they may imitate and important discriminating features. It is important that these disorders are considered in the evaluation of paroxysmal events as misdiagnosis rates in epilepsy are high throughout the world. History remains the key to a correct diagnosis with video recordings very helpful. There are some conditions in which epileptic and non-epileptic events can co-exist.
+
+SYNCOPE AND ANOXIC SEIZURES
+
+Syncope (fainting) describes the transient loss of consciousness, which occurs when there is an abrupt reduction in blood flow and oxygen supply to the brain. An anoxic seizure is the collapse, stiffening with or without convulsive movements that occurs as a result of the lack of cortical control of the brainstem. The movements are not due to epileptic discharges. Syncope is common, with the neurally mediated syncopes (vaso-vagal syncope, reflex anoxic seizures, breath holding attacks) having a lifetime prevalence of 40%.
+
+Vasovagal syncope
+
+Vasovagal syncope affects all ages from infancy to old age though younger children may present initially with reflex anoxic seizures. A detailed history will usually identify triggers including prolonged standing, dehydration, change in posture and emotional upset. The setting and stimulus, for example hair brushing or blow drying after a bath, venepuncture in a doctor's surgery or standing up in a place of worship are important. There is reduced blood pressure and slowing of the heart rate causing lack of blood flow to the brain. Early symptoms include blurring and loss of vision, ringing in the ears and dizziness. Pallor and autonomic symptoms such as flushing, sweating, feeling warm, nausea and abdominal discomfort may occur. The fall in a vasovagal syncope may be flaccid with a loss of tone but many people, possibly up to 50%, fall with hips and knees extended with some moaning or growling as they fall. Visual hallucinations and dreamlike experiences may occur but unlike epileptic seizures these are not stereotyped. Stiffening and convulsive movements occur in at least 50% of syncopes. These are brief, lasting seconds, and can be distinguished from tonic seizures and generalized convulsive seizures due to the shorter duration, triggers, associated symptoms and recovery. The convulsive movements are typically not rhythmic. Post episode confusion is typically very brief after syncope whereas confusion greater >10 minutes suggests an epileptic seizure. Injury can occur in syncope, as can tongue biting (this is often at the tip of the tongue; whereas lateral tongue biting suggests a convulsive seizure). Urinary incontinence is common in syncope. A family history of vasovagal syncope is common. A family history of sudden death, drowning or events triggered by exercise or fright are important clues to a cardiac syncope. Interictal EEG is not of any diagnostic or prognostic value for syncope. Tilt table testing, which may trigger syncope, may have some value in special situations, for example if someone has a wrong diagnosis of epilepsy and confirmation that the diagnosis is syncope is required.
+
+Reflex anoxic seizures
+
+Reflex anoxic seizures or reflex asystolic syncope occurs from early infancy onwards, either remitting pre-school age or evolving into vasovagal syncope. Alternative names include pallid breath holding and pallid syncope. In these events an unpleasant, typically sudden stimulus such as a bump, knock on the head, cut or abrasion leads to a profound vagal discharge with a dramatic drop in the heart rate and transient asystole. These events are not due to temper tantrums. The child may cry very briefly or let out a couple of grunts and then becomes exceedingly pale and loses consciousness. Decerebrate posturing with extensor stiffening may mimic a tonic seizure and be followed by flexor spasms and irregular convulsive movements however the whole sequence of abnormal movements will just last a few seconds. Recovery of consciousness may be rapid but some children may sleep for hours after an event. The events appear very frightening for carers but have a good prognosis. When reflex anoxic seizures are very frequent, atropine or cardiac pacing may be considered. There is an uncommon situation in which an anoxic seizure may trigger a secondary prolonged convulsive seizure; the anoxic-epileptic seizure. The two phases of the event can be distinguished by a careful history, as in most events infants will have syncope without the epileptic component.
+
+Breath-holding attacks
+
+Breath-holding attacks typically affect pre-school children. The child will begin crying after some form of upset and then stop breathing in expiration with what appears a silent cry or a series of expiratory grunts. With this prolonged expiratory apnoea the child's face becomes blue with deep cyanosis. They may recover at this point and breathe in, or go on to a syncope with transient loss of consciousness. An anoxic seizure identical to that seen in reflex anoxic seizures may occur. Decerebrate posturing with extensor stiffening may mimic a tonic seizure and be followed by flexor spasms and irregular convulsive movements however the whole sequence of abnormal movements will just last a few seconds. Recovery of consciousness may be rapid but some children may sleep for hours after an event. The events appear very frightening for carers but have a good prognosis. In contrast to reflex anoxic seizures there is no asystole, and it is thought the syncope is due to a combination of intrapulmonary shunting, reduced venous return and hypoxia. The attacks are more common if the child has iron deficiency anaemia. There can be clinical overlap between breath-holding and reflex anoxic seizures and distinguishing them is not critical except for the very rare situation when reflex anoxic seizures are so frequent that treatment is considered.
+
+Hyperventilation syncope
+
+Hyperventilation syncope is a transient loss of consciousness with or without an anoxic seizure triggered by hyperventilation.
+
+Compulsive valsalva
+
+Compulsive valsalva can cause frequent syncope in people with learning disability, particularly those with autism. Individuals learn that through hyperventilation, followed by breath holding and a valsalva manoeuvre they can self-induce a syncope. It is presumed that this produces a pleasurable sensation. These children may also have epileptic seizures, a particular example being Rett syndrome. Video is invaluable in making the diagnosis.
+
+Neurological syncope
+
+Neurological causes of syncope include Chiari malformation, hyperekplexia (startle disease) and paroxysmal extreme pain disorder. With a Chiari malformation, coughing and straining on the toilet may trigger a transient loss of consciousness similar to a syncope. The exact mechanism is uncertain but increased downward herniation of the brain may compress the vertebro-basilar arteries and cranial nerves IX and X. A history of chronic headache and sensory symptoms associated with the collapse should lead to consideration of neuroimaging as decompression surgery can be curative.
+
+Imposed upper airways obstruction
+
+Imposed upper airways obstruction (suffocation) is a rare but important cause of life-threatening syncope in infants. The events always occur in the presence of a particular individual with others never seeing the beginning of an event. The syncope takes longer to evolve than in reflex anoxic seizures or breath holding. This is one form of fabricated or induced illness.
+
+Orthostatic intolerance
+
+Orthostatic intolerance may result in syncope with changes in posture. Chronic orthostatic intolerance / the postural orthostatic tachycardia syndrome (POTS) in adolescents and adults can produce symptoms of light-headedness, dizziness, blurred vision, sweating, headache and nausea.
+
+Long QT and cardiac syncope
+
+Long QT and cardiac syncope are important to recognise as they may be life threatening. In long QT syndrome a ventricular tachyarrhythmia may be spontaneous or triggered by fright, exercise, surprise, and immersion in water. Syncope in sleep, a strong family history of syncope and a history of sudden death or drowning should raise suspicions of a cardiac syncope. Sensorineural deafness is associated with some types of long QT syndrome. A standard 12 lead ECG may be normal and a strong suspicion should lead to cardiology referral as treatment may be life-saving.
+
+Hyper-cyanotic spells
+
+Hyper-cyanotic spells are most frequently seen in infants with Tetralogy of Fallot (known as 'tet spells'), however can be seen in other congenital cardiac defects with pulmonary or subpulmonary stenosis and a ventriculoseptal defect and in pulmonary hypertension. Spells may be precipitated by tachypnea or tachycardia and by dehydration. Spells may be characterized by crying, panic, rapid deep breathing, deepening cyanosis, limpness and subsequently a convulsive episode. It is important that hyper-cyanotic spells are recognized as failure to manage these events correctly can lead to prolonged hypoxia and death.
+
+BEHAVIORAL, PSYCHOLOGICAL AND PSYCHIATRIC DISORDERS
+
+Daydreaming /inattention
+
+Daydreaming /inattention is common in childhood and events are frequently misdiagnosed as absence seizures. Daydreams are often situational (seen more frequently at times when the child is tired or relaxed or bored) and are longer than absences. Daydreams manifest as the child staring forward blankly, whilst motionless and not responding to those around them. There is usually no loss of body tone in a daydream and eyelid flickering does not occur. A daydream may be aborted by measures to attract the child's attention from the daydream, whereas a child cannot be distracted out of an absence seizure. Broadly stereotyped motor behaviors may accompany the daydream, particularly in children with learning disability and autistic features. Daydreams are often more pronounced in children with attention and learning difficulties.
+
+Self-gratification
+
+Self-gratification or self-stimulation includes behavior which may be seen from infancy onwards, more so in pre-school girls. Rhythmic hip flexion and adduction may be accompanied by a distant expression, a flushed face and sometimes followed by sleepiness. The distant expression, sometimes associated with straining and head turning, may be confused with focal dyscognitive seizures. The diagnosis is more difficult when the infant or young child seems unhappy during or after the rhythmic movements. The relative frequency of events and occurrence in specific circumstances, such as when bored or in a car seat or high chair, lends this behavior to home video recording. Self-gratification or self-stimulation rather than terms such as masturbation are preferred by parents and better reflect the mechanism.
+
+Eidetic imagery
+
+Eidetic imagery or childhood preoccupation is an activity engaged in by some children who are able to enjoy bringing vivid visual images into their mind (eidetic imagery) allowing them to play and interact in an imaginary visual world. Children may appear to stare into space or have un-vocalized speech with imaginary individuals and perhaps seem to twitch or move one or more limbs for several minutes at a time as they interact with the imaginary environment. These events may occur in the middle of the night and can be misdiagnosed as focal seizures, however in eidetic imagery / childhood preoccupation the events are longer with more complex interactions than seen in epileptic events. There is no post-ictal state and with effort a child can be distracted out of the event. They may be angry at the adult for disturbing their imaginary world.
+
+Tantrums and rage reactions
+
+Tantrums and rage reactions are almost never part of an epileptic seizure. Tantrums are common in young children and are usually easy to distinguish from an epileptic seizure. Rage reactions, episodic dyscontrol or intermittent explosive disorder describe situations in which there are recurrent episodes of rage which seem to be out of proportion to relatively minor stimuli. Sustained outbursts of aggression may occur for many minutes, sometimes for up to half an hour or longer. There may screaming, swearing, aggression, damage to property and physical violence. Through the event it may seem that the individual is not normally responsive. Individuals often report no memory for an event afterwards, and may express remorse for their actions. Rage reactions are usually much longer and are only very broadly stereotyped when compared to focal seizures. A rage reaction, when closely analysed is likely to include a series of complex directed motor tasks, which would be exceptionally rare for an epileptic seizure. Aggressive or violent behaviors in an epileptic seizure are very rare, and if seen are typically confused and non-directed actions.
+
+Out of body experiences
+
+Out of body experiences are described in childhood and adulthood. In the episodes a person appears to lose immediate contact with their bodies and may see himself or herself from above. Such hallucinations have been described in epileptic seizures, anoxic seizures, migraine and as a 'normal' phenomenon.
+
+Panic attacks
+
+Panic or anxiety attacks are brief episodes, each lasting several minutes, which can recur. A sudden feeling of apprehension, fear or terror is accompanied by symptoms including breathlessness (with hyperventilation), choking sensation, palpitations, chest pain, paraesthesia (typically perioral and in the hands), dizziness, sweating, trembling and feeling faint or loss of consciousness. It may not be easy to identify a precipitant. Fear may be a manifestation of focal seizures therefore ictal EEG may be required to make a correct diagnosis.
+
+Dissociative states
+
+Dissociation is a psychological state that may vary in severity from mild detachment from immediate surroundings to more severe detachment and apparent unresponsiveness. In mild cases, dissociation can be regarded as a coping mechanism in seeking minimize or tolerate stress, conflict or boredom. If a coping response to stress, the dissociative state may be preceded by a phase where anxiety symptoms (e.g. hyperventilation) are apparent. More severe dissociative states are seen in dissociative disorders and may include depersonalization and amnesia. Dissociative disorders are sometimes triggered by traumatic experience, but may be preceded by only minor stress or there may be no apparent trigger.
+
+Non-epileptic seizures
+
+Non-epileptic seizures (previously known as non-epileptic attacks, psychogenic seizures and pseudoseizures) resemble epileptic seizures, but have no electrophysiological correlate or clinical evidence for epilepsy. The etiology of non-epileptic seizures is heterogeneous, with different predisposing, precipitating and promoting factors in different affected individuals. Psychogenic factors may promote the emergence of non-epileptic seizures, but psychogenic factors may not be able to be identified in all cases. The seizure-like event may have motor features or dyscognitive features that imitate epileptic seizures. Motor features that distinguish these attacks from seizures include a prominence of proximal or truncal movements, waxing and waning pattern of movements, variable rate and direction of jerking, horizontal movements of the head, crying during or after the event, and eye closure with resistance to passive eye opening. Diagnosing non-epileptic seizures is important because of the potential serious side effects of anti-seizure medications and associated procedures for treating epilepsy such as intubation and ventilation. The failure to recognize the psychological factors contributing to these events also delays implementation of appropriate psychological treatment. Video EEG monitoring and concomitant psychological evaluation is typically required to establish the diagnosis and the treatment plan.
+
+Hallucinations in psychiatric disorders
+
+Hallucinations in psychiatric disorders are commonly complex phenomena involving multiple sensory modalities, in contrast to the elementary sensory hallucinations (colours/flashes of light, ringing/buzzing sounds etc) that occur in focal epileptic seizures. Complex hallucinations with hallucinations of seeing people or scenes, hearing voices or formed music and distortions of visual perception may occur as an uncommon manifestation of focal seizures. The episodic nature of these phenomena, together with the presence of other features of a seizure and the interval return to a normal baseline helps distinguish these events from psychiatric hallucinations.
+
+Fabricated / factitious illness
+
+Fabricated / factitious illness may be presented as epilepsy and may be misdiagnosed as such because of the reliance on truthful accounts of witnesses to make a clinical diagnosis of epilepsy. If the witness is making up a story this may not be easily apparent to the clinician. There may be complex psychological, psychosocial and family reasons behind this illness behaviour or it may simply be because the diagnosis of epilepsy may lead to financial benefits. The illness behaviour may be on the part of an adult who presents themselves as having seizures or a carer who presents their child as affected. Factitious illness may be suspected if there are aspects of the clinical history that seem inconsistent with an epilepsy diagnosis, if the seizures have only been witnessed by one individual, if frequent seizures are accompanied by normal EEG (including prolonged studies) and if seizures remain refractory on history to medication however there is no evidence of behavioural or cognitive comorbidity in the child.
+
+SLEEP RELATED CONDITIONS
+
+Sleep related rhythmic movement disorders
+
+Sleep related rhythmic movement disorders include body rocking, rolling and head banging. These are usually benign exaggerations of presumed self-comforting movements or habits that many infants demonstrate in sleep wake transition as they fall asleep. Sometimes these events can be accompanied by noise, which disturbs the rest of the family. If they purely occur at sleep wake transition then good regular habits around sleep can be enough to result in resolution of events. If events occur in older children and are seen repeatedly through the night, frontal lobe seizures should be considered. Review of videos of the events is the most useful investigation. An EEG is likely to be unhelpful unless the EEG is acquired during an event and with video.
+
+Hypnogogic jerks
+
+Sleep starts or hypnic or hypnogogic jerks are normal phenomena experienced by the majority of children and adults at sleep onset, to variable degrees. They are more common in children with motor and developmental disorders and are occasionally presented as potentially epileptic events if they are repetitive or if the child has epileptic seizures at other times. Repetitive sleep starts can cause recurrent wakening. They may be mistaken for myoclonic seizures or epileptic spasms.
+
+Parasomnias
+
+Arousal parasomnias including night terrors, sleep walking and confusional arousals are behaviors that arise out of deep non-REM sleep (stages 3 & 4), typically in the first third of the nights sleep. Arousal parasomnias are common and can be regarded as part of normal sleep unless the behavior produces disruption to the individual or their family. An arousal can vary from sitting up in bed and making a few minor vocalisations and then lying down again to a night terror in which the individual rouses, may walk, talk, appear to be agitated or frightened, shout and scream and fail to recognize family members. These events may be misdiagnosed as temporal lobe seizures however confusional arousals and night terrors are typically longer and are only broadly stereotyped. The individual throughout this behavior is still sleeping with slow waves seen on the EEG. Arousal parasomnias tend to occur more at times of anxiety and psychological stress. There is typically no recollection of the arousal, however dramatic it is. There is often a family history suggesting a genetic predisposition. If arousals are occurring more than once a night or every night then the differential of nocturnal frontal lobe seizures should be considered. Video, including the onset of the event, is usually the most useful investigation as ictal EEG is often obscured by movement artefact and deep frontal lobe discharges may not be visible on surface EEG (the ictal EEG may be normal). Video of multiple events will reveal the stereotyped nature of epileptic seizures. History from the individual may reveal retained awareness during the event in frontal lobe seizures.
+
+Parasomnias vs frontal lobe seizures:
+
+Frontal lobe seizures are usually brief events (< 2 minutes), with stereotyped features seen from seizure to seizure and preserved awareness. Parasomnias are usually longer in duration (> 10 minutes), have variable features from event to event and are characterized by a confusional state with the patient having no memory of the event afterwards.
+In parasomnias, clustering is rare and the common non-REM parasomnias typically occur 1-2 hours after falling asleep, in the first cycle of deep slow wave sleep. Nocturnal frontal lobe seizures typically occur throughout the night, and more frequently within half an hour of falling asleep or awakening.
+REM sleep disorders
+
+REM sleep disorders occur when the physiological REM atonia of dreaming sleep does not occur normally, causing individuals to act out the motor movements of their dreams. Kicking, running, shouting and even more complex movements can occur. As this behavior arises out of REM sleep, it is more common in the last third of sleep time and the individual will recall the event. The events will only be broadly stereotyped if an individual has similar dreams every night. Distinguishing these events from frontal lobe seizures should be possible with a detailed history however video EEG may be required. REM behavior disorder may be associated with neurodegenerative conditions in the elderly and brainstem lesions in younger age groups, therefore detailed neurological assessment is warranted.
+
+Benign neonatal sleep myoclonus
+
+Benign neonatal sleep myoclonus is a normal sleep phenomenon which can be very frequent in some infants leading to misdiagnosis as myoclonic seizures or generalised convulsive seizures. The movements may begin in the neonatal period and be observed for many months and sometimes years. The myoclonus only occurs in sleep and the infants have a normal neurological examination, with normal feeding and behavior. Benign neonatal sleep myoclonus can be identified reliably on parental home video. Video is usually easily obtained as events are frequent, at predictable times and prolonged (often occurring over 30 minutes or so). An EEG is not required. On video, myoclonus is seen to affect all limbs and close observation reveals that there may be synchronous myoclonus of upper limbs, of lower limbs or all limbs. Sometimes one arm or one leg may be affected. The face is only exceptionally affected. The myoclonus occurs in brief flurries lasting a second or so with pauses of variable duration. The myoclonus also varies in amplitude. Waking the child abolishes the movements. A dramatically exaggerated form of sleep myoclonus is seen in infants of opiate-dependent mothers. The differential diagnosis for benign neonatal sleep myoclonus is myoclonic seizures, however neonates with myoclonic seizures would be expected to have a severe early onset epilepsy, with associated neurological deficits - such neonates would not be expected to feed and behave normally.
+
+Periodic leg movements
+
+Periodic leg movements in sleep are more common with advancing age but can occur in adults and children and may be associated with restless legs syndrome. The movements occur principally in stage 1 and 2 of non REM sleep and are characteristically repetitive stereotyped flexion of toes, ankles, knees and hips though sometimes the upper limbs may also flex. This may be unpleasant for the sleeping partner and can cause the affected individual to rouse. Strong jerks of the legs may be mistaken for myoclonic seizures. In restless legs syndrome there is an urge to move the legs due to an uncomfortable / unpleasant sensation. There is frequently a family history of restless legs. As well as genetic factors other etiologies which should be considered include iron deficiency (particularly in association with renal disease), magnesium and folate deficiency. A sleep study with polysomnograpphy including EMG to measure frequency of movements and effect on arousal may be required. Periodic leg movements and restless legs may respond to medication.
+
+Narcolepsy-cataplexy
+
+Narcolepsy-cataplexy is a lifelong neurological disorder of state boundary control in which the distinctions between sleep states, particularly REM sleep, and wakening are blurred. Onset is typically in the teenage years though it can occur in younger children and begin later in life. It is thought to be an acquired disorder with an autoimmune mechanism in individuals with a genetic predisposition. There is a very strong HLA association, evidence of reduced levels of a neuropeptide called orexin in CSF as well as post mortem evidence of damage to orexin producing neurons in the hypothalamus. Diagnosis is often delayed for several years and misdiagnosis with epilepsy can occur for several reasons. The condition is characterised by excessive daytime sleepiness, cataplexy (loss of tone in response to strong emotion), hypnagogic hallucinations, sleep paralysis and disturbed night time sleep. Cataplexy comprises a sudden onset of physiological REM atonia associated with a strong emotion, particularly laughter. This may cause a head drop, sagging of facial features, buckling of knees and a fall. All or some of these may occur in an event. The individual remains conscious, though the eyes may close, and through a degree of motor control try not to fall. This may give the appearance of repetitive jerks. The falls and head drops may be misdiagnosed as myoclonic seizures, the sagging of the face and lack of response may lead to a diagnosis of absence seizures. Attacks of sleep or the desire to sleep may lead to a variable level of responsiveness and a misdiagnosis of focal dyscognitive seizures may be made. The hypnagogic hallucinations, dreamlike often frightening visions in the awake state may be misdiagnosed as focal dyscognitive seizures. A good sleep history and if possible video of cataplexy can be sufficient to make a secure diagnosis but most individuals would require further evaluation including polysomnography, multiple sleep latency testing, HLA status and in selected cases CSF orexin estimation. Any association with learning disability or abnormalities on neurological examination should make the clinician consider Niemann Pick Type C, a brainstem lesion or Coffin Lowry syndrome.
+
+PAROXYSMAL MOVEMENT DISORDERS
+
+Tics
+
+Tics are involuntary, sudden, rapid, repetitive, non-rhythmic, simple or complex movements or vocalizations. Simple motor tics involve a single muscle or group of muscles (including ocular muscles) and may be misdiagnosed as myoclonic seizures. Complex motor tics involve a cluster of simple actions or coordinated sequence of movements that may be purposeful or non-purposeful and may be misdiagnosed as focal dyscognitive seizures, particularly in individuals with learning disability and / or communication problems. Tics are common in childhood and have a tendency to wax and wane in frequency over time. An urge or compulsion to perform the tic, and an ability to suppress the tic (to some degree) are important features on history that support the events being tics.
+
+Stereotypies
+
+Stereotypies (or mannerisms) are repetitive movements, postures, or utterances that may be simple (such as body rocking, head banging) or complex (such as finger movements or wrist flexion/extension). They may be primary (seen in otherwise normal individuals) or secondary (associated with autism, intellectual impairment and other disorders). Stereotypies can be distinguished from epileptic automatisms by the characteristic movements (a video of events can be helpful to aid diagnosis). Epileptic automatisms typically occur in a child who has altered awareness and responsiveness and other features of a focal epileptic seizure (e.g. temporal lobe seizure) would be expected to co-exist.
+
+Paroxysmal kinesigenic dyskinesia
+
+Paroxysmal kinesigenic dyskinesia is a hyperkinetic movement disorder characterised by brief (less than 1 minute) attacks of abnormal movements triggered by a sudden normal movement. The triggering movements are typically whole body movements and can include standing up from sitting or getting out of a car. Some individuals describe a feeling prior to the abnormal movement. This may be described as a "rush" through the body or a feeling of tightness or numbness. The abnormal movements are usually dystonic in nature, though they can appear choreiform, and can affect limbs on one or both sides of the body. Paroxysmal kinesigenic dyskinesia can be sporadic or familial, inherited in an autosomal dominant fashion, and may co-exist with epilepsy in the syndrome of familial infantile epilepsy (familial infantile epilepsy and paroxysmal kinesigenic dyskinesia syndrome, also known as ICCA syndrome). The movement disorder typically has its onset in mid-childhood or adolescence and may remit in the third decade. Paroxysmal kinesigenic dyskinesia with or without associated epilepsy is associated with mutations in the PRRT2 gene. Attacks may mimic frontal lobe seizures however movement as a trigger is the key differentiating feature in the history. Paroxysmal kinesigenic dyskinesia can respond dramatically to low dose carbamazepine.
+
+Paroxysmal nonkinesigenic dyskinesia
+
+Paroxysmal nonkinesigenic dyskinesia is a hyperkinetic movement disorder characterised by mixed dystonia, choreoathetosis and dysarthria which last from a few minutes to several hours. The attacks may be triggered by emotional stress, alcohol or coffee. Attacks typically start in infancy or early childhood and can be inherited in an autosomal dominant manner associated with mutations in the myofibrillogenesis (MR-1) gene. The retained awareness and history of triggers should prevent misdiagnosis as focal seizures.
+
+Paroxysmal exercise induced dyskinesia
+
+Paroxysmal exercise induced dyskinesia represents a genetically heterogenous group of conditions in which dystonia or choreoathetosis are triggered by exercise. It may be inherited in an autosomal dominant manner or present as a sporadic case. Attacks may last several minutes to half an hour and more frequently affect the lower than upper limbs. This is one of the many phenotypes associated with glucose transporter 1 (GLUT1) deficiency which is typically caused by mutations in the SLC2A1 gene.
+
+Benign paroxysmal tonic upgaze
+
+Benign paroxysmal tonic upgaze presents in early infancy and is characterised by prolonged or intermittent upgaze which may last hours or days. Children may be ataxic during episodes and attacks occur more frequently during intercurrent illnesses. The attacks remit after a few years but can be associated with learning disability in a significant proportion of individuals.
+
+Episodic ataxias
+
+Episodic ataxias are rare autosomal dominant disorders divided into two major categories: episodic ataxia type 1 (EA1) and 2 (EA2) both of which are channelopathies in which a movement disorder and epilepsy may co-exist.
+
+EA1 is associated with mutations in a potassium ion channel gene KCNA1. Brief episodes of cerebellar ataxia lasting seconds or minutes are triggered by sudden movements, emotion or intercurrent illness. Onset is typically in mid childhood with attacks occurring throughout life, though frequency may vary significantly with long periods of remission. During the episodes the individual may have dysarthria, limb and gait ataxia and titubation (coarse tremor) of the head. The movements may appear dystonic or choreiform in some individuals therefore misdiagnosis as paroxysmal kinesigenic dyskinesia or focal seizures may occur. The potassium channel mutation also causes peripheral nerve hyperexcitability which results in continuous stimulation of muscles. This may give the appearance of subtle rippling of muscles (myokymia) seen best under the eyelids or as continuous side to side movements of the fingers seen when the hands are outstretched. With intercurrent illness, particularly vomiting illnesses, the continuous stimulation of muscles may cause generalised stiffness (neuromyotonia). This may also be seen independent of illness in early infancy, with apparent (non-fixed) flexion contractures of the limbs and fisting of hands which gradually lessens over the first year. About 10% of people with EA1 have epileptic seizures, these may be focal seizures which can evolve to a bilateral convulsion. These epileptic seizures are a manifestation of the ion channel mutation causing neuronal hyperexcitability.
+
+EA2 is characterised by periods of cerebellar ataxia lasting minutes to hours, which are triggered by physical and emotional stress. Gait and upper limb ataxia may be accompanied by dysarthria, nystagmus, vertigo, nausea and headache. EA2 can be distinguished from seizures by recognition of triggers, family history and retention of awareness during events. EA2 is associated with mutations in the calcium ion channel gene CACNA1A. Variants in this gene are associated with familial hemiplegic migraine and spinocerebellar ataxia type 6 and some phenotypic overlap with these disorders may occur. There may be gaze-evoked nystagmus in between episodes and over time vertical nystagmus may develop. As events are prolonged it should be possible to capture them on home video. Acetazolamide can be a very effective treatment.
+
+Alternating hemiplegia
+
+Alternating hemiplegia of childhood is a rare disorder, with onset in the first year of life, characterised by recurrent attacks of hemiplegia affecting either side of the body. There may be bilateral weakness from the onset of episodes or during the attacks. Attacks may last minutes to more than half an hour. Other signs include nystagmus, pallor, crying, eye deviation, autonomic symptoms and dystonic and tonic elements during the episodes, with choreoathetosis between episodes. Events may be mistaken for focal seizures or tonic seizures Parkinsonian features may develop over time. Events may be triggered by stress, water, certain foods and exercise. Sleep allows the symptoms in an episode to resolve, however they may return 10-20 minutes after waking. Affected infants have learning disability and abnormal motor development. A significant proportion of individuals will also have focal seizures. The vast majority of individuals (about 80%), have mutations in the ATP1A3 gene.
+
+Hyperekplexia
+
+Hyperekplexia is characterised by an exaggeration of the normal startle response and has several genetic associations (GLRA1, GPHN, GLRB, ARHGEF9 and SLC6A5) all linked to dysfunction of the inhibitory glycinergic pathway in the nervous system. Symptoms are evident from the neonatal period or early infancy. Infants are commonly hypertonic, with rigidity, rather than spasticity, which is relieved by sleep. In response to normal touch, noise or any unexpected stimulus they can startle excessively with flexion of the limbs and retraction of the head. A gentle tap using the tip of the examiner's finger on the tip of the individual's nose should trigger an excessive startle that does not habituate with repeated nose taps. The startle may be a rapid jerk or series of jerks, which can mimic a myoclonic, tonic or convulsive seizure. If an EEG is performed during an episode of stiffening, rhythmic muscle action potentials may be misdiagnosed as spikes. A severe startle response may be associated with apnoea and cyanosis. Severe attacks are particularly linked to SLC6A5 mutations and may be linked sudden infant death in this syndrome. Severe attacks can be aborted by flexing the trunk and neck of the child - the Vigevano manouvre. Clonazepam may be effective in reducing the startle and increased tone. The symptoms tend to resolve after infancy, but adults may have increased startle-induced falls and/or experience nocturnal muscle jerks. There are rarer subtypes of hyperekplexia associated with mutations in the gephyrin and collybistin genes in which epilepsy can co-exist. The onset of excessive startle in later childhood or adult life may be associated with development of autoantibodies to the glycine receptor.
+
+Opsoclonus-myoclonus syndrome
+
+Opsoclonus-myoclonus syndrome is an autoimmune neurological disorder that may be seen in association with neuroblastoma, following viral infections or may be of known cause. The earliest feature is often ataxia followed by opsoclonus (multidirectional, erratic, darting eye movements). Myoclonus is a mixture of small- and larger-amplitude muscle jerks, giving rise to a tremulous appearance. Myoclonus is primarily action-induced, but in severe cases is present at rest. The eye movement abnormality and myoclonus may initially be thought to be epileptic, however the pattern of eye movements allows them to be distinguished from eye movements seen in typical absence seizures.
+
+MIGRAINE ASSOCIATED DISORDERS
+
+Migraine with visual aura
+
+Migraine with aura and its variants are very common and it is well established that migraine and epilepsy often co-exist as co-morbid disorders. The visual aura of migraine preceding a headache can take a variety of forms but is typically in one visual field and contains positive phenomena such as flashes, arcs of lights (fortification spectra), specks, or flames and negative phenomena such as scotoma with blanking out or greying of the visual field. Visual phenomena of occipital seizures are more likely to be coloured and can include a variety of different shapes including diamonds, squares, circles and lines. More complex sensory illusions or perceptions that may or may not precede a headache include the feeling that a body part or parts, such as the hands, have grown dramatically or shrunk or that everything in the environment is louder. These may be misdiagnosed as a seizure, but are more likely to be a feature of the Alice in Wonderland syndrome, considered a migraine variant.
+
+Familial hemiplegic migraine
+
+Familial hemiplegic migraine is a subtype of migraine with aura in which focal weakness +/- speech disturbance, visual symptoms and paraesthesia develop prior to the onset of headache. Confusion and, in rare severe cases, coma may accompany weakness. The sequence of symptoms and the familial nature should prevent misdiagnosis as focal seizures, though sporadic cases due to presumed de novo mutations occur. Mutations in three genes CACNA1A, ATP1A2 and SCN1A are associated with familial hemiplegic migraine. Severe attacks may be triggered by trauma and intercurrent illness. Phenotypic overlap with episodic ataxia type 2 may occur.
+
+Benign paroxysmal torticollis
+
+Benign paroxysmal torticollis is considered a migraine variant of infancy and early childhood. Attacks of retro-, lateral or torticollis may last minutes to hours. The infant may have associated pallor, vomiting and appear distressed. Older children may have ataxia. In later childhood affected individuals may develop migraine. Rare cases have been associated with mutations in the CACNA1A gene.
+
+Benign paroxysmal vertigo
+
+Benign paroxysmal vertigo is considered a migraine variant of childhood and is characterized by a subjective experience described by the child of the world spinning (vertigo). Affected children may appear anxious and will want to stop moving, hold onto an adult or lie down. The episodes last minutes to, less commonly, hours and may be accompanied by vomiting and nystagmus. They may follow on from benign paroxysmal torticollis and may evolve into migraine. Attacks may mimic focal seizures.
+
+Cyclical vomiting
+
+Cyclical vomiting is characterized by stereotyped periods of recurrent vomiting which may last hours to days and may be separated by weeks during which the individual has no symptoms. It is considered a migraine variant as there is often a family history of migraine headache, though the pathophysiology is not well understood. Usually no trigger to a particular episode can be defined. Recurrent vomiting may produce physiological disturbance but awareness should not be impaired and the attacks are longer than expected in focal seizures. Episodes may begin in early childhood and evolve into abdominal migraine and then to classic migraine with headache. If the vomiting persists into adult life it remains paroxysmal but may be less cyclical in nature.
+
+MISCELLANEOUS EVENTS
+
+Benign myoclonus of infancy and shuddering attacks
+
+Benign myoclonus of infancy and shuddering attacks are both benign (self limiting) variants of normal behaviour in infants and may be related conditions with differing durations of attacks. These attacks typically have onset from 4 months of age and can persist up to the age of 6-7 years, with a remitting and relapsing course. Attacks can be very frequent and can last a few seconds in duration. Attacks can be triggered by certain activities such as feeding, head movements or certain tasks. The events may be a form of self-stimulation and are most likely to occur in the high chair or car seat. In these events children have a brief bilateral jerk or more sustained shudder (vibratory tonic flexion of head and trunk), sometimes associated with a change in facial expression and flexion of the upper limbs. The events do not cause the child any distress and they return to their previous activity with no impairment of awareness during the episode. They may be misdiagnosed as myoclonic seizures (as in the syndrome of myoclonic epilepsy in infancy). Shuddering attacks are also known as benign non-epileptic spasms. A video recording of events is the most useful investigation.
+
+Jitteriness
+
+Jitteriness is common in the newborn period, commonly occurring in an otherwise well-appearing infant on the first day of life as a transient, self-limiting finding. Medical causes of jitteriness may include hypocalcemia and neonatal abstinence syndrome. Jitteriness can be distinguished from epileptic seizures as it can be increased when the infant is unwrapped, stimulated, startled or crying, but suppresses when the infant is wrapped or the affected limb is held gently.
+
+Sandifer syndrome
+
+This syndrome is seen in young children with gastro-oesophageal reflux (with or without vomiting). Events are often seen with or after feeding. Typically there is arching of the back, dystonic posturing of the limbs and turning/tilting of the head. The events may be frequent. The arching of the back and the trigger of events during or after feeding are key features that distinguish this disorder from epileptic seizures. Early treatment of the gastro-oesophageal reflux results in resolution of symptoms.
+
+Non-epileptic head drops
+
+Non-epileptic head drops can occur in infants and may mimic epileptic spasms or atonic seizures. Infants typically experience frequent (more than a hundred) events per day, the head drop can be intense, may occur in a series (resulting in head bobbing) and may be accompanied by crying. The fall of the head (flexion of the neck) and rise of the head occur at the same velocity unlike in an epileptic seizure where the fall of the head is typically more rapid than the rise of the head. Non-epileptic head drops begin between age 3 - 6 months, and resolve by 12 months. Infants develop normally.
+
+Spasmus nutans
+
+This disorder of eye movement is seen in infants, typically with onset between 4 and 12 months of age. The cause is unknown; neuroimaging is required to exclude structural brain abnormalities. Vertical eye movements occur, these are rapid and side-to-side. There may be a head tilt and head nodding. The events resolve with time.
+
+Raised intracranial pressure
+
+Raised intracranial pressure may cause decerebrate or decorticate posturing, which can be paroxysmal and mistaken for convulsive or tonic seizures. Affected individuals with raised intracranial pressure are expected to show signs of encephalopathy including alteration in conscious level (not improving in the minutes after the event, as one would expect in a post-ictal state), abnormalities of tone and reflexes and pupillary abnormality.
+
+Paroxysmal extreme pain disorder
+
+Paroxysmal extreme pain disorder is a rare genetic condition associated with mutations in the sodium ion channel gene SCN9A and is characterised by paroxysms of extreme pain. It was previously known as familial rectal pain syndrome. Symptoms begin in infancy, often on the first day of life, and may be life-long. Gain of function mutations in SCN9A result in abnormal pain transmission (loss of function mutations result in insensitivity to pain). Excruciating attacks of pain occur affecting the perineal area (buttocks, rectum, genitals), the mouth and jaw or the eyes. Triggers to events tend to reflect the distribution of the pain. Changing nappies, defecating or wiping the perineal area may trigger an episode of perineal pain. Eating may trigger pain in the mouth and a cold wind may trigger attacks in the eye. The pain is described as extreme and burning or stabbing. The episode is typically accompanied by autonomic features with flushing of the body, which may be harlequin-like, affecting one limb or one side of the face or body. The episodes may last from seconds to minutes, rarely they can be more prolonged. Events are most prominent in early infancy and in this age group bradycardia and asystole may accompany the attack, resulting in syncope and a non-epileptic anoxic seizure with tonic posturing. The events may be misdiagnosed as tonic seizures. Though rare this is an important diagnosis as it is extremely distressing for the individual affected symptoms may improve with treatment with carbamazepine.
+
+Spinal myoclonus
+
+Spinal myoclonus results in myoclonic jerks of the body that may not be modified by sleep or by voluntary action (therefore it may be present awake and asleep and at rest or during movement). Spinal segmental myoclonus is usually symptomatic of an underlying structural spinal lesion such as syringomyelia. It is confined to one or few contiguous myotomes and may occur irregularly or quasirhythmically, with a variable frequency. Propriospinal myoclonus is a form of spinal myoclonus where the axial muscles are recruited extensively along long propriospinal pathways. Typically, there are axial flexion jerks involving the neck, trunk and hips with a frequency of 1-6 Hz. Propriospinal myoclonus typically occurs spontaneously, especially in the recumbent position, or may be provoked by tapping of the abdomen or by eliciting tendon reflexes. As opposed to segmental myoclonus, most patients with propriospinal myoclonus have no clear etiology, although psychogenic forms are increasingly recognized. Brainstem myoclonus, although also axial in distribution, can be distinguished from propriospinal myoclonus as there is involvement of the face and myoclonus may be triggered by auditory stimuli.

@@ -1,0 +1,2435 @@
+EPILEPSY SYNDROMES
+Whilst conceptualizing epilepsies by their underlying etiology is very important, epilepsies may also be organized (by reliably identified common clinical and electrical characteristics) into epilepsy syndromes. Such syndromes have a typical age of seizure onset, specific seizure types and EEG characteristics and often other features which when taken together allow the specific epilepsy syndrome diagnosis. The identification of an epilepsy syndrome is useful as it provides information on which underlying etiologies should be considered and which anti-seizure medication(s) might be most useful. Several epilepsy syndromes demonstrate seizure aggravation with particular anti-seizure medications, which can be avoided through appropriate early diagnosis of the epilepsy syndrome.
+
+
+
+
+NEONATAL/INFANTILE
+
+SELF-LIMITED NEONATAL SEIZURES AND SELF-LIMITED FAMILIAL NEONATAL EPILEPSY
+Clinical Overview
+OVERVIEW
+
+Self-limited neonatal seizures and familial neonatal epilepsy may have similar clinical and electrical features, but can be distinguished on the basis of family history. These entities may have similar genetic etiologies, with de novo mutations responsible for the lack of family history in self-limited neonatal seizures.
+
+Seizures start in the neonate between day 4 and 7 of life and are often unilateral clonic events that recur and may alternate sides from seizure to seizure. Seizures can be repetitive over hours to days. Seizures remit by 4-6 months of age. A proportion of those affected may have seizures in later life. The child is expected to have normal developmental progress.
+
+Clinical context
+
+These syndromes typically have onset between days 4 and 7 of life. If children are born prematurely, seizures may occur within days of being at term, by corrected age. Seizures remit by 4-6 months of age, the majority ceasing by 6 weeks of age. Both sexes are affected equally. Pregnancy and birth history is unremarkable. Head size and neurological examination are normal. Developmental progress is expected to be normal although minor learning difficulties have been reported in some patients. Studies report an increased risk of febrile and afebrile seizures in later life. Some neonates with KCNQ2 mutations may have myokymia (continuous muscle activity causing stiffness and subtle twitching).
+
+NOTE The neonatal period is defined as the period from birth to 28 days of life.
+
+NOTE Some cases have seizure onset just outside of the neonatal period (in the first 2 months of life), and the syndrome in this case is called self-limited familial neonatal-infantile epilepsy.
+
+Seizures
+Mandatory seizures
+
+Seizures with hemiclonic features affecting face and limbs occur, and can alternate sides from seizures to seizure. Seizures may evolve with tonic features, vocalization, autonomic features and/or automatisms. Bilateral convulsions may also occur. Seizures are brief (up to 3 minutes in duration). Apnoea and cyanosis commonly accompany seizures (seen in one third of seizures). Clusters of individually brief seizures may occur over hours or days, with the child behaving normally between seizures.
+
+EEG
+Background
+
+The EEG background may show a discontinuous pattern or may be normal.
+
+Interictal
+
+The interictal EEG may show a theta pointu alternant pattern (seen in half of cases) or there may be focal or multi-focal epileptiform abnormalities. The interictal EEG is normal in around 10% of cases. The theta pointu alternant pattern may continue for up to two weeks after cessation of seizures.
+
+NOTE A theta pointu alternant pattern consists of runs of theta activity intermixed with sharp waves, seen in awake and asleep states, that often alternates sides and does not change in response to various stimuli.
+
+CAUTION A theta pointu alternant pattern is not specific for this syndrome (it can be seen in neonatal seizures due to a range of other causes).
+
+Activation
+
+The EEG abnormality may be enhanced in sleep.
+
+Ictal
+
+Rhythmic spikes or slow waves are seen with ictal events. These may be focal (mainly seen in the centro-temporal regions, although other focal areas may be affected) or generalized. Subclinical ictal discharges can continue for long periods after the clinical seizure.
+
+Imaging
+Imaging
+
+Neuroimaging is normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Autosomal dominant inheritance patterns are seen (sometimes with incomplete penetrance) in self-limited familial neonatal epilepsy. Self-limited neonatal seizures may be due to similar genetic etiologies to self-limited familial neonatal epilepsy, but occurring in a de novo fashion.
+
+KNOWN GENES
+
+Mutations in KCNQ2 are the most common genetic etiology for these syndromes, with mutations in KCNQ3 also reported. Rarely a chromosome 15 inversion affecting the p15q11 area has been reported.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of neonatal, neonatal-infantile or infantile seizures is required for self-limited familial neonatal epilepsy. No family history of these epilepsies is found in self-limited neonatal seizures.
+
+Differential diagnoses
+
+	Benign neonatal sleep myoclonus
+	Neonatal seizures due to acute causes e.g. bleed, infection, hypoglycemia
+
+
+SELF LIMITED FAMILIAL AND NON-FAMILIAL INFANTILE EPILEPSY
+Clinical Overview
+OVERVIEW
+
+Familial (and non-familial) infantile epilepsy, formerly called benign familial (and non-familial) infantile seizures, is a syndrome characterized by the onset of seizures in the infantile period. Seizures are often frequent and intractable at onset but spontaneously resolve. The child is expected to have normal developmental progress. Familial and non-familial forms of infantile epilepsy are identical except for the presence of a family history. Familial cases show autosomal dominant inheritance and have genetic etiologies in common with self-limited familial neonatal and self-limited familial neonatal-infantile epilepsies, thus these epilepsy syndromes are likely related disorders.
+
+Clinical context
+
+This syndrome is characterized by the onset of seizures between 3 and 20 months of age (peak 6 months). Antecedent, birth and neonatal history is typically normal. Head size and neurological examination are normal. Seizures may be frequent at onset but usually remit within 1 year from the onset. In untreated cases there can be isolated or brief clusters of seizures within the period from onset to remission. A minority of individuals may have epilepsy in later life. Some patients (with PRRT2 mutations) may develop paroxysmal kinesiogenic dyskinesia in later life.
+
+CAUTION Developmental delay or regression right arrow consider other infantile epilepsy syndromes.
+
+Seizures
+Mandatory seizures
+
+Focal seizures occur with behavioral arrest, decreased responsiveness, vacant expression, automatisms, eye and head deviation and clonic movements (often alternating from one side to the other and sometimes progressing to hemiclonic or bilateral convulsions). Seizures are brief (<3 minutes) but frequent e.g. 5-10 per day over 1-3 days at onset. One third of patients present with a single isolated seizures 10-15 days before frequent seizures commence. Longer seizures (3-6 minutes in duration) can occur at onsetand in familial cases. Seizures abate but may recur after 1-3 months in a third of patients.
+
+CAUTION Prolonged focal or hemiclonic seizures (>10 minutes) are not seen in this syndrome right arrow consider Dravet syndrome.
+
+EEG
+Background
+
+The background EEG is normal. Focal slowing may occur but should not be persistent in one area.
+
+CAUTION Diffuse slowing of the EEG background right arrow consider other epilepsy syndromes.
+
+CAUTION Persistent focal slowing in one area right arrow consider structural brain abnormality.
+
+Interictal
+
+Interictal EEG is typically normal.
+
+CAUTION Focal spikes shifting from one region to another in sequential EEGs right arrow consider epilepsy of infancy with migrating focal seizures.
+
+Activation
+
+A variant with midline spikes during slow sleep has been described.
+
+Ictal
+
+Seizures are accompanied by focal discharges and may spread to both hemispheres, if this occurs the ictal discharge often ends in the contralateral hemisphere to the side of seizure onset. The seizure onset may vary from lobe to lobe or from hemisphere to hemisphere in different seizures in the same patient.
+
+Imaging
+Imaging
+
+Neuroimaging is normal. If the electroclinical diagnosis is clear and there is a family history, neuroimaging is not mandatory.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Autosomal dominant inheritance with high penetrance.
+
+KNOWN GENES
+
+There are a number of gene mutations associated with this syndrome including mutations in PRRT2 (accounts for >90% of cases), SCN2A, KCNQ2 and KCNQ3. SCN2A mutations also occur in self-limited familial neonatal-infantile epilepsy and KCNQ2 and KCNQ3 mutations also occur in self-limited familial neonatal epilepsy
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of neonatal or infantile seizures is present in familial cases.
+
+Differential diagnoses
+	Self-limited familial neonatal-infantile epilepsy: the distinction is made largely on age at presentation.
+	Infantile seizures due to acute causes e.g. bleed, infection, hypoglycemia
+
+
+
+EARLY MYOCLONIC ENCEPHALOPATHY
+Clinical Overview
+Overview
+
+Early myoclonic encephalopathy is a syndrome characterized by frequent intractable seizures and severe early encephalopathy resulting in limited development and reduced life expectancy. Myoclonic seizures are frequent, distinguishing this syndrome from Ohtahara syndrome. Treatable metabolic etiologies (especially pyridoxine and pyridoxal-5-phosphate disorders) should be excluded early.
+
+NOTE Early myoclonic encephalopathy is considered an 'epileptic encephalopathy'. This term denotes the concept that the epileptic activity itself might directly contribute additional cognitive and behavioral impairments over those expected from the underlying etiology alone, and that suppression of epileptic activity might minimize this additional impairment.
+
+Clinical context
+
+This syndrome is characterized by onset of seizures in the first two month of life (more than half of cases have onset of seizures by 10 days of life). Both sexes are affected equally. Antecedent and birth history is typically normal. Neurological examination is abnormal in keeping with the presence of severe neurological impairment. Abnormal neurological behavior may be present prior to onset of seizures. Head size is typically normal at onset; microcephaly may develop over time. Severe developmental delay is seen with or without regression.
+
+Causes:
+
+There is overlap in the etiologies that cause Ohtahara syndrome and early myoclonic encephalopathy.
+
+Metabolic etiologies are common (non-ketotic hyperglyinemia is the commonest cause, amino and organic acidopathies, urea cycle disorders, mitochondrial disorders, pyridoxine and pyridoxal-5-phosphate disorders, molybdemum cofactor deficiency, sulfite oxidase deficiency, Menke syndrome, Zellweger syndrome and other disorders are also seen)
+Structural brain abnormalities are rare
+Genetic causes (e.g. ErbB4)
+
+Seizures
+Mandatory seizures
+
+All patients have frequent (near-continous), fragmentary erratic myoclonus. This migrates from body part to body part in an asynchronous, asymmetric, random pattern. The face and limbs are commonly affected, and the myoclonus can be highly localized e.g. to a finger, toe, eyelid, or lip.
+
+May have
+After onset of the myoclonus,focal seizures and later epileptic spasms or tonic seizures may occur. Focal seizures re often subtle and may be accompanied by toniceye deviation and autonomic features (such as apnoea or facial flushing). Massive, usually bisynchronous, axial myoclonic jerks may occur.                                                     
+EEG
+
+Background/Interictal EEG
+
+The background EEG is abnormal in all states, with a suppression-burst pattern. High voltage bursts (150-300uV) of spikes or sharp and slow waves, lasting 1-5 seconds are seen with inter-burst intervals of 3-10 seconds.
+
+The EEG may evolve to a hypsarrhythmia pattern in children who evolve to have West syndrome or to a pattern of multifocal spikes and sharp waves at 3-4 months of age.
+
+Ictal
+
+Erratic myoclonus usually does not have an ictal EEG pattern but may follow bursts on the EEG. Focal seizures are associated with focal ictal discharges, often superimposed on the suppression-burst background.
+
+Imaging
+Imaging
+
+Neuroimaging findings depend on the underlying cause. Imaging is often normal at onset, over time cerebral atrophy commonly develops.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+The condition is usually sporadic, but this depends on the underlying etiology as metabolic disorders may be inherited in Mendelian fashion.
+
+KNOWN GENES
+
+Genetic etiologies are recognized (e.g. ErbB4).
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+Family history of seizures or epilepsy is usually not present. A positive family history should trigger a search for a genetic or metabolic etiology.
+
+Differential diagnoses
+	Ohtahara syndrome
+
+
+
+OHTAHARA SYNDROME
+Clinical Overview
+
+Overview
+
+Ohtahara syndrome (also known as early infantile epileptic encephalopathy, EIEE) is a syndrome characterized by frequent intractable seizures and severe early encephalopathy resulting in limited development and reduced life expectancy. Tonic seizures predominate, myoclonic seizures are uncommon, distinguishing this syndrome from early myoclonic encephalopathy. Treatable metabolic etiologies (especially pyridoxine and pyridoxal-5-phosphate disorders) should be excluded early.
+
+NOTE Ohtahara syndrome is considered an 'epileptic encephalopathy'. This term denotes the concept that the epileptic activity itself might directly contribute additional cognitive and behavioral impairments over those expected from the underlying etiology alone, and that suppression of epileptic activity might minimize this additional impairment.
+
+Clinical context
+
+This syndrome has onset in the first month of life (range 1-3 months). Both sexes are affected equally. Antecedent and birth history is typically normal. Head size is typically normal, however microcephaly may occur. Neurological examination is abnormal in keeping with underlying structural brain abnormalities and the presence of severe neurological impairment. Abnormal neurological behavior may be present prior to onset of seizures. Severe developmental delay is seen, with or without regression. Children with this syndrome may evolve to have West or Lennox Gastaut syndrome.
+
+Causes:
+
+There is overlap in the etiologies that cause Ohtahara syndrome and early myoclonic encephalopathy.
+
+Structural brain etiologies
+Genetic etiologies (STXBP1, SLC25A22, CDKL5, ARX, SPTAN1, PCDH19, KCNQ2, SCN2A and others)
+Metabolic etiologies (mitochondrial disorders, non-ketotic hyperglyinemia, pyridoxine/pyridoxal-5-phosphate disorders, carnitine palmitoyl transferase deficiency and others)
+
+Seizures
+Mandatory seizures
+
+All patients have tonic seizures,often with a high daily frequency. Tonic seizures typically consist of forward tonic flexion lasting seconds (e.g. 10 seconds) that may be singular or in a series, symmetric or asymmetric. 
+
+May have
+
+Erratic focal clonic seizures, including hemiclonic seizures may also occur (seen in one third of cases). Generalized convulsive seizures and alternating hemiclonic seizures are less common, as are epileptic spasms and myoclonic seizures.
+
+EEG
+Background/Interictal EEG
+
+The background EEG is abnormal in all states, with a suppression-burst pattern. High voltage bursts (150-300uV) of spikes or sharp and slow waves, lasting 1-3 seconds are seen with inter-burst intervals of 3-5 seconds.
+
+The EEG may evolve to a hypsarrhythmia pattern in children who evolve to have West syndrome.
+
+Ictal
+
+With tonic seizures there is diffuse attenuation of the suppression-burst background pattern with emergence of low-voltage, high frequency activity. Focal ictal rhythms may be seen if there are focal motor seizures.
+
+Imaging
+Imaging
+
+Neuroimaging findings depend on the underlying cause.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+The commonest cause is structural brain abnormality, cases are therefore usually sporadic.
+
+KNOWN GENES
+
+Genetic etiologies include: STXBP1 (10-15% of cases), SLC25A22, CDKL5, ARX, SPTAN1, PCDH19, KCNQ2, SCN2A and others.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+Family history of seizures or epilepsy is usually not present. A positive family history should trigger a search for a genetic or metabolic etiology.
+
+Differential diagnoses
+
+	Early myoclonic encephalopathy
+	West syndrome
+
+
+
+WEST SYNDROME
+Clinical Overview
+Overview
+
+West syndrome is characterized by the onset of epileptic spasms, typically in the first year of life. Global developmental impairment (with or without regression) is typically seen.
+
+NOTE West syndrome may be associated with 'epileptic encephalopathy'. This term denotes the concept that the epileptic activity itself might directly contribute additional cognitive and behavioral impairments over those expected from the underlying etiology alone, and that suppression of epileptic activity might minimize this additional impairment.
+
+Clinical context
+
+This syndrome is characterized by onset of epileptic spasms between 3 and 12 months of age, although later onset may occur. Infants may have had no antecedent history, or the antecedent history may reflect the underlying cause e.g. acquired structural brain abnormality. In some cases, infants with Ohtahara syndrome or other early onset epilepsies (typically with focal seizures) may evolve to have clinical and EEG features of West syndrome after 3-4 months of age. Both sexes are affected, with a higher incidence in males. Head size and neurological examination may be normal or findings may reflect underlying brain abnormalities. Global developmental impairment (with or without regression) is typically seen at onset of epileptic spasms. Occasionally development may be normal and developmental trajectory continues as expected.
+
+Causes:
+
+Structural brain abnormalities are common and include developmental abnormalities and pre- or peri-natal acquired brain injuries (e.g. hypoxic-ischemic encephalopathy, cerebrovascular accidents, intracranial infection). Aicardi syndrome, lissencephaly and tuberous sclerosis are common (Woods lamp assessment of all infants is advisable).
+Chromosomal disorders associated with West syndrome include Down syndrome and Miller-Dieker syndrome.
+Gene abnormalities associated with West syndrome include ARX, CDKL5, SPTAN1, STXBP1.
+Metabolic etiologies are a rare but important cause
+
+Seizures
+Mandatory seizures
+
+Epileptic spasms are a mandatory seizure type, these usually occur in a series on awakening but may also occur in sleep. If spasms are asynchronous, asymmetric or unilateral this suggests seizure onset in a focal region of the brain.
+
+May have
+
+Focal seizures may occur, these may lead into a series of spasms, or may occur at the end of a series of spasms.
+
+EEG
+Background/Interictal EEG
+
+The background EEG is typically abnormal with high voltage irregular slowing.
+
+CAUTION The awake EEG may be normal early after onset of epileptic spasms. Abnormality may only be seen in sleep or on wakening.
+
+Interictal
+
+The background EEG is often highly disorganized with high voltage irregular slow waves intermixed with multifocal spikes and polyspikes, this is termed 'hypsarrhythmia'. Asymmetry and other patterns of modified hypsarrhythmia occur in one third of cases.
+
+eeg
+Example of hypsarrhythmia
+
+CAUTION Hypsarrhythmia may not be present early after the onset of epileptic spasms. The EEG may need to be repeated.
+
+Activation
+
+In the early period after onset of epileptic spasms the EEG may only be abnormal in sleep. EEG abnormality is enhanced by sleep and on wakening. REM sleep shows relative EEG normalization.
+
+Ictal
+
+Epileptic spasms are most commonly accompanied by a high voltage generalized sharp or slow wave followed by low amplitude fast activity and generalized voltage attenuation. This EEG pattern may be seen in sleep with or without clinical seizures.
+
+Imaging
+Imaging
+
+Neuroimaging is often abnormal as structural brain abnormalities are commonly seen, however imaging may also be normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+The majority of patients with West syndrome have structural brain abnormalities. A proportion of cases have a genetic etiology and inheritance pattern depends on the gene involved.
+
+KNOWN GENES
+
+Gene abnormalities associated with West syndrome include ARX, CDKL5, SPTAN1, STXBP1. Genetic etiologies are also recognized to underlie structural brain abnormalities, such as TSC1 and TSC2 in tuberous sclerosis.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+Family history of seizures or epilepsy is rare. The presence of a family history should lead to investigation for specific genetic or metabolic etiologies.
+
+Differential diagnoses
+
+	Ohtahara syndrome
+	Early myoclonic encephalopathy
+	Shuddering attacks
+
+
+
+DRAVET SYNDROME
+Clinical Overview
+Overview
+
+Dravet syndrome (previously known as severe myoclonic epilepsy of infancy, SMEI), typically presents in the first year of life in a normal child with prolonged, febrile and afebrile, focal (usually hemiclonic) or generalized convulsive seizures. Other seizure types including myoclonic (hyperlink) and atypical absence seizures (hyperlink) appear between the age of 1 and 4 years. Seizures are usually intractable and from the second year of life children demonstrate cognitive and behaviour impairments. The clinical diagnosis is supported by the presence of abnormalities in the sodium channel gene SCN1A (found in 75% of cases).
+
+NOTE the term Dravet syndrome is now also used to encompass atypical or borderline cases, previously known as severe myoclonic epilepsy of infancy - borderland (SMEB).
+
+NOTE Dravet syndrome may be considered an 'epileptic encephalopathy'. This term denotes the concept that the epileptic activity itself might directly contribute additional cognitive and behavioral impairments over those expected from the underlying etiology alone, and that suppression of epileptic activity might minimize this additional impairment.
+
+Clinical context
+
+This syndrome is characterized by onset of seizures typically around 6 months of age. Most have had seizure onset less than 15 months of age, however a small minority of cases have onset in the second year of life. Both sexes are affected. Antecedent, birth and neonatal history is normal. The first seizure is associated with a fever in about 60% of cases. Not all patients start with febrile convulsions. Immunization may be a non-specific trigger to the first seizure leading to an earlier age of seizure onset, but cases with onset with a vaccine proximate seizure have the same outcome as other children with Dravet syndrome. Sensitivity of seizures to fever may persist throughout life. Head size and neurological examination are usually normal initially, over time ataxia and pyramidal signs may develop. Development is typically normal in the first year of life, with plateauing or regression in later years.
+
+CAUTION Anti-seizure medications that have sodium channel blocking properties may aggravate seizures in this syndrome.
+
+CAUTION Tonic seizures and epileptic spasms are not expected, if present right arrow consider other epilepsy syndromes.
+
+Seizures
+Seizures and videos
+
+Mandatory seizures
+
+Focal and generalized seizure types occur in this syndrome. A clonic-tonic-clonic sequenceto the convulsive seizures may occur. Hemiclonic seizures are common. Hemiclonic seizures may involve different sides of the body in different seizures.
+
+May have
+
+	Atypical absence seizures
+	Myoclonic seizures
+	Atonic seizures
+	Non-convulsive status epilepticus
+
+One quarter of patients have seizures induced by visual stimuli.
+
+Exclusionary
+
+Epileptic spasmsarenot a seizure type seen in this syndrome.
+
+EEG
+Background
+
+The background EEG activity is typically normal in the first year of life. Post-ictal slowing may be seen initially, diffuse slowing may appear over time.
+
+Interictal
+
+By the second to fifth year of age, generalized spike-and-wave and multifocal discharges are seen.
+
+Activation
+
+Photic and pattern stimulation precipitate generalized spike-and-wave, with or without associated clinical events (atypical absence seizures and/or myoclonic seizures). Photosensitivity can be present in infancy and is seen at all ages. EEG abnormality is enhanced by sleep deprivation and by sleep.
+
+Ictal
+
+The ictal EEG varies according to the type of seizure, refer to seizure type for more detail.
+
+CAUTION The presence of diffuse electrodecremental patterns or paroxysmal fast activity are not seen right arrow consider Lennox Gastaut syndrome.
+
+Imaging
+Imaging
+
+Neuroimaging is usually normal at onset. Abnormalities may be found later in life in 10% of cases, including generalized atrophy or hippocampal sclerosis
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+In Dravet syndrome patients with SCN1A mutations, 95% are de novo and 5% are inherited. Carrier relatives are either unaffected or mildly affected with genetic epilepsy with febrile seizures plus phenotypes. Germline and somatic mosaicism have been reported.
+
+KNOWN GENES
+
+Approximately 75% of patients with Dravet syndrome have mutations or copy number variants in SCN1A. A small percentage of females with a Dravet syndrome-like phenotype have mutations in the PCDH19 gene. These females usually have clusters of seizures with fever as opposed to the prolonged status epilepticus with fever that occurs in SCN1A-related Dravet syndrome.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of epilepsy and/or febrile seizures is present in 30-50% of patients. In some children with Dravet syndrome, the family history is consistent with genetic epilepsy with febrile seizures plus.
+
+Differential diagnoses
+
+	Febrile seizures plus, genetic epilepsy with febrile seizures plus
+	Epilepsy with myoclonic-atonic seizures
+	Lennox-Gastaut syndrome
+
+
+
+MYOCLONIC EPILEPSY IN INFANCY
+Clinical Overview
+OVERVIEW
+
+This epilepsy syndrome is uncommon. Myoclonic seizures are the only seizure type seen at onset, although infrequent febrile seizures may also occur. Myoclonic seizures may be activated by photic stimulation in some patients, others may have myoclonic seizures that are induced by sudden noise or touch. Cognitive, behavioral and motor difficulties may exist. Seizures are self-limiting, ceasing within 6 months to 5 years from onset. Generalized convulsive seizures may be seen in later life.
+
+NOTE Self-limiting refers to seizures having a high likelihood of spontaneously remitting at a predictable age.
+
+Clinical context
+
+This syndrome is characterized by the onset of myoclonic seizures between the ages of 6 months and 2 years, in some cases earlier (4 months) or later (2-4 years) onset has been reported. Myoclonic seizures may be induced by photic stimulation in some patients, or by sudden noise or touch in others. Infrequent febrile seizures may be seen in approximately 10% of patients. Seizures remit within 6 months to 5 years from onset but generalized convulsions may be seen in teenage years in 10-20% of patients. Patients with photosensitivity may have seizures that are more difficult to control. Males are twice as likely to be affected as females. Antecedent and birth history is unremarkable. Head size and neurological examination are normal. Cognitive, motor and behavioral difficulties are reported, especially if seizures are not controlled.
+
+Seizures
+Mandatory seizures
+
+Myoclonic seizures are seen. These are mainly of the head (causing nodding), eyeballs (which roll upwards), upper extremities (causing the arms to fling up and out) and diaphragm (resulting in vocalization). Rarely the lower limbs are affected, causing falls. Jerks can be singular or occur in a series and may vary in severity. Responsiveness is preserved, however may be reduced if there are clusters of jerks in a series. Jerks may occur in all states (alert, drowsiness, slow sleep and on wakening).
+
+May have
+
+	Simple febrile convulsions (seen in 10%, infrequent)
+	Generalized convulsive seizures (seen in 10-20% of patientsin teens, infrequent)
+
+Exclusionary
+
+Other seizure types.
+
+EEG
+Background
+
+The background EEG is normal.
+
+Interictal
+
+The interictal EEG is normal.
+
+Activation
+
+Sleep may activate the EEG and generalized spike-and-wave and polyspike-and-wave may occur, with or without accompanying myoclonic jerks clinically. One fifth of patients have photosensitivity, with myoclonic jerks precipitated by photic stimulation. In 10% of patients myoclonic jerks may be activated by sudden noise or touch in either awake or sleep states.
+
+Ictal
+
+Myoclonic jerks are associated with generalized spike-and-wave or polyspike-and-wave discharges.
+
+Imaging
+Imaging
+
+Neuroimaging is normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Unknown, likely genetic.
+
+KNOWN GENES
+
+None known.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of febrile seizures or epilepsy is seen in one third of patients.
+
+Differential diagnoses
+
+	Dravet syndrome: myoclonic seizures are frequent, however typically occur in the second year of life and are preceded by a period of susceptibility to febrile convulsions.
+	Hypnogogic jerks
+	Hyperekplexia
+
+
+
+EPILEPSY OF INFANCY WITH MIGRATING FOCAL SEIZURES
+Clinical Overview
+OVERVIEW
+
+This syndrome is characterized by onset of refractory focal seizures in the first year of life, with associated severe encephalopathy. Focal seizures arise independently in both hemispheres and can migrate from one cortical region to another randomly but consecutively in the same seizure. Seizures are often prolonged with episodes of status epilepticus. Prognosis is poor with severe neurological disability and reduced life expectancy, although a milder evolution has been reported in a few children. The cause is unknown in most cases, but a few genes have been recently linked with this syndrome.
+
+NOTE Epilepsy of infancy with migrating focal seizures is considered an 'epileptic encephalopathy'. This term denotes the concept that the epileptic activity itself might directly contribute additional cognitive and behavioral impairments over those expected from the underlying etiology alone, and that suppression of epileptic activity might minimize this additional impairment.
+
+Clinical context
+
+This syndrome typically has onset in the first six months of life (mean 3 months), but later onset in the first year of life has been reported. Both sexes are equally affected. Antecedent and birth history is typically normal. Head size and neurological examination are usually normal at onset; neurological examination findings later are consistent with severe neurological impairment. Most patients develop microcephaly by 1 year of age. Development may be normal at onset, however regression and subsequent severe delay is typical. Prognosis is poor with ongoing intractable seizures, severe neurological disability and reduced life expectancy, although a milder evolution has been reported in a few children.
+
+Seizures
+Mandatory seizures
+
+Focal motor seizures occur and are initially sporadic but the frequency rapidly increases in the months after seizure onset. Focal clonic seizures are common (involving arms or eyelids), behavioral arrest with or without head and eye version may occur. Migration of a focal seizure with involvement of multiple independent cortical regions randomly but consecutively in the same single seizure or status epilepticus event is a mandatory criteria for this syndrome. Status epilepticus is common.
+
+May have
+
+Seizures with prominent autonomic features may occur.
+
+EEG
+Background
+
+The EEG background can be normal at onset, however diffuse slowing of the background occurs with time. If focal slow activity is present, this may migrate from one brain region to another.
+
+Interictal
+
+Multifocal discharges appear later in all cases.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and by sleep.
+
+Ictal
+
+The ictal EEG (the distribution of focal ictal patterns) should correlate with clinical features; and there should be involvement of multiple independent cortical regions randomly but consecutively in the same single seizure or status epilepticus event. Ictal discharges are typically rhythmic alpha or theta activities.
+
+Imaging
+Imaging
+
+Neuroimaging is normal at the outset, mild to moderate enlargement of subarachnoid and ventricular spaces, as well as mesial temporal sclerosis and cerebellar atrophy have been reported on follow up of some cases.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+No familial inheritance has been reported.
+
+KNOWN GENES
+
+A variety of genetic etiologies have been associated with this syndrome including gene abnormalities in KCNT1, SCN1A, SCN2A, PLCB1, TBC1D24 and CHD2.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+It is not typical to have a family history of epilepsy or febrile convulsions, however rare cases are reported where such a family history was present.
+
+Differential diagnoses
+
+	Dravet syndrome
+
+
+
+MYOCLONIC ENCEPHALOPATHY IN NON-PROGRESSIVE DISORDERS
+Clinical Overview
+Overview
+
+This group of epilepsies are characterized by repeated episodes of myoclonic status epilepticus that occur over prolonged periods (days). The majority of patients have an underlying chromosomal disorder, others have developmental or acquired structural brain abnormalities. The cause is unknown in one fifth of cases.
+
+Clinical context
+
+This group of epilepsies are typically is characterized by onset of seizures from day 1 of life to 5 years (peak 12 months). Both sexes are affected, however the male to female ratio is 1:2. Antecedent (including birth) history, head size, neurological and developmental findings reflect the underlying cause (if known). Myoclonic status epilepticus is often the initial presenting seizure type, however other initial seizure types may also occur. Prognosis is unfavorable with severe neurological and developmental impairments typically seen.
+
+Causes:
+
+	Chromosomal abnormalities (50% of cases - Angelman, Prader-Willi and Wolf Hirschorn syndromes, among others)
+	Gene abnormalities e.g. Rett syndrome
+	Structural brain abnormality (developmental or acquired)
+	Metabolic etiologies (e.g. non-ketotic hyperglycinemia)
+	Unknown (one fifth of cases)
+
+Seizures
+Mandatory seizures
+
+Recurrent periods of myoclonic status epilepticus (subcontinous myoclonic seizures interspersed with absence or myoclonic absence seizures) occur, with each episode lasting days-weeks. Myoclonic jerks involve the eyelids, face and limbs and areerratic (and maybe subtle in young infants). The child may have reduced responsiveness, drooling, reduced mobility and inco-ordination at these times. Negative myoclonic or atonic seizures typically co-exist resulting in head nodding, or falls.
+
+May have
+
+	Focal seizures with motor features
+	Massive myoclonias
+	Hemiclonic seizures (rare, during febrile illness)
+	Generalized convulsive seizures (rare, during febrile illness)
+
+EEG
+
+Background
+
+The background is typically abnormal with slow (theta-delta) activity seen, predominantly in the central or parieto-occipital regions.
+
+Interictal
+
+The interictal EEG shows multifocal continuous spikes, sharp waves, or continuous slow waves.
+
+Activation
+
+Spikes may be superimposed on parieto-occipital slow activities with eye closure.
+
+EEG abnormality persists in early sleep cycles, but in later sleep cycles in the night and in slow wave sleep, the abnormality improves and myoclonic jerks cease.
+
+Ictal
+
+Myoclonic jerks may not correlate with EEG findings or may be accompanied by diffuse or multifocal slow spike-and-wave discharges or by anterior-predominant rhythmic theta or delta activities.
+
+Imaging
+Imaging
+
+Neuroimaging findings depend on underlying cause. Structural or acquired brain abnormalities may be found.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Unknown.
+
+KNOWN GENES
+
+None known.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of seizures/epilepsy is found in one fifth of cases.
+
+Differential diagnoses
+
+	Early myoclonic encephalopathy
+	Myoclonic epilepsy in infancy
+	Epilepsy of infancy with migrating focal seizures
+	Dravet syndrome
+	Progressive myoclonus epilepsies
+	Hyperekplexia
+
+
+
+FEBRILE SEIZURES PLUS, GENETIC EPILEPSY WITH FEBRILE SEIZURES PLUS
+Clinical Overview
+Overview
+
+These epilepsy syndromes are characterized by the presence of febrile seizures in an individual that may continue past the usual age where these are expected to resolve and/or be accompanied by afebrile seizures that may be generalized or focal. Febrile seizures plus and genetic epilepsy with febrile seizures plus are distinguished on the basis of family history. A number of dominantly inherited genes have been linked to these syndromes, with implications for specific genetic counseling, due to the variable severity of the resulting epilepsy in different family members.
+
+Clinical context
+
+These syndromes typically have onset with febrile seizures between the ages of 6 months and 6 years. Febrile seizures are often multiple and may continue past 6 years of age, but typically are self-limiting and resolve by puberty. Afebrile seizures that may be generalized (convulsive, atonic, myoclonic, myoclonic-atonic or absence or focal may occur. Both sexes are affected equally. Antecedent and birth history is unremarkable. Head size and neurological examination are normal. Development is typically normal and no developmental impairments are expected.
+
+NOTE Self-limiting refers to there being a high likelihood of seizures spontaneously remitting at a predictable age.
+
+Seizures
+Mandatory seizures
+
+Febrile seizures, these are typically generalized convulsive seizures lasting 3-6 minutes although tonic, atonic, hemiclonic or focal motor seizures are seen infrequently. Febrile status epilepticus may occur.
+
+CAUTION If febrile seizures are prolonged or hemiclonic right arrow consider Dravet syndrome.
+
+May have
+
+	Atonic seizures
+	Myoclonic seizures
+	Typical absence seizures (when present these are infrequent)	
+	Myoclonic-atonic seizures (seen in 14%, if these are a major seizure type without prominent febrile seizures, then a diagnosis of epilepsy with myoclonic-atonic seizures may be more appropriate)
+	Focal seizures
+
+EEG
+
+Background
+
+The background EEG is normal.
+
+Interictal
+
+The interictal EEG is often normal, generalized spike-and-wave or fragments of generalized spike-and-wave may be seen.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and by sleep. Generalized spike-and-wave often becomes fragmented with sleep deprivation or in sleep. Fragmented generalized spike-and-wave can appear focal or multi-focal but usually is not consistently seen in one area. The morphology of the focal spike-and-wave typically appears similar to the generalized spike-and-wave.
+
+Ictal
+
+The ictal EEG varies with the seizure type occurring, refer to individual seizure types for more information.
+
+Imaging
+Imaging
+
+Neuroimaging is normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Inheritance in genetic epilepsy with febrile seizures plus is typically autosomal dominant with incomplete penetrance, although other inheritance patterns are recognized (see PCDH19 for example).
+
+KNOWN GENES
+
+A number of genes have been linked to this epilepsy syndrome including: SCN1A, SCN1B, GABARG2 and PCDH19.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+Family members in affected families may have febrile seizures, febrile seizures plus, genetic epilepsy with febrile seizures plus, however more severe syndromes (such as Dravet syndrome or epilepsy with myoclonic-atonic seizures) may occur due to common genetic etiologies for these different syndromes.
+
+Differential diagnoses
+
+	Dravet syndrome (evolution from febrile seizures to this syndrome may only be apparent with the emergence of compatible seizure types over time)
+	Epilepsy with myoclonic-atonic seizures
+
+
+
+
+CHILDHOOD
+
+EPILEPSY WITH MYOCLONIC-ATONIC SEIZURES
+Clinical Overview
+Overview
+
+Epilepsy with myoclonic-atonic seizures (previously known as epilepsy with myoclonic astatic seizures, or Doose syndrome) is a syndrome characterized by the presence of myoclonic-atonic seizures in an otherwise normal child who may have a history of febrile and/or afebrile seizures. There is often a family history of seizures.
+
+Clinical context
+
+This syndrome is characterized by seizures that have onset between 6 months and 6 years of age (peak 2 to 4 years). In two thirds of children febrile seizures and generalized convulsive seizures precede the onset of myoclonic-atonic and atonic seizures. Both sexes are affected, with a male predominance (ratio 2:1). Antecedent and birth history is unremarkable. Neurological examination and head size are normal. Development and cognition is typically normal, however impairments may develop at or after seizure onset.
+
+CAUTION Glucose transporter disorders should be excluded.
+
+NOTE Epilepsy with myoclonic-atonic seizures is considered an 'epileptic encephalopathy'. This term denotes the concept that the epileptic activity itself might directly contribute additional cognitive and behavioral impairments over those expected from the underlying etiology alone, and that suppression of epileptic activity might minimize this additional impairment.
+
+Seizures
+
+Mandatory seizures
+
+Myoclonic-atonic seizures are mandatory seizure types for this syndrome. Atonic and myoclonic seizures are frequent. Myoclonic-atonic status epilepticus is common.
+
+May have
+
+	Febrile seizures
+	Absence seizures - seen in half of patients, typically with myoclonic jerks, facial myoclonia and atonia (not just loss of awareness)
+	Atypical absence seizures
+	Tonic seizures are rare the presence of tonic seizures is linked to a higher frequency of cognotive impairment
+	Generalized convulsive seizures
+	Non-convulsive status epilepticus is common, lasting for hours to days and manifests as cognitive impairment with repetitive myoclonic (affecting face, eyelids and limbs) and atonic seizures.
+
+Exclusionary
+
+	Epileptic spasms
+	Focal seizures
+
+EEG
+
+Background
+
+The background may be normal or show generalized slowing. Background bi-parietal theta is usually seen.
+
+eeg
+Example of bi-parietal theta.
+
+CAUTION Focal slowing consistently over one area is not seen right arrow consider structural brain abnormality.
+
+Interictal
+
+Generalised spike-and-wave and polyspike-and-wave occur.
+
+CAUTION Focal discharges are not seen right arrow consider structural brain abnormality.
+
+Activation
+
+Intermittent photic stimulation may trigger generalized spike-and-wave and polyspike-and-wave, and myoclonic-atonic seizures.
+
+EEG abnormality is enhanced by sleep deprivation and by sleep. Generalized spike-and-wave often becomes fragmented with sleep deprivation or in sleep. Fragmented generalized spike-and-wave can appear focal or multi-focal but usually is not consistently seen in one area. The morphology of the focal spike-and-wave typically appears similar to the generalized spike-and-wave.
+
+Ictal
+
+The myoclonic component is associated with a generalized spike or polyspike. The atonic component is associated with the aftergoing high voltage slow wave.
+
+Imaging
+Imaging
+
+Neuroimaging is normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Complex (polygenic) inheritance with variable penetrance.
+
+KNOWN GENES
+
+A minority of cases may be explained by variants in SCN1A and SLC2A1.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+There is frequently a family history of febrile seizures (in 50% of cases); other seizures/epilepsy syndromes may also occur in families. Epilepsy with myoclonic-atonic seizures is seen in families with other individuals with genetic epilepsy with febrile seizures plus, suggesting common genetic etiological factors.
+
+Differential diagnoses
+
+	Atypical childhood epilepsy with centrotemporal spikes
+	Lennox-Gastaut syndrome
+	Dravet syndrome
+	Myoclonic epilepsy in infancy
+	Progressive myoclonus epilepsies
+
+
+
+EPILEPSY WITH EYELID MYOCLONIAS
+Clinical Overview
+Overview
+
+This syndrome (previously known as Jeavons syndrome) is characterized by daily eyelid myoclonias with or without absences induced by eye closure and visual stimulation, seen in an otherwise normal child.
+
+Clinical context
+
+This syndrome is characterized by onset of seizures between 2-14 years (peak 6-8 years). Both sexes are affected with a female predominance (2F:M). Antecedent and birth history is normal. Head size and neurological examination are normal. Development and cognition are typically normal although individuals with borderline intellectual functioning and intellectual disability are seen.
+
+Seizures
+Mandatory seizures
+
+Eyelid myoclonias occur, these are brief, repetitive, often rhytyhmic, fast (4-6 Hz) myoclonic jerks of the eyelids with simultaneous upward deviation of the eyeballs and extension of the head. Seizures are brief (<6 seconds) but frequent (multiple times a day) and resistant to treatment. Eyelid myoclonias are induced by eye closure. All patients are photosensitive, resulting in light induction of seizures in daily life e.g. on going into sunlight. eyelid myoclonic status epilepticus mayoccur )seen in up to one fifth of patients, repetitive and discontinous episodes of eyelid myoclonias with impairment of awareness and responsiveness).
+
+Eyelid myoclonias may or may not be associated with orfollowed by detectable impaired awareness and responsiveness (absences), if present such impaiment is usually mild.
+
+May have
+
+	Febrile seizures (seen in 10%)
+	Generalized convulsive seizures- these are infrequent and seen in older patients (often provokedby sleep deprivation, alcohol and visual stimulation)
+	Myoclonic seizures- uncommon, infrequent (some authors consider myoclonic seizures exclusionary)
+	Absence seizures- uncommon, infrequent
+
+EEG
+Background
+
+The EEG background is normal.
+
+CAUTION Background generalized slowing is not seen right arrow consider other syndromes.
+
+CAUTION Focal slowing seen consistently over one area right arrow consider structural brain abnormality.
+
+Interictal
+
+Brief bursts of fast (3-6 Hz) generalized polyspike-and-wave.
+
+CAUTION Focal spikes seen consistently in one area right arrow consider structural brain abnormality.
+
+CAUTION A normal EEG is not expected in this syndrome, even when seizures are controlled.
+
+Activation
+
+Eye closure (fixation off sensitivity) and intermittent photic stimulation activates the EEG and often elicits eyelid myoclonias with/without absences. Response to intermittent photic stimulation may be less in older patients and those on medication. EEG abnormality is also facilitated by hyperventilation.
+
+Generalized spike-and-wave often becomes briefer and fragmented with sleep deprivation or in sleep. Fragmented generalized spike-and-wave can appear focal or multi-focal but usually is not consistently seen in one area. The morphology of the focal spike-and-wave typically appears similar to the generalized spike-and-wave.
+
+Ictal
+
+Eyelid myoclonia is accompanied by high amplitude generalized spike-and-wave or polyspike-and-wave at a frequency of 3-6 Hz. Ictal EEG and clinical events are terminated with complete elimination of light.
+
+Imaging
+Imaging
+
+Neuroimaging is normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Complex (polygenic).
+
+KNOWN GENES
+
+There are no known genes, however this syndrome likely has shared genetic etiologies with other genetic generalized epilepsies.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of seizures or epilepsy is common (seen in 40-80%).
+
+Differential diagnoses
+The characteristic features of eyelid myoclonias, induced by eye closure and by photosensitivity, means that this syndrome is often easy to distinguish from other epilepsy syndromes.
+
+Differential diagnoses include:
+
+	Facial tics (often this syndrome is missed and patients are mistakenly thought to have facial tics)
+	Patients with other epilepsy syndromes with photosensitivity may self-induce (with eye closure) absence seizures with eyelid flutter.
+
+
+
+LENNOX GASTAUT SYNDROME
+Clinical Overview
+OVERVIEW
+
+This syndrome is characterized by the presence multiple types of intractable seizures (in particular tonic seizures in sleep, but atonic and atypical absence seizures also occur), cognitive and behavioral impairments and diffuse slow spike-and-wave and paroxysms of fast activity on EEG.
+
+NOTE Lennox Gastaut syndrome is considered an 'epileptic encephalopathy'. This term denotes the concept that the epileptic activity itself might directly contribute additional cognitive and behavioral impairments over those expected from the underlying etiology alone, and that suppression of epileptic activity might minimize this additional impairment.
+
+Clinical context
+
+This syndrome is characterized by onset of seizures from age 1 to 7 years (peak 3 to 5 years). Both sexes are affected. Antecedent, birth and neonatal history may be normal or there may be a history related to a structural brain abnormality (developmental or acquired). Neurological exam and head circumference may be normal or may reflect underlying structural brain abnormality. Development and cognition prior to presentation is usually abnormal, but occasionally onset may occur in an otherwise normally developing child. Subsequent developmental stagnation or regression is typical after the onset of seizures.
+
+Around 10-30% of cases of Lennox Gastaut syndrome evolve from earlier onset epilepsies, including West and Ohtahara syndromes. Occasionally there is a history of previous febrile seizures, focal seizures or generalized seizures.
+
+Causes:
+
+	Structural brain abnormalities (most common cause, 70% of cases)
+	Genetic etiologies (de novo mutations) are expected to account for many of the currently unexplained cases
+
+Seizures
+Mandatory seizures
+
+Tonic seizures from sleep (in slow wave sleep or on awakening) are the most characteristic seizure. These are brief (<10 seconds), and may be inconspicuous and therefore not identified onset. They may be predominantly truncal(with brief vocalization due to involvement of abdominal musculature) or extend to involve proximal and distal muscles (with arms elevating and flexing and legs either flexing or extending). There may be autonomic features inassociation. They can occur in a series. Tonic status epilepticus may occur.
+
+May have
+
+	Generalized convulsive seizures
+	Atypical absence seizures, these are seen in two thirds of patients, absence status epilepticus may occur
+	Atonic seizures, these are seen in half of patients and are typically brief, but often cause sudden falls with injury (especially to nose and teeth)
+	Myoclonic seizures, these are not a prominent seizure type, they are typically bilateral and symmetrical and involve proximal arm muscles
+	Myoclonic-atonic seizures
+	Non-convulsive status epilepticus is common (seen in half of patients), and can be of long duration (days to weeks), during which time all seizure types may increase in frequency
+	Focal seizures
+	Epileptic spasms
+
+	CAUTION If myoclonic seizures predominate right arrow consider Dravet syndrome (especially if prolonged hemiclonic seizures).
+	CAUTION If myoclonic-atonic seizures predominate right arrow consider epilepsy with myoclonic-atonic seizures
+	
+EEG
+Background
+
+The EEG background is abnormal in all cases from onset of seizures, with generalized or focal slowing.
+
+CAUTION If there is prominent bi-parietal rhythmic theta right arrow consider epilepsy with myoclonic-atonic seizures.
+
+Interictal
+
+There may be focal or multifocal spike-and-wave or sharp-slow waves, with an anterior predominance. Slow (<2.5 Hz) spike-and-wave and paroxysmal fast activity (10 Hz or greater) in slow sleep are mandatory requirements. Periods of suppression of the EEG may occur.
+
+CAUTION Fast spike-and-wave (3 Hz or higher) right arrow consider other epilepsy syndromes.
+
+CAUTION Continuous spike-and-wave during slow sleep right arrow consider epileptic encephalopathy with continuous spike-and-wave during sleep or Landau Kleffner syndrome.
+
+Activation
+
+Hyperventilation (if adequate co-operation) may facilitate spike-and-wave and atypical absences. Slow (<2.5Hz) spike-and-wave and paroxysmal fast activity are prominent in slow sleep. Focal and multifocal abnormalities seen in the awake state become bisynchronous in sleep.
+
+CAUTION If activation with intermittent photic stimulation right arrow consider epilepsy with myoclonic-atonic seizures.
+
+Ictal
+
+For ictal EEG patterns, refer to individual seizure types.
+
+Imaging
+Imaging
+
+Neuroimaging findings depend on the etiology, structural brain abnormalities are common.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Most cases without structural brain abnormality are sporadic, genetic etiology may still be possible but 'de novo' mutations are likely.
+
+KNOWN GENES
+
+No causative genes have yet been identified for cases without a structural brain abnormality.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of seizures or epilepsy is rare.
+
+Differential diagnoses
+
+	Dravet syndrome
+	Epilepsy with myoclonic-atonic seizures
+	Atypical childhood epilepsy with centrotemporal spikes
+	Epileptic encephalopathy with continuous spike-and-wave during sleep
+	Landau Kleffner syndrome
+
+
+
+CHILDHOOD ABSENCE EPILEPSY
+Clinical Overview
+OVERVIEW
+
+Childhood absence epilepsy is a genetic generalized epilepsy that should be considered in an otherwise normal child with multiple daily absence seizures associated with 2.5 - 3.5 Hz generalized spike-and-wave. Absence seizures are provoked by hyperventilation. Between 8 and 12 years of age the distinction between the clinical syndromes of juvenile absence epilepsy and childhood absence epilepsy depends on the frequency of absence seizures.
+
+NOTE A genetic generalized epilepsy is an epilepsy with generalized seizures associated with generalized epileptiform EEG patterns, such as generalized spike wave activity.
+
+Clinical context
+
+This syndrome is characterized by onset of frequent absence seizures between the ages of 2 to 12 years (peak 5-6 years). Both sexes are equally affected. Antecedent and birth history is normal. A previous history of febrile seizures may occur (seen in 15-20% of cases). Neurological examination and head size are normal. Development and cognition are typically normal. Attention deficit hyperactivity disorder and learning difficulty may occur. Seizures are typically self-limiting.
+
+NOTE Self-limiting means having a high likelihood of seizures spontaneously remitting at a predictable age.
+
+CAUTION Onset of absence seizures <4 years right arrow consider glucose transporter disorders.
+
+Seizures
+Mandatory seizures
+
+Absence seizures in childhood absence epilepsy are typically frequent (multiple daily) and brief (average 10 seconds). Awareness and responsiveness are usually severely impaired, but the child may be more responsive towards the end of the seizure.
+
+CAUTION Absence seizures longer than 45 seconds or with a post-ictal phase should not occur right arrow consider focal dyscognitive seizures e.g. due to structural brain abnormality.
+
+CAUTION The presence of awareness during absence seizures right arrow childhood absence epilepsy is unlikely, other syndromes with absence should be considered.
+
+CAUTION If onset or offset of absence is not abrupt or absences occur less than daily right arrow other syndromes with absences should be considered.
+
+May have
+
+Generalized convulsive seizures- seen occasionally, usually in adolescence, not in the early period after seizure onset.
+
+Exclusionary
+
+Any other seizure type is not expected in this syndrome.
+
+EEG
+Background
+
+The background is normal. Occipital intermittent rhythmic delta activity (OIRDA) may be seen in a third of children with childhood absence epilepsy, at a frequency of 2.5-4 Hz, and may have a notched appearance.
+
+CAUTION Focal slowing seen consistently in one area right arrow consider structural brain abnormality.
+
+CAUTION Generalized slowing is not seen.
+
+Interictal
+
+Generalized spike-and-wave, or fragments of generalized spike-and-wave are seen in the interictal EEG. These are brief (usually < 2 second) and most commonly seen in sleep.
+
+CAUTION Although focal spikes (as fragments of generalized spike-and-wave) can occur, if they consistently arise in one area right arrow consider structural brain abnormality.
+
+Activation
+
+EEG abnormality and absence seizures are provoked by hyperventilation. If hyperventilation is poorly performed, generalized spike-and-wave may not be triggered.
+
+Intermittent photic stimulation triggers generalized spike-and-wave in a small proportion of individuals.
+
+EEG abnormality is enhanced by sleep deprivation and by sleep. Generalized spike-and-wave often becomes fragmented with sleep deprivation or in sleep. Fragmented generalized spike-and-wave can appear focal or multi-focal but usually is not consistently seen in one area. The morphology of the focal spike-and-wave typically appears similar to the generalized spike-and-wave.
+
+CAUTION Where hyperventilation is performed well for three minutes and no generalized spike-and-wave is seen, childhood absence epilepsy is unlikely.
+
+Ictal
+
+Regular 3 Hz generalized spike-and-wave occurs associated with absence seizures. Polyspike-and-wave can occur in the ictal EEG.
+
+CAUTION Slow spike-and-wave (<2.5Hz) is exclusionary.
+
+eeg
+Example of 3Hz generalized spike-and-wave seen on the ictal EEG
+
+Imaging
+Imaging
+
+Neuroimaging is normal. If the electroclinical diagnosis of childhood absence epilepsy is established and there are no atypical features, neuroimaging is not required.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Complex inheritance.
+
+KNOWN GENES
+
+In children who have absences that have onset under the age of 4 years of age, 10% have GLUT1 deficiency (a mutation in SLC2A1). Other genes linked to this syndrome include GABRG2 and CACNA1A.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+Up to 20% of patients may have a first-degree relative with seizures. When a family history is present, the affected family members typically have childhood absence epilepsy or a related genetic generalized epilepsies e.g. juvenile absence epilepsy, juvenile myoclonic epilepsy or less commonly genetic epilepsy with febrile seizures plus.
+
+NOTE A genetic generalized epilepsy is an epilepsy with generalized seizures associated with generalized epileptiform EEG patterns, such as generalized spike wave activity.
+
+Differential diagnoses
+
+	Juvenile absence epilepsy right arrow consider if there are infrequent (e.g. once daily) absence seizures in a child who is 8 years of age or older.
+	Epilepsy with eyelid myoclonias right arrow consider if there is repetitive, rhythmic, fast >4 Hz jerks of the eyelids, with upward deviation of the eyeballs and with head extension; seizures are often very frequent and induced by eye closure and photic stimulation.
+	Epilepsy with myoclonic absences right arrow consider if there are 3 Hz myoclonic jerks of upper limbs with tonic abduction.
+
+
+
+EPILEPSY WITH MYOCLONIC ABSENCES
+Clinical Overview
+Overview
+
+Epilepsy with myoclonic absences should be considered in a child who presents with frequent daily myoclonic absence seizures. At presentation approximately half the children are developmentally and neurologically normal, learning disability is eventually seen in 70% of cases. Other seizure types (generalized convulsive and atonic seizures) occur in the majority of patients. Prognosis is more favorable if myoclonic absence seizures are controlled.
+
+Clinical context
+
+This syndrome is characterized by onset of seizures between 1 to 12 years of age (peak 7 years). Seizures are often difficult to treat and may continue into adulthood. Both sexes are affected, with a male predominance (70%). Head size and neurological examination are typically normal. At presentation approximately half of cases have learning disability. A diagnosis of learning disability is eventually found in 70% of cases. Cognitive function is preserved in children in whom myoclonic absences are controlled.
+
+Seizures
+Mandatory seizures
+
+Myoclonic absences are the defining seizure for this syndrome. These occur many times a day, are resistant to treatment and are the only seizure seen in a third of cases.
+
+May have
+
+	Generalized convulsive and atonic seizures are seen more than half of patients after onset of myoclonic absences, and may indicate an unfavorable prognosis.
+	Absence seizures without myoclonic jerks are uncommon (4% of cases) and infrequent, as is absence status.
+	Atypical absence seizures
+
+Exclusionary
+
+Focal seizures are not seen.
+
+EEG
+Background
+
+The background EEG is normal.
+
+CAUTION Generalized slowing is not seen.
+
+Interictal
+
+Generalized spike-and-wave discharges and polyspike-and-wave discharges may occur.
+
+CAUTION Focal discharges consistently over one region right arrow consider structural brain abnormality.
+
+Activation
+
+EEG abnormality (and myoclonic absence seizures) may be provoked by hyperventilation. Intermittent photic stimulation triggers generalized spike-and-wave in a minority of patients.
+
+EEG abnormality is enhanced by sleep deprivation and by sleep. Generalized spike-and-wave often becomes fragmented with sleep deprivation or in sleep. Fragmented generalized spike-and-wave can appear focal or multi-focal but usually is not consistently seen in one area. The morphology of the focal spike-and-wave typically appears similar to the generalized spike-and-wave.
+
+Ictal
+
+Regular 3-Hz generalized spike-and-wave accompanies myoclonic absences. EMG recordings from the upper arm show a constant relationship between the bilateral myoclonic jerks and spike-and-waves.
+
+CAUTION Slow spike-and-wave (<2.5Hz) right arrow consider atypical absence seizures in Lennox Gastaut syndrome.
+
+Imaging
+Imaging
+
+High resolution MRI is required to exclude structural brain abnormality. Neuroimaging is normal, however mild non-specific diffuse atrophy is seen in some cases.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+The pattern of inheritance is complex (polygenic).
+
+KNOWN GENES
+
+Whilst there are no known genes, there is one case report of a translocation resulting in a truncation in the SYNGAP1 gene causing epilepsy with myoclonic absences.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history (usually of generalized seizures) is present in 20% of cases. Rarely there is a family history of febrile seizures.
+
+Differential diagnoses
+
+	Lennox Gastaut syndrome - atypical absences may occur with rhythmic myoclonic jerking
+	Myoclonic absence seizures due to structural brain abnormality.
+	Childood absence epilepsy
+
+
+
+PANAYIOTOPOULOS SYNDROME
+Clinical Overview
+Overview
+
+Panayiotopoulos syndrome is characterized by the onset in early childhood of autonomic seizures that are often prolonged. The EEG commonly shows high amplitude focal spikes and may be activated by sleep. Seizures are infrequent in most patients, with 25% only having a single seizure (which may be autonomic status epilepticus) and 50% having six seizures or less. Seizures are self-limiting with remission typically within a few years from onset.
+
+NOTE Self-limiting refers to there being a high likelihood of seizures spontaneously remitting at a predictable age.
+
+Clinical context
+
+Panayiotopoulos syndrome is characterized by onset of seizures between 1 and 14 years of age (majority between 3 and 6 years). Seizures are infrequent in most patients, with 25% having a single seizure (which may be autonomic status epilepticus) and 50% having six seizures or less. Frequent seizures can occur in some patients. Seizures usually resolve by age 11-13 years. Both sexes are affected equally. Antecedent and birth history is normal. Head size and neurological examination are usually normal. Development and cognition are normal. However, during active seizure periods, subtle neuropsychological deficits in language and executive functioning have been reported. A history of febrile seizures is seen in 5-17% of patients.
+
+Seizures
+Mandatory seizures
+
+The mandatory seizure type for this syndrome is the presence of seizures with prominent autonomic features mainly emetic (nausea, retching, vomiting), but pupillary (mydriasis), circulatory (pallor, cyanosis), thermoregulatory and cardiorespiratory (heart and respiratory rate disturbance) changes also occur. There may be incontinence and excessive salivation. Headache or cephalic auras may occur at onset. Apnoea and cardiac asystole can occur but only exceptionally are these severe. Two thirds of seizures start in sleep. Seizures are often prolonged (minutes to hours), constituting autonomic status epilepticus, however the child recovers without residual neurological or cognitive deficits. As the seizure evolves, loss of responsiveness, head and eye deviation, and hemiclonic activity (often with a Jacksonian march) may develop. Some seizures may have prominent fronto-parietal opercular features.
+
+EEG
+Background
+
+The background EEG is normal.
+
+CAUTION Focal slowing consistently over one area is not seen right arrow consider structural brain abnormality.
+
+CAUTION Generalized slowing is not seen except in post-ictal periods.
+
+Interictal
+
+A single routine EEG is normal in 10% of patients. Multifocal high voltage repetitive spikes or sharp and slow-waves are seen in 90% of patients, these often are present in different focal areas on sequential EEGs. All focal brain regions may be affected but abnormality in posterior regions is common, with occipital spikes seen on EEG in 60% of patients. Low voltage spikes and generalized discharges may be seen in a minority of cases.
+
+eeg
+Example of multifocal spikes in Panayiotopoulos syndrome.
+
+eeg
+Example of occipital (left) spikes of high amplitude in Panayiotopoulos syndrome.
+
+Activation
+
+Eye closure (elimination of central vision and fixation off sensitivity) may activate occipital spikes. EEG abnormality is enhanced by sleep deprivation and by sleep, when discharges often have a wilder field and may be bilaterally synchronous.
+
+Ictal
+
+Ictal patterns are unilateral, often having posterior onset, with rhythmic slow (theta or delta) activity intermixed with small spikes.
+
+Imaging
+Imaging
+
+Neuroimaging is normal. If the electro-clinical diagnosis of Panayiotopoulos syndrome has been made and there are no atypical features, neuroimaging is not mandatory.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+There are reports of Panayiotopoulos syndrome or other epilepsy syndromes in siblings and in families, suggesting that there are genetic influences that are likely complex (polygenic).
+
+KNOWN GENES
+
+None known.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+There is usually no family history of epilepsy or febrile seizures, however rare cases are reported with family members with epilepsy or febrile seizures.
+
+Differential diagnoses
+
+	Familial focal epilepsy with variable foci
+	Childhood epilepsy with centrotemporal spikes - if seizures have prominent fronto-parietal opercular features
+	Celiac disease, epilepsy and cerebral calcification syndrome
+	Focal seizures due to structural brain abnormality
+	Migraine associated disorders including benign paroxysmal vertigo
+Syncope
+	Disorders associated with intermittent encephalopathy e.g. metabolic disorders (especially mitochondrial)
+	Disorders associated with intermittent vomiting e.g. gastrointestinal disorders
+
+
+
+CHILDHOOD OCCIPITAL EPILEPSY (GASTAUT TYPE)
+Clinical Overview
+OVERVIEW
+
+Childhood occipital epilepsy (Gastaut-type) is a self-limiting childhood epilepsy with onset in later childhood. Seizures are usually easily controlled and remission of seizures occurs within 2-4 years from onset.
+
+NOTE Self-limiting refers to there being a high likelihood of seizures spontaneously remitting at a predictable age.
+
+Clinical context
+
+This syndrome is characterized by onset of seizures between 15 months and 19 years of age (peak 8-9 years). Remission occurs in 50-60% of patients within 2-4 years after onset. A dramatic response to carbamazepine is seen in more than 90% of patients. Both sexes are equally affected. Antecedent and birth history is normal. Head size and neurological examination are usually normal. Development and cognition is normal, although mild cognitive impairment has been described.
+
+CAUTION Epileptic encephalopathy with continuous spike-and-wave during sleep can occur as a co-morbid disorder right arrow consider a sleep EEG in cases that develop cognitive deterioration.
+
+Seizures
+
+Mandatory seizures
+
+Seizures with visual aura occur from awake states, these have rapid onset, are brief (typically seconds, most <3 minutes, rarely up to 20 minutes) but frequent without treatment Typically elementary visual phenomena occur, described as small multi-coloured circles seen in the peripheral vision, increasing in area of the visual field involved and moving horizontally to the other side. This may be followed by deviation of the eyes or turning of the head (to the side ipsilateral to the hemisphere of seizure onset).
+
+May have
+
+Other occipital features may occur, including ictal blindness, complex visual hallucinaions,visual illusions     (e.g. of ocular movement), orbital pain, eyelid fluttering or repetitive eye closure, ictal headache or nauseaand vomiting. Post0ictal headache is common (seen in 50%), and may be associated with nausea and vomiting (10%, especially if seizure networks arein the non-dominant  hemisphere).
+
+The seizure may spread outside the occipital lobe resulting in hemiparaesthesia, dyscognitive features (14%), a hemiclonic (43%) or bilateral convulsion (13%).
+
+Typical absence seizures may occur in some patients after the onset of occipital
+
+CAUTION If seizures with dyscognotive features are frequent or complex visual hallucinations occur with affective aura right arrow consider structural brain abnormality.                                                                        
+EEG
+Background
+
+The background EEG is normal.
+
+Interictal
+
+Occipital spike or spike-and-wave is seen in the interictal EEG of the majority of patients with this syndrome, but may only occur in the sleep EEG. Centrotemporal, frontal or generalized spike-and-wave may co-exist (seen in 20% of cases).
+
+CAUTION Epileptic encephalopathy with continuous spike-and-wave during sleep can occur as a co-morbid disorder right arrow consider a sleep EEG in cases that develop cognitive deterioration.
+
+Activation
+
+Fixation-off sensitivity (facilitation of epileptiform discharges with elimination of central vision) is seen in 20-90% of patients. Giant somatosensory spikes may occur. EEG abnormality is enhanced by sleep deprivation and by sleep. It is debated whether a response to intermittent photic stimulation can be seen in this syndrome or is exclusionary.
+
+Ictal
+
+At ictal onset, there is a reduction in the usual background occipital spike or spike-and-wave with the sudden appearance of occipital faster rhythms with spikes of low amplitude. There may be slower spike-and-wave during oculo-clonic seizures or ictal blindness.
+
+Imaging
+Imaging
+
+Neuroimaging is normal. High resolution MRI is required to exclude structural brain abnormality.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Unknown, there may be hereditary and environmental factors involved.
+
+KNOWN GENES
+
+There are no known genes.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of febrile seizures or epilepsy is common (seen in up to a third of cases) and a family history of migraine is also reported (9-16% of cases).
+
+Differential diagnoses
+
+	Focal seizures due to structural brain abnormality
+	Celiac disease, epilepsy and cerebral calcification syndrome (check anti-gliadin antibodies)
+	Migraine with visual aura
+
+
+
+PHOTOSENSITIVE OCCIPITAL LOBE EPILEPSY
+Clinical Overview
+Overview
+
+This epilepsy syndrome has onset in childhood and is characterized by the presence of visually-induced focal occipital lobe seizures. A proportion of patients with this syndrome have developmental delays and learning difficulty.
+
+Clinical context
+
+This syndrome is characterized by onset of seizures usually between 4 and 12 years of age (although younger and older ages of onset are reported). Both sexes are affected. Antecedent and birth history is uneventful. Head size and neurological examination are normal. Development and cognition may be impaired to variable degrees.
+
+CAUTION Lafora body disease may present with occipital seizures and photosensitivity.
+
+Seizures
+Mandatory seizures
+
+Focal occipital seizures with visual aura occur. Visual auras include blindness or multi-coloured circles that may or may not be associated with blindness. Seizures are typically brief (<3 minutes), however if longer may be associated with head and eye version, autonomic features (vomiting), headache, unusual behavior or evolution to bilateral convulsion. eyelid flickering is induced by visual stimulation.
+
+The frequency of seizures varies from individual, relating to variations in an individuals threshold for visual induction.
+
+May have
+
+	Spontaneous occipital seizures without visual induction
+	Generalized convulsive seizures
+	Myoclonic seizures
+	Absence seizures
+
+EEG
+Background
+
+The background EEG is normal.
+
+Interictal
+
+Occipital spike or spike-and-wave may occur in the resting EEG record. Centrotemporal spikes may co-exist.
+
+Activation
+
+Occipital spike-and-wave or polyspike-and-wave is facilitated by intermittent photic stimulation when generalized spike-and-wave or polyspike-and-wave (with posterior predominance) may also occur. EEG abnormality is enhanced by sleep deprivation and by sleep.
+
+Ictal
+
+Occipital ictal patterns are seen, spread may occur to the ipsilateral temporal lobe.
+
+Imaging
+Imaging
+
+Neuroimaging is normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Sporadic cases occur. Familial cases support inheritance patterns that may be Mendelian or complex.
+
+KNOWN GENES
+
+GRIN2A has been considered as a candidate gene.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+Literature reports index cases with family members with photosensitive occipital lobe epilepsy, juvenile myoclonic epilepsy or childhood epilepsy with centrotemporal spikes.
+
+Differential diagnoses
+
+	Juvenile myoclonic epilepsy and other genetic generalized epilepsies with photosensitivity
+	Childhood occipital epilepsy (Gastaut type)
+	Migraine with visual aura
+
+
+
+CHILDHOOD EPILEPSY WITH CENTROTEMPORAL SPIKES
+Clinical Overview
+OVERVIEW
+
+Childhood epilepsy with centrotemporal spikes (previously known as benign childhood epilepsy with centrotemporal spikes (BCECTS) or Rolandic epilepsy) is a self-limiting epilepsy seen in children in their early school years. The seizures are brief, hemifacial seizures that may secondarily generalize if they occur nocturnally. This epilepsy occurs in children who are otherwise neurologically and cognitively normal and imaging studies are unremarkable. The EEG shows a normal background with high amplitude centrotemporal sharp waves, which are activated with drowsiness and sleep. Seizures cease by mid to late adolescence.
+
+NOTE Self-limiting refers to there being a high likelihood of seizures spontaneously remitting at a predictable age.
+
+NOTE Childhood epilepsy with centrotemporal spikes, atypical childhood epilepsy with centrotemporal spikes, epileptic encephalopathy with continuous spike-and-wave during sleep and Landau Kleffner syndrome are syndromes that have in common certain EEG features, with variable severity of focal seizures and neurocognitive impairment. They may be considered as a spectrum, an individual child may transition from one of these syndromes to another over time.
+
+CAUTION If cognitive or language deterioration occurs in childhood epilepsy with centrotemporal spikes right arrow consider a sleep EEG
+
+Clinical context
+
+This syndrome is characterized by onset of seizures between 3 and 14 years (peak 8-9 years). Seizures usually resolve by age 13 years, but can occasionally occur up to age 18 years of age. Both sexes are affected. Antecedent, birth and neonatal history is normal. A history of febrile seizure (in 5-15%) may be seen. A history of Panayiotopoulos syndrome may be present in a very small number of cases. Neurological exam and head size is normal. Development and cognition prior to onset of seizures is normal. During the course of the active epilepsy, behavioral and neuropsychological deficits may be found, particularly in language and executive functioning. These deficits improve when seizures remit.
+
+CAUTION If the patient is male with mental retardation right arrow consider Fragile X (especially if background slowing is present on EEG)
+
+Seizures
+Seizures and videos
+
+Mandatory seizures
+
+Seizures with fronto-parietal opercular features occur, with hemifacial (lip, mouth and tongue) clonic movements (which may be unilateral), laryngeal symptoms, articulation difficulty (aphasia), swallowing or chewing movements and hyper-salivation. Seizures are typically brief (<5 minutes), usually few in number (most have less than 10 seizures) and may occur sporadically, with frequent seizures seen over a few days or weeks and then several months until the next seizure.
+
+NOTE the terms fronto-parietal opercular, centrotemporal, sylvian and rolandic seizures are synonymous, referring toseizures involving the region around the central sulcus. However in typical seizures that occur in this epilepsy syndrome, sensory (e.g. epigastric) and experiential (e.g. fear) auras, autonomic features and gustatory hallucinations arenot seen. This distinction may, however, be difficult to establish from history given by a young child.
+
+May have
+
+Seizures may evolve to clonic activity in the ipsilateral upper limb, to ipsilateral hemiclonic seizure, or to a bilateral convulsion (bilateral upper limb or generalized clonic activity; typically nocturnal events). Todds paresis may be seen after seizures
+
+CAUTION Focal motor or bilateral convulsion status epilepticus persisting >30 minutes is rare (<5% of patients) and if present should lead to review of the diagnosis.
+
+CAUTION Absence, atonic and negative myoclonic seizures with loss of balance and falls right arrow consider atypical childhood epilepsy with centrotemporal spikes
+
+CAUTION Prolonged non-motor seizures with prominent autonomic features, especially ictal vomiting right arrow consider Panayiotopolous syndrome
+
+Exclusionary
+
+Generalized convulsive seizures during wakefulness.
+
+EEG
+Background
+
+The background must be normal, with the presence of normal sleep architecture.
+
+CAUTION Sustained focal slowing without centrotemporal spikes or diffuse slowing right arrow consider other epilepsy syndromes.
+
+Interictal
+
+High amplitude centrotemporal spikes or sharp-and-slow wave complexes that activate in drowsiness and sleep are mandatory. These may be unilateral or bilateral and are usually frequent. There may be focal spikes seen outside the centrotemporal region (midline, parietal, frontal, occipital). The centrotemporal spike has a typical morphology with maximum negativity in centrotemporal electrodes (C3/C4 and T3/T4) and maximum positivity frontally.
+
+eeg
+Example of centrotemporal spikes, bipolar montage.
+
+eeg
+Example of centrotemporal spikes, referential montage.
+
+CAUTION If continuous spike-and-wave in slow sleep right arrow review for a history of progressive language or cognitive impairment (Landau-Kleffner syndrome or epileptic encephalopathy with continuous spike-and-wave during sleep)
+
+Activation
+
+It is mandatory that there must be marked increase in frequency of epileptiform activity in drowsiness and sleep, when spikes or spike-and-slow waves often also have a wilder field and may be bilaterally synchronous. There may be a photoparoxysmal response after 10 years of age. In 10-20% of children, centrotemporal spikes or spike-and-slow wave may be activated by sensory stimulation of the fingers or toes.
+
+eeg
+Example of EEG in the awake state.
+
+eeg
+Example of EEG in same patient, showing activation in sleep.
+
+Ictal
+
+Seizures are infrequent, so it is rare to obtain an ictal recording and there are few published reports of these in the literature. Seizures may be accompanied by a brief decrease in amplitude of the background EEG, followed by diffuse sharp wave discharges of increasing amplitude, predominantly in one centrotemporal region, followed by high amplitude slowing and then a return to the usual interictal EEG. Ictal rhythms may include bilaterally synchronous (as opposed to generalized) spike-and-wave in seizures that evolve to a bilateral convulsion.
+
+Imaging
+Imaging
+
+Neuroimaging is normal or may show non-specific findings. If the electroclinical diagnosis of childhood epilepsy with centrotemporal spikes is made and there are no atypical features, neuroimaging is not required.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Siblings may show the EEG trait of centrotemporal spikes in an age-dependent autosomally dominant inherited fashion without clinical seizures. The clinical epilepsy syndrome is however likely complex in inheritance as pedigrees with the clinical syndrome are very rare.
+
+KNOWN GENES
+
+GRIN2A
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+Although ~10% of cases have a first-degree relative who also has epilepsy, it is rarely childhood epilepsy with centrotemporal spikes.
+
+Differential diagnoses
+
+	Focal seizures due to structural brain abnormality
+	Atypical childhood epilepsy with centrotemporal spikes
+
+
+
+ATYPICAL CHILDHOOD EPILEPSY WITH CENTROTEMPORAL SPIKES
+Clinical Overview
+OVERVIEW
+
+Atypical childhood epilepsy with centrotemporal spikes (previously known as pseudo-Lennox syndrome, atypical benign partial epilepsy of childhood and atonic-benign childhood epilepsy with centrotemporal spikes) is recognized as an atypical evolution of childhood epilepsy with centrotemporal spikes. This syndrome is self-limiting, but characterized by frequent seizures of multiple types, including nocturnal focal motor and fronto-parietal opercular seizures, negative myoclonus and atypical absence seizures. Centrotemporal sharp waves are seen on EEG. During the phase of the epilepsy when seizures are frequent, neuropsychological deficits and motor impairment may be present. These deficits improve when seizures remit.
+
+NOTE Self-limiting refers to there being a high likelihood of seizures spontaneously remitting at a predictable age.
+
+NOTE Childhood epilepsy with centrotemporal spikes, atypical childhood epilepsy with centrotemporal spikes, epileptic encephalopathy with continuous spike-and-wave during sleep and Landau Kleffner syndrome are syndromes that have in common certain EEG features, with variable severity of focal seizures and neurocognitive impairment. They may be considered as a spectrum, an individual child may transition from one of these syndromes to another over time.
+
+CAUTION If cognitive or language regression occurs in atypical childhood epilepsy with centrotemporal spikes right arrow consider performing a sleep EEG.
+
+Clinical context
+
+This syndrome is characterized by onset of seizures between 2-8 years of age (peak 5-6 years). Both sexes are affected. Antecedent and birth history are unremarkable. Head size and neurological examination are normal. Development and cognition before onset of the syndrome are typically normal, however neuropsychological and motor impairments are seen in the active phase of the epilepsy.
+
+Seizures
+Mandatory seizures
+
+Seizures with fronto-parietal opercular features arethe initial seizure type, seenfrom sleep, with hemifacial (lip, mouth, and tongue) clonic movements (which may be unilateral), laryngeal symptoms, articulation difficulty (aphasia), swallowing or chewing movements and hyper-salivation.
+
+NOTE The terms fronto-parietal opercular, centrotemporal, sylvian and rolandic seizures are synonymous, referring to seizures involving the region around the central sulcus. However in typical seizures that occur in this epilepsy syndrome, sensory (e.g. epigastric) and experiential (e.g. fear) auras, autonomic features and gustatory hallucinations are not seen. This distinction may, however, be difficult to establish from history given by a young child.
+
+Negative myoclonus subsequently develops. Negative myoclonous results in a brief loss of posture or position of one or both arms, resulting in dropping of objects held, nodding of the head,instability during standing, and inclining of the body to one side or falls. Consciousness is entirely preserved during the negative myoclonus. The transient dropping of one or both arms is best identified on asking the child to stand with their arms outstretched.
+
+CAUTION Some patients may have persistent funtional motor impairment, including mild dysarthria and ipsilateral facial and arm paresis, during the period of time that the negative myoclonus is frequent. These impairments disappear when the negative myoclonus remits.
+
+CAUTION Negative myoclonus is also seen in other etiologies.
+
+May have
+
+	Atypical absence seizures in wakefulness
+	Focal seizures evolving to bilateral convulsion
+
+Exclusionary
+
+Generalized tonic seizures in sleep.
+
+EEG
+Background
+
+The background EEG may be normal or there may be focal or diffuse slowing.
+
+Interictal
+
+The interictal EEG abnormalities seen during wakefulness are similar to those seen in childhood epilepsy with centrotemporal spikes, but are usually more prominent.
+
+Activation
+
+The EEG abnormality is activated in sleep.
+
+Ictal
+
+Seizures with fronto-parietal opercular features may be accompanied by a brief decrease in amplitude of the background EEG, followed by diffuse sharp wave discharges of increasing amplitude, predominantly in one centrotemporal region, followed by high amplitude slowing and then a return to the usual interictal EEG.
+
+Negative myoclonus is accompanied by a high-amplitude spike followed by a slow wave, maximal in the contralateral hemisphere to the body part affected. If both arms are affected the EEG finding will be a bilaterally synchronous discharge. The patient is best assessed in the standing position with arms outstretched during simultaneous EEG and EMG recording.
+
+Focal motor seizures may be accompanied by variable EEG findings that may include localized ictal patterns of repetitive discharges, diffuse or localized low voltage fast rhythms, bilateral discharges with amplitude asymmetry (secondary bilateral synchrony) or the EEG may not show clear surface ictal patterns or be obscured by muscle artifact.
+
+Atypical absence seizures are accompanied by slow spike-and-wave.
+
+Imaging
+Imaging
+
+Neuroimaging is normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Complex inheritance.
+
+KNOWN GENES
+
+GRIN2A
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of febrile seizures or focal seizures has been reported.
+
+Differential diagnoses
+
+	Lennox Gastaut syndrome - the presence of generalized tonic seizures suggests Lennox Gastaut syndrome, focal motor seizures are rare in Lennox Gastaut syndrome
+	Epilepsy with myoclonic-atonic seizures
+	Landau Kleffner syndrome
+	Epileptic encephalopathy with continuous spike-and-wave during sleep
+
+
+
+EPILEPTIC ENCEPHALOPATHY WITH CONTINUOUS SPIKE-AND-WAVE DURING SLEEP
+Clinical Overview
+OVERVIEW
+
+Epileptic encephalopathy with continuous spike-and-wave during sleep is a syndrome characterized by continuous spike-and-wave during sleep, seizures and progressive decline in cognitive, behavioral and psychiatric functioning.
+
+NOTE 'Epileptic encephalopathy' denotes the concept that the epileptic activity itself might directly contribute additional cognitive and behavioral impairments over those expected from the underlying etiology alone, and that suppression of epileptic activity might minimize this additional impairment.
+
+NOTE Childhood epilepsy with centrotemporal spikes, atypical childhood epilepsy with centrotemporal spikes, epileptic encephalopathy with continuous spike-and-wave during sleep and Landau Kleffner syndrome are syndromes that have in common certain EEG features, with variable severity of focal seizures and neurocognitive impairment. They may be considered as a spectrum, an individual child may show some features of more than one of these syndromes or transition from one to another over time.
+
+Clinical context
+
+This syndrome is characterized by onset of seizures between 2 and 12 years of age (peak 4-5 years), with epileptic encephalopathy with continuous spike-and-wave during sleep developing 1-2 years after seizure onset. Both sexes are affected. Antecedent and birth history are usually normal, or previous structural brain abnormalities may be present. Head size, neurological examination and developmental progress may be normal or reflect effects of an underlying structural brain abnormality.
+
+A progressive decline in cognitive, behavioral and psychiatric functioning is a cardinal symptom of this syndrome. All cognitive domains are affected including language and communication, temporo-spatial orientation, attention and social interaction. The impairments are typically severe and although some improvement occurs in time, residual deficits remain after remission of seizures and EEG abnormality (which occurs from months to up to 7 years later).
+
+Causes:
+
+Developmental or acquired structural brain abnormalities (account for one third of cases)
+Chromosomal or gene abnormalities e.g. Rett syndrome
+Metabolic etiologies (e.g. mitochondrial disorders)
+
+Seizures
+Mandatory seizures
+
+Seizures are not mandatory as some patients  do not have seizures.
+
+May have
+
+Seizures are typically infrequent, nocturnal and mainly have focal motor features (e.g. hemiclonic). Seizures frequency increases and other seizure types often appear at the time cognitive impairment emerges. The following seizures types may occur:
+
+	Focal seizures with dyscognitive features
+	Focal seizures with auditorya aura
+	Absence seizures
+	Atypical absence seizures
+	Atonic seizures
+	Focal seizures evolving to bilateral convulsion
+
+EEG
+Background
+
+The background EEG may be normal or there may be focal (e.g. frontal) or diffuse slowing.
+
+Interictal
+
+Almost continuous slow (typically 1.5-2Hz) spike-and-wave is seen in slow sleep and is seen diffusely, but may fragment and occur focally (typically frontally) or multifocally. Some authors provide percentages of slow wave sleep that must be occupied by continuous spike-and-wave e.g. >50% or >85%. Normal sleep architecture (vertex sharp waves, sleep spindles and K complexes) are difficult to distinguish. The abnormality abates in REM sleep and only rare bursts of diffuse spike-and-wave or focal (predominantly frontal) discharges occur. There may be focal predominance of fast rhythms.
+
+eeg
+Example of continuous spike-and-wave during sleep.
+
+CAUTION An overnight sleep EEG may be required, as continuous spike-and-wave may not be seen during brief periods of sleep.
+
+Activation
+
+The EEG is activated in slow wave sleep.
+
+Ictal
+
+Focal hemiclonic seizures are accompanied by focal ictal EEG discharges. Subclinical focal ictal discharges may be seen in sleep.
+
+Imaging
+Imaging
+
+Neuroimaging may be normal or may demonstrate underlying structural brain abnormalities that may be developmental or acquired.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Complex inheritance.
+
+KNOWN GENES
+
+GRIN2A
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of seizures/epilepsy is uncommon (seen in around 15%).
+
+Differential diagnoses
+	Lennox Gastaut syndrome - the presence of generalized tonic seizures suggests Lennox Gastaut syndrome, focal motor seizures are rare in Lennox Gastaut syndrome
+	Landau-Kleffner syndrome - acquired aphasia is the predominant feature, seizures are uncommon, interictal EEG focality is mainly temporal rather than frontal, continuous spike-and-wave during sleep typically occurs at some time in Landau Kleffner syndrome but is pathogneumonic for epileptic encephalopathy with continuous spike-and-wave during sleep.
+	Cognitive regression due to other etiologies
+
+
+
+LANDAU KLEFFNER SYNDROME
+Clinical Overview
+OVERVIEW
+
+Landau Kleffner syndrome is characterized by subacute onset of acquired aphasia in a child with normal previous development and cognition. Seizures may not occur in all cases, and when present are infrequent and self-limiting. However, there is a high risk of significant residual language impairment.
+
+NOTE Self-limiting refers to there being a high likelihood of seizures spontaneously remitting at a predictable age.
+
+NOTE Landau Kleffner syndrome is considered an 'epileptic encephalopathy'. This term denotes the concept that the epileptic activity itself might directly contribute additional cognitive and behavioral impairments over those expected from the underlying etiology alone, and that suppression of epileptic activity might minimize this additional impairment.
+
+NOTE Childhood epilepsy with centrotemporal spikes, atypical childhood epilepsy with centrotemporal spikes, epileptic encephalopathy with continuous spike-and-wave during sleep and Landau Kleffner syndrome are syndromes that have in common certain EEG features, with variable severity of focal seizures and neurocognitive impairment. They may be considered as a spectrum, an individual child may transition from one of these syndromes to another over time.
+
+Clinical context
+
+Landau Kleffner syndrome is characterized by subacute onset of progressive aphasia in a child with previous age-appropriate language development. The syndrome has onset between the ages of 2 and 8 years (peak 5 to 7 years), or rarely later. The initial presentation may be with progressive aphasia (40%), seizures or both. Both sexes are affected. The aphasia occurs as a consequence of an acquired verbal auditory agnosia. Children become progressively unable to comprehend spoken word, cease to understand when spoken to and to respond verbally. The diagnosis is typically delayed as children are thought to have acquired deafness, autistic regression or mutism. Antecedent and birth history is normal. Neurological examination and head size are normal. Behavioral (e.g. attention deficit hyperactivity disorder, aggression), psychiatric and cognitive disturbances are commonly observed in addition to language impairment. Language impairment typically fluctuates. Seizures and EEG abnormality resolve with age in most cases, however residual language impairment is seen in the majority (>80%) and may be severe (especially if onset is earlier).
+
+CAUTION Children who have not developed language before onset of seizures should generally not be considered for this syndrome.
+
+CAUTION Children with autism may show language regression, however this typically occurs earlier (< 2 years), prior language development is typically abnormal and regression in language is not compensated for by non-verbal communication.
+
+Seizures
+Mandatory seizures
+
+Seizures are not mandatory for this syndrome. In 20-30% of cases, no seizures occur. When seen, seizures are typically infrequent (may only occur once). nocturnal and self-limiting (remission is common by 10 years of age).
+
+May have
+
+	Focal seizures
+	Atypical absences
+	Atonic seizures
+
+Exclusionary
+
+	Generalized tonic seizures
+
+EEG
+Background
+
+The EEG background is normal. There may be focal (temporal-parietal) or diffuse slowing.
+
+Interictal
+
+High amplitude epileptiform activity is seen in the temporal-parietal regions (spikes, sharp waves, spike-and-wave or sharp-slow wave), these may be unilateral or bilateral (synchronous or asynchronous).
+
+Activation
+
+The EEG abnormality is markedly enhanced by sleep deprivation and in sleep. It is typical to see continuous bilateral spike-and-wave in slow sleep at some time in the course of the disease, but this is not a prerequisite for the diagnosis.
+
+eeg
+Example of continuous spike-and-wave during sleep.
+
+Ictal
+
+In focal seizures, focal ictal patterns in temporo-parietal regions may occur.
+
+Imaging
+Imaging
+
+Neuroimaging is typically normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Complex inheritance.
+
+KNOWN GENES
+
+GRIN2A
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of seizures or epilepsy is not typically seen.
+
+Differential diagnoses
+
+	Lennox Gastaut syndrome - the presence of generalized tonic seizures suggests Lennox Gastaut syndrome, focal motor seizures are rare in Lennox Gastaut syndrome
+	Epileptic encephalopathy with continuous spike-and-wave during sleep - although both syndromes may have progressive cognitive, behavioral and psychiatric impairments, if acquired aphasia is the predominant feature then a diagnosis of Landau Kleffner syndrome is appropriate (the presence of slow spike-and-wave on EEG is not mandatory for diagnosis)
+	Language regression due to other etiologies
+
+
+
+AUTOSOMAL DOMINANT NOCTURNAL FRONTAL LOBE EPILEPSY
+Clinical Overview
+OVERVIEW
+
+Autosomal dominant nocturnal frontal lobe epilepsy is a familial epilepsy with focal seizures beginning most commonly in childhood, although sporadic cases may occur. Brief nocturnal frontal seizures with hypermotor, tonic or dystonic motor features are seen. Treatment with low dose carbamazepine is effective, however 30% of cases are resistant to treatment. Interictal EEG is often normal but may show anterior epileptiform abnormalities, typically in sleep. Mutations have been identified in genes coding for different subunits of the neuronal nicotinic acetylcholine receptors in 15% of familial cases, and in some sporadic cases.
+
+Clinical context
+
+This syndrome is characterized by onset of seizures at a mean age of 9 years (ranges from infancy to the sixth decade of life), 85% of cases have onset of seizures by 20 years of age. Both sexes are equally affected. Antecedent and birth history is normal. Head size and neurological examination are usually normal. Development prior to onset of seizures is typically normal, cognitive disturbances (executive dysfunction and memory impairment) and psychiatric disorders have been described in some families. Cognitive decline has been reported with time in rare individuals.
+
+Seizures
+Mandatory seizures
+
+Brief nocturnal frontal seizures with hypermotor, dystonic or tonic features occur. Hypermotor features comprise bipedal movements, thrashing and pelvic thrusting. Seizures can manifest as nocturnal wandering. Seizures are of short duration (usually less than one minute; mean seizures duration of 30 sec) and cluster with multiple each night (mean of 8 seizures per night). Awareness is usually preserved through the seizure and there is no post-ictal state. Two thirds of patients experience sensory or experiential auras. A sensation of being unable to catch a breath is frequently experienced during the seiure. Seizures from the wake state or seizures with evolution to bilateral convulsions can occur but are rare, and usually are seen in the context of poor seizure control.
+
+CAUTION Seizures predominantly from the awake state right arrow consider other epilepsy syndromes.
+
+EEG
+Background
+
+The background EEG is normal.
+
+CAUTION Focal slowing consistently over one area right arrow consider structural brain abnormality.
+
+Interictal
+
+The EEG may demonstrate rare frontal or fronto-temporal sharp waves or spikes. Epileptiform abnormalities may only be present during sleep.
+
+Activation
+
+Activation of interictal abnormalities occurs with sleep deprivation or in sleep (or these abnormalities may be only seen in sleep).
+
+Ictal
+
+Ictal scalp EEG may be normal or may only demonstrate movement artefact. When present, ictal patterns include sharp waves or repetitive 8-11 Hz spikes (rarely in the form of a recruiting pattern), rhythmic theta activity (bifrontal or unilateral frontal) or diffuse attenuation.
+
+Imaging
+Imaging
+
+Neuroimaging is normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+An autosomal dominant inheritance pattern is seen with variable penetrance. Sporadic cases may occur.
+
+KNOWN GENES
+
+Genetic causes include nicotinic receptor subunit genes (CHRNA4, CHRNB2, CHRNA2) and DEPDC5.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of epilepsy is present in familial cases, with seizure features and severity varying in individuals in families.
+
+Differential diagnoses
+
+	Familial focal epilepsy with variable foci
+	Parasomnias
+	Frontal lobe seizures due to structural brain abnormality
+
+Differences between frontal lobe seizures and parasomnias
+
+	Frontal lobe seizures are usually brief events (< 2 minutes), with stereotyped features from seizure to seizure and preserved awareness. Parasomnias are usually longer in duration (> 10 minutes), have variable features from event to event and are characterized by a confusional state with the patient having no memory of the event afterwards.
+	In parasomnias, clustering is rare and the common non-REM parasomnias typically occur 1-2 hours after falling asleep, in the first cycle of deep slow wave sleep. Nocturnal frontal lobe seizures typically occur throughout the night, and more frequently within half an hour of falling asleep (in hypnogogic states) or shortly before awakening.
+
+
+
+ADOLESCENT/ADULT
+
+JUVENILE ABSENCE EPILEPSY
+Clinical Overview
+OVERVIEW
+
+This genetic generalized epilepsy is characterized by absence seizures that are not very frequent in an otherwise normal adolescent or adult. Generalized convulsive seizures typically also occur. With absence seizures in a child aged between 8 and 12 years, a diagnosis of juvenile absence epilepsy or childhood absence epilepsy depends on the frequency of the absence seizures.
+
+NOTE A genetic generalized epilepsy is an epilepsy with generalized seizures associated with generalized epileptiform EEG patterns, such as generalized spike wave activity.
+
+Clinical context
+
+This epilepsy syndrome is characterized by absence seizures that have onset from age 8 to 20 years of age (peak 9-13 years). Less commonly, adolescents may present with generalized convulsive seizures prior to onset of absences. Treatment is usually required for life. Both males and females are affected. Antecedent, birth and neonatal history is normal. Neurological examination and head size are normal. Development and cognition prior to presentation are typically normal. Attention deficit hyperactivity disorder and learning difficulties may also occur. A previous history of febrile seizures is seen occasionally.
+
+Seizures
+Mandatory seizures
+
+Absence seizures are mandatory seizures; these are not as frequent as seen in childhood absence epilepsy. Loss of awareness maybe complete or may not be as severe as seen in childhood absence epilepsy. During absence seizures with incomplete loss of awareness an adolescent can respond to commands but has difficulty doing complex tasks. Absence status epilepticus can occur.
+
+May have
+
+Generalized convulsive seizures are common (in 80% of cases), and seen within 30 minutes of waking, but frequency is variable.
+
+May have
+
+Generalized convulsive seizures are common (in 80% of cases), and seen within 30 minutes of waking, but frequency is variable.
+
+Exclusionary
+
+	Myoclonic seizures- myoclonic seizures with absence seizures right arrow consider juvenile myoclonic epilepsy
+	Any other seizure types
+
+EEG
+Background
+
+The background is normal. Occipital intermittent rhythmic delta activity (OIRDA) may be seen.
+
+CAUTION Generalized slowing is not seen.
+
+CAUTION Focal slowing consistently over one area right arrow consider structural brain abnormality.
+
+Interictal
+
+There may be generalized spike-and-wave, fragments of generalized spike-and-wave or polyspike-and-wave.
+
+CAUTION Although focal spikes can occur, if they consistently arise in one area right arrow consider structural brain abnormality.
+
+CAUTION Slow spike-and-wave (<2.5Hz) is not seen right arrow consider other epilepsy syndromes.
+
+eeg
+Example of 3-6Hz generalized spike-and-wave
+
+Activation
+
+Generalized spike-and-wave or polyspike-and-wave and clinical absences are provoked by hyperventilation.
+
+CAUTION Where hyperventilation is performed well for three minutes and no generalized spike-and-wave is seen, absence seizures are unlikely.
+
+EEG abnormality is enhanced by sleep deprivation, by sleep and on wakening. Generalized spike-and-wave often becomes fragmented with sleep deprivation or in sleep. Fragmented generalized spike-and-wave can appear focal or multi-focal but usually is not consistently seen in one area. The morphology of the focal spike-and-wave typically appears similar to the generalized spike-and-wave.
+
+Ictal
+
+Regular 3-6 Hz generalized spike-and-wave or polyspike-and-wave occurs with absence seizures.
+
+With generalized convulsive seizures the ictal EEG is often obscured by artifact. Generalised fast rhythmic spikes are seen in the tonic stage, in the clonic phase bursts of spikes and after-coming slow waves are synchronous with clonic jerks. A postictal period of irregular slow activity follows generalized convulsions.
+
+Imaging
+Imaging
+
+Neuroimaging is normal. If the clinical presentation and EEG is typical for juvenile absence epilepsy and there are no atypical features, imaging is not required.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Complex inheritance
+
+KNOWN GENES
+
+Genes linked to this syndrome include GABRG2, CACNA1A and others.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history is occasionally present, typically family members having a related genetic generalized epilepsy.
+
+Differential diagnoses
+
+	Juvenile myoclonic epilepsy - the presence of myoclonic seizures distinguishes juvenile absence epilepsy from this syndrome
+	Childhood absence epilepsy right arrow consider if frequent (multiple daily) absence seizures in a child < 12 years of age
+	Epilepsy with eyelid myoclonias right arrow consider if repetitive, rhythmic, fast >4 Hz jerks of the eyelids, with upward deviation of the eyeballs and with head extension; seizures are very frequent
+	Epilepsy with myoclonic absences right arrow consider if there are 3 Hz myoclonic jerks of upper limbs with tonic abduction
+	Structural brain abnormality  right arrow consider if absence or generalized convulsive seizures with focal features seen consistently from seizure to seizure
+
+
+
+JUVENILE MYOCLONIC EPILEPSY
+Clinical Overview
+OVERVIEW
+
+This syndrome is one of the most common genetic generalized epilepsies and is characterized by myoclonic and generalized convulsive seizures in an otherwise normal adolescent or adult. The EEG shows generalized spike-and-wave and polyspike-and-wave. Photosensitivity is common.
+
+NOTE A genetic generalized epilepsy is an epilepsy with generalized seizures associated with generalized epileptiform EEG patterns, such as generalized spike wave activity.
+
+Clinical context
+
+This syndrome is characterized by myoclonic seizures and generalized convulsions that have onset between 8 to 25 years of age. A small number (approximately 5%) of cases evolve into this syndrome from childhood absence epilepsy. Both males and females are equally affected. Antecedent and birth history is normal. Development and cognition are typically normal. Neurological examination and head size are normal. A history of febrile seizures is seen in 5-10%.
+
+Seizures
+Mandatory seizures
+
+Myoclonic seizures occur, these are often distal and seen especially on awakening (within 30 minutes to 1 hour of wakening). They can also be nocturnal or random. Myoclonic status epilepticus can occur.
+
+May have
+
+Generalized convulsions are seen in >90% of individuals, these are often preceded by a series of myoclonic seiures that increase in frequency and severity resulting in a clonic-tonic-clonic sequence. Generalized convulsive status epilepticus is uncommon.
+
+Absence seizures are seen in one third of cases, these may be briefer (average 3 seconds), less frequent (<daily) and there may be less impairment of awarenessand responsiveness than seen in childhood absence epilepsy or juvenile absence epilepsy. During absence seizures with minimal lossof awareness an adolescent can respond to commands but has difficulty doing complex tasks
+
+Exclusionary
+
+Any other seizure type.
+
+EEG
+Background
+
+The background is EEG normal.
+
+CAUTION Generalized slowing is not seen.
+
+CAUTION Focal slowing consistently seen in one area right arrow consider structural brain abnormality.
+
+Interictal
+
+The interictal EEG may have generalized spike-and-wave and polyspike-and-wave, usually at 3.5-6Hz. In one third of cases, fragmented generalized spike-and-wave can appear focal or multi-focal, but usually is not consistently seen in one area.
+
+CAUTION Focal spikes consistently seen in one area right arrow consider structural brain abnormality.
+
+CAUTION Slow spike and wave (<2.5 Hz) is not seen right arrow consider other epilepsy syndromes.
+
+Activation
+
+A photoparoxysmal response to intermittent photic stimulation is seen in one third of cases, however seizures induced by visual stimuli in daily life are seen in <10%.
+
+Generalized spike-and-wave or polyspike-and-wave and clinical absences may be provoked by hyperventilation.
+
+CAUTION Where hyperventilation is performed well for three minutes and no generalized spike-and-wave is seen, absence seizures are unlikely.
+
+EEG abnormality is enhanced by sleep deprivation and by sleep. Generalized spike-and-wave often becomes fragmented with sleep deprivation or in sleep. Fragmented generalized spike-and-wave can appear focal or multi-focal but usually is not consistently seen in one area. The morphology of the focal spike-and-wave typically appears similar to the generalized spike-and-wave.
+
+Ictal
+
+A single generalized polyspike-and-wave correlates with the myoclonic seizure.
+
+With generalized convulsive seizures, the ictal EEG is often obscured by artifact. Generalized fast rhythmic spikes are seen in the tonic stage. Bursts of spikes and after-coming slow waves are synchronous with clonic jerks. A postictal period of irregular slow activity follows.
+
+Regular fast (3.5-6Hz) generalized spike-and-wave or polyspike-and-wave accompanies absence seizures.
+
+Imaging
+Imaging
+
+Neuroimaging is normal. If the clinical presentation and EEG is typical for juvenile myoclonic epilepsy and there are no atypical features, imaging is not required.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Inheritance patterns may be complex or Mendelian.
+
+KNOWN GENES
+
+CACNB4, GABRA1, CLCN2, GABRD and EFHC1
+Microdeletions, such as the 15q13.3 microdeletion and others, have also been associated with a juvenile myoclonic epilepsy phenotype
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A positive family history of epilepsy is occasionally present, typically of juvenile myoclonic epilepsy or other genetic generalized epilepsies.
+
+Differential diagnoses
+
+	Juvenile absence epilepsy - the presence of myoclonic seizures distinguishes juvenile myoclonic epilepsy from juvenile absence epilepsy (with myoclonic seizures exclusionary for juvenile absence epilepsy)
+	Epilepsy with eyelid myoclonias right arrow consider if repetitive, rhythmic, fast >4 Hz jerks of the eyelids, with upward deviation of the eyeballs and with head extension; seizures are very frequent
+	Epilepsy with myoclonic absences right arrow consider if there are 3 Hz myoclonic jerks of upper limbs with tonic abduction
+	Structural brain abnormality right arrow consider if myoclonic or generalized convulsive seizures with focal features seen consistently from seizure to seizure
+	Progressive myoclonus epilepsies right arrow consider if myoclonus is intractable, and there is cognitive decline and slowing of the background EEG
+
+
+
+EPILEPSY WITH GENERALIZED TONIC-CLONIC SEIZURES ALONE
+Clinical Overview
+OVERVIEW
+
+This syndrome (previously known as epilepsy with grand mal seizures on awakening) is a common genetic generalized epilepsy. Individuals have infrequent generalized convulsive seizures from the second decade of life, typically provoked by sleep deprivation.
+
+NOTE A genetic generalized epilepsy is an epilepsy with generalized seizures associated with generalized epileptiform EEG patterns, such as generalized spike wave activity.
+
+Clinical context
+
+This syndrome is characterized by onset of generalized convulsive seizures between the ages of 5 to 40 years (peak 11-23 years, 80% of cases have their first convulsion in the second decade). Seizures may be frequent, with one fifth of cases having more than one seizure per month prior to treatment. Treatment is required for life. Sleep deprivation, fatigue and alcohol lower threshold for seizures. Antecedent and birth history is normal, although there are patients with a previous history of childhood absence epilepsy. Neurological examination and head size is normal. Development and cognition is typically normal.
+
+Seizures
+Mandatory seizures
+
+Generalized convulsive seizures are mandatory for this epilepsy syndrome, predominantly/exclusively ocurring on awakening (within 1-2 hours, although also seen from awake or sleep states).
+
+Exclusionary
+
+All other seizure types.
+
+EEG
+Background
+
+The EEG background is normal.
+
+CAUTION Generalized slowing is not seen.
+
+CAUTION Focal slowing seen consistently over one area right arrow consider structural brain abnormality.
+
+Interictal
+
+Generalized spike-and-wave or polyspike-and-wave is seen in the interictal EEG. Half of patients have these abnormalities only in sleep.
+
+CAUTION Although focal spike-and-wave can occur, if seen consistently in one area right arrow consider structural brain abnormality.
+
+CAUTION Slow spike-and-wave (<2.5Hz) is not seen right arrow consider other epilepsy syndromes.
+
+Activation
+
+An intermittent photoparoxysmal response to photic stimulation may be seen.
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Generalized spike-and-wave often becomes fragmented with sleep deprivation or in sleep. Fragmented generalized spike-and-wave can appear focal or multi-focal but usually is not consistently seen in one area. The morphology of the focal spike-and-wave typically appears similar to the generalized spike-and-wave.
+
+Ictal
+
+With generalized convulsive seizures, the ictal EEG is often obscured by artifact. Generalized fast rhythmic spikes are seen in the tonic stage. Bursts of spikes and after-coming slow waves are synchronous with clonic jerks. A postictal period of irregular slow activity follows.
+
+Imaging
+Imaging
+
+Neuroimaging is normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Complex inheritance.
+
+KNOWN GENES
+
+CLCN2 and others.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of epilepsy is common (in 20%, commonly the same epilepsy syndrome). A family history of febrile seizures is reported in around 10% of cases.
+
+Differential diagnoses
+
+	Genetic epilepsy with febrile seizures plus
+	Juvenile absence epilepsy
+	Juvenile myoclonic epilepsy
+
+
+
+AUTOSOMAL DOMINANT EPILEPSY WITH AUDITORY FEATURES
+Clinical Overview
+OVERVIEW
+
+Autosomal dominant epilepsy with auditory features (formerly called autosomal dominant partial /lateral temporal epilepsy with auditory features) is a hereditary epilepsy, with focal seizures with auditory features seen in family members. Seizures often comprise such mild symptoms that they are undiagnosed. There are no implications expected for development or learning and seizures are typically infrequent and well controlled.
+
+NOTE a variant with aphasic seizures (autosomal dominant epilepsy with aphasic seizures) is also recognized.
+
+Clinical context
+
+This syndrome typically is of onset in adolescence or early adulthood (4-40 years). Both sexes are affected equally. Antecedent and birth history is normal. Head size and neurological examination are normal. Development and cognition are normal.
+
+Seizures
+Mandatory seizures
+
+Focal seizures with auditory aura or receptive aphasia are mandatory seizures for this epilepsy syndrome. Seizures aremild, infrequent, mainly nocturnal and easily controlled with medication.
+
+Auditory aura comprise simple elementary sounds (such as humming, buzzing, ringing), illusions (sound distortions such as volume changes) or hallucinations (such as hearing specific songs or voices). Other sensory (e.g. visual, olfactory, cephalic) or experiential auras may occur. Motor or autonomic features are uncommon.
+
+Ictal receptive aphasia comprises a sudden onset of inability to understand language in the absence of general confusion and is seen in a variant of this syndrome (autosomal dominant epilepsy with aphasic seizures).
+
+May have
+
+	Reflex seizures in response to sound
+	Evolution to bilateral convulsion (uncommon, predominantly nocturnal)
+
+EEG
+Background
+
+The background EEG is normal.
+
+Interictal
+
+The interictal EEG is usually normal; 30% have focal temporal epileptiform abnormalities.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep.
+
+Ictal
+
+The ictal EEG may show mid-temporal, anterior temporal, or fronto-temporal focal ictal rhythms.
+
+Imaging
+Imaging
+
+Neuroimaging is normal or may rarely show mild or non-specific temporal lobe abnormality.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Autosomal dominant with high penetrance.
+
+KNOWN GENES
+
+Mutations in LGI1 are identified in 50% of families.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of typical seizures with a dominant inheritance pattern with high penetrance is expected for the diagnosis of this syndrome. History should be carefully sought, as seizures comprise such mild symptoms that some individuals in families have not recognized their seizures. Sporadic cases do occur. Some families with LGI1 mutation have individuals with genetic generalized epilepsies, it is unknown whether this is by chance or linked to LGI1.
+
+Differential diagnoses
+
+	Focal temporal lobe epilepsies due to structural brain abnormality
+	Other familial temporal lobe epilepsies
+
+
+
+OTHER FAMILIAL TEMPORAL LOBE EPILEPSIES
+Clinical Overview
+Overview
+
+This syndrome is identified in an individual who has seizures with temporal lobe features with a family history of similar seizures. Seizures often comprise such mild symptoms that they are undiagnosed. There are no implications expected for development or learning and seizures are typically infrequent and well controlled.
+
+Clinical context
+
+This syndrome is characterized by the onset of focal seizures with temporal lobe features, typically in the presence of a family history of similar seizures. Age of seizure onset is > 10 years of age, commonly in adolescent or adult years (median 25 years). Seizures are mild phenomena and easily controlled by medication. Both males and females are affected. Antecedent and birth history are unremarkable. Head size and neurological examination are normal. Development and cognition are normal.
+
+Seizures
+Mandatory seizures
+
+Focal seizures with temporal lobe features occur, most are associated with retained awareness although dyscognitive features may occur. Seizures are usually mild and infrequent and mainly compose experiential aura such as déjà vu, fear, visual and auditory illusions (e.g. distortion of light and sound) and hallucinations (alone or in combination with autonomic features). sensory auras are common and may be diffuse (not localized), consisting of numbness or tingling. Epigastric aura are not seen.
+
+May have
+
+Bilateral convulsions occur in two thirds of patients, often before treatment. when these occur they are infrequent.
+
+May have
+
+Other seizure types are not expected.
+
+EEG
+Background
+
+The background EEG is normal, mild focal slowing may be seen in a third of cases.
+
+Interictal
+
+One fifth of cases may have infrequent sharp and slow-wave complexes seen in the temporal region, often unilaterally.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep.
+
+Ictal
+
+There are inadequate published records of ictal EEG in this syndrome.
+
+Imaging
+Imaging
+
+Neuroimaging is normal. Exceptionally hippocampal abnormality or diffuse foci of high signal on T2-weighted imaging may be seen in more severe cases.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Autosomal dominant with ~60% penetrance.
+
+KNOWN GENES
+
+DEPDC5
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of seizures with temporal lobe features with a dominant inheritance pattern with incomplete penetrance is expected for the diagnosis of this syndrome. History should be carefully sought, as seizures comprise such mild symptoms that some individuals in families have not recognized their seizures.
+
+Differential diagnoses
+
+	Familial focal epilepsy with variable foci
+	Focal temporal lobe epilepsy due to structural brain abnormality
+	It can be difficult to distinguish seizures with minimal features (e.g. with just déjà vu) from normal experiential phenomena that occur in healthy individuals
+
+
+
+
+VARIABLE AGE
+
+FAMILIAL FOCAL EPILEPSY WITH VARIABLE FOCI
+Clinical Overview
+Overview
+
+This is a hereditary epilepsy, with focal seizures arising in different focal regions in different family members but with each individual in a family having a single focal seizure type. There are no implications expected for development or learning and seizures are typically infrequent and well controlled.
+
+Clinical context
+
+This syndrome is characterized by the onset of focal seizures, typically in the presence of a family history of focal seizures that may arise in different locations in different individuals. Age of seizure onset is highly variable (from infancy to adulthood, mean age 13 years). Both males and females are affected. Antecedent and birth history are unremarkable. Head size and neurological examination are normal. Development and cognition are normal.
+
+Seizures
+Mandatory seizures
+
+Focal seizures (frontal, temporal, parietal or occipital) occur, nocturnal seizures are common. Each individial in a family typically has a single focal seizures type. Seizures vary in frequency and response to medications in different individuals in a family, but are typically infrequent and well controlled.
+
+Exclusionary
+
+Other seizures are not seen.
+
+EEG
+Background
+
+The background EEG is normal.
+
+Interictal
+
+The interictal EEG shows focal (frontal, temporal, parietal or occipital) epileptiform abnormalities in most cases, in each individual in a family the focal area remains constant over time.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep.
+
+Ictal
+
+Ictal EEG demonstrates focal ictal patterns.
+
+Imaging
+Imaging
+
+Neuroimaging is normal.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Autosomal dominant with ~60% penetrance.
+
+KNOWN GENES
+
+DEPDC5.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+A family history of focal seizures with a dominant inheritance pattern with incomplete penetrance is expected for the diagnosis of this syndrome.
+
+Differential diagnoses
+
+	Autosomal dominant epilepsy with auditory features
+	Other familial temporal lobe epilepsies
+
+
+
+REFLEX EPILEPSIES
+Clinical Overview
+OVERVIEW
+
+Reflex epilepsies are characterized by the presence of reflex seizures and the absence of spontaneous seizures. Reflex seizures may occur in epilepsies of varied etiologies (e.g. in structural brain abnormality and in genetic generalized epilepsies), however these are not categorized as reflex epilepsies as spontaneous seizures occur in addition to reflex seizures. There are a number of recognized reflex epilepsies; two examples are described in this section of EpilepsyDiagnosis.org.
+
+NOTE a reflex (also known as stimulus-sensitive or sensory-evoked) seizure is a seizure that is constantly elicited by a specific stimulus, which may be an afferent sensory stimulus or an activity undertaken by the patient. Sensory stimuli may be elementary (e.g. light flashes, patterns, elimination of visual fixation, elimination of light, tactile, hot water, startle or a monotone) or more complex (e.g. eating, tooth-brushing, music or singing). A stimulus activity may be elementary (e.g. a movement) or more complex (e.g. reading, playing chess, calculating, thinking). Such stimuli will constantly elicit a reflex seizure in a patient with reflex epilepsy, in contrast to facilitating stimuli that may facilitate EEG discharges or evoke a seizure (but not constantly) in other epilepsy syndromes.
+
+Reading epilepsy
+
+Reading epilepsy is characterized by seizures that start between 12 and 19 years of age. There is a male predominance (1.8M:F). Seizures are elicited by reading (aloud or silently). Prognosis is good as seizures are usually minor and can be avoided through reducing exposure to the stimulus.
+
+Startle epilepsy
+
+Startle epilepsy is characterized by seizures that may start in childhood or early adolescence (1-16 years). Both sexes are affected. Most patients have underlying structural brain abnormality with neurological (e.g. hemiplegia) and intellectual disability. Seizures are often difficult to control.
+
+Seizures
+Reading epilepsy
+
+Seizures are exclusively induced by reading and can start minutes to hours after reading. Myoclonic jerks of the masticatory, perioral and oral muscles are the commonest seizure seen in this syndrome, resulting in a clicking sensation. If reading continues, the jerks may increase and spread or a generalized convulsion may occur. Seizures with inability to read or possibly dysphasia may occur and may be prolonged. Absence seizures may occasionally occur. Seizures are typically well controlled once the stimulus is recognized. Seizures may be precipitated by talking, writing or chewing in some patients.
+
+Startle epilepsy
+
+Seizures are exclusively induced by startle with a sudden bried tonic seizure typically affecting the trunk and causing a fall. Tonic seizures often have focal features with asymmetry. There may be associated autonomic features or automatisms. Other seizuretypes may occur, including atonic and myoclonic seizures. Seizures are typically frequent.
+
+EEG
+Reading epilepsy
+
+The interictal EEG is usually normal. Ictal EEG may be obscured by artifact due to myoclonic jerks of the jaw and head. Ictal EEG findings of sharp-wave discharges have been reported, when these are noted they are bilateral but with a dominant hemisphere (tempero-parietal) maximum.
+
+Startle epilepsy
+
+Interictal EEG findings reflect the underlying etiology e.g. structural brain abnormality. Ictal EEG shows an initial midline vertex discharge followed by diffuse attenuation or low voltage fast activity (which may have onset or emphasis in areas of structural brain abnormality, and then spread). Ictal EEG may be obscured by myogenic artifact.
+
+Imaging
+Reading epilepsy
+
+Neuroimaging is normal.
+
+Startle epilepsy
+
+Neuroimaging is usually abnormal, with acquired or developmental structural brain abnormality, typically involving lateral sensori-motor cortex.
+
+Genetics
+Reading epilepsy
+
+Reading epilepsy is thought to be genetically determined. Familial cases have been reported.
+
+Startle epilepsy
+
+Usually due to structural brain abnormality and not inherited, may occur in children with Down syndrome.
+
+Differential diagnoses
+Reading epilepsy
+
+This is usually not difficult to distinguish from other epilepsies if correct history is obtained.
+
+Startle epilepsy
+
+Hyperekplexia.
+
+
+
+PROGRESSIVE MYOCLONUS EPILEPSIES
+Clinical Overview
+Overview
+
+Progressive myoclonus epilepsy should considered in a patient with myoclonic seizures, with or without generalized convulsive seizures in the following settings:
+
+Progressive cognitive decline
+Myoclonus resulting in progressive motor impairment
+Cerebellar signs
+Background slowing on EEG (particularly if increasing over time)
+Myoclonus that is refractory to trials of appropriate anti-seizure medication
+Causes
+
+Many metabolic and genetic causes of progressive myoclonus epilepsy exist, and specific etiologies often present at certain ages. However, despite extensive evaluation, the cause of progressive myoclonus epilepsy may remain unknown in some patients. Causes that are recognized include:
+
+Neurodegenerative conditions: Unverricht-Lundborg disease and Lafora disease.
+
+Less commonly: Dentatorubo-pallidoluysian atrophy, juvenile Huntingtons, action-myoclonus-renal failure syndrome, juvenile neuroaxonal dystrophy, pantothenate-kinase associated neurodegeneration, neuroserpin inclusion body disease, leukoencephalopathy with vanishing white matter, early-onset Alzheimers and GOSR2 mutations.
+
+Metabolic etiologies: mitochondrial disorders (MERRF), neuronal ceroid lipofuscinosis, sialidosis.
+
+Less commonly: mitochondrial disorders (POLG1, MELAS, others), GM2 gangliosidoses, tetrahydrobiopterin deficiency, non-infantile neuronopathic Gaucher's disease and Niemann Pick type C.
+
+Immune etiologies: celiac disease (uncommon)
+Unverricht-Lundborg disease
+
+This disease is the commonest cause of progressive myoclonus epilepsy, presenting with seizures before 18 years of age. Most cases originate from the Scandanavian or Baltic regions of Europe. Myoclonus gradually worsens and cognitive function slowly declines. The disorder has been linked to mutations in the Cystatin B (EMP1) gene. Phenytoin use aggravates the seizure disorder.
+
+Lafora disease
+
+This disorder typically presents with seizures before 20 years of age and is rapidly progressive, with death in 10 years. The disorder has been linked to mutations in the EPM2A and EPM2B genes. Lafora bodies are found in cells in most organs (neurons, liver).
+
+Seizures
+Mandatory seizures
+
+Myoclonic seizures, often refrectory to treatment and resulting in progressive motor impairment.
+
+May have
+
+Generalized convulsive seizures
+
+EEG
+Background/Interictal
+
+The EEG background may be normal at onset, progressive slowing of the background occurs over time. Interictal EEG findings may vary depending on the underlying etiology.
+
+Ictal
+
+A single generalized polyspike-and-wave may correlate with the myoclonic seizure, or there may be variable ictal EEG findings.
+
+With generalized convulsive seizures, the ictal EEG is often obscured by artifact. Generalized fast rhythmic spikes are seen in the tonic stage. Bursts of spikes and after-coming slow waves are synchronous with clonic jerks. A postictal period of irregular slow activity follows.
+
+Imaging
+Imaging
+
+Neuroimaging findings may vary depending on the underlying etiology.
+
+Genetics
+GENETICS
+
+Genetic findings (pattern of inheritance, associated genes, family history) may vary depending on the underlying etiology.
+
+Differential diagnoses
+
+	Dravet syndrome
+	Genetic generalized epilepsies, such as juvenile myoclonic epilepsy, if inappropriate anti-seizure medication has exacerbated myoclonic seizures (e.g. carbamazepine, oxcarbazepine or phenytoin)
+
+NOTE A genetic generalized epilepsy is an epilepsy with generalized seizures associated with generalized epileptiform EEG patterns, such as generalized spike wave activity.
+
+Clinical Overview
+Seizures
+EEG
+Imaging
+Genetics
+Differential diagnoses
+

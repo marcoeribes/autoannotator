@@ -1,0 +1,690 @@
+SEIZURE CLASSIFICATION
+	A seizure is a transient occurrence of signs and/or symptoms due to abnormal excessive or synchronous neuronal activity in the brain. A seizure does not necessarily mean that a person has epilepsy. Seizures fall broadly into two main groups: focal and generalized, although these categories may not be suitable to describe all seizures. The term 'features' will be used in EpilepsyDiagnosis.org to describe both the signs and symptoms that occur during seizures.
+
+GENERALIZED SEIZURE
+	A generalized seizure is conceptualized as originating at some point within, and rapidly engaging, bilaterally distributed networks. Such bilateral networks can include cortical and subcortical structures, but do not necessarily include the entire cortex. Although individual seizure onsets can appear localized, the location and lateralization are not consistent from one seizure to another. Generalized seizures can be asymmetric.
+
+
+
+CONVULSIVE
+Clinical Overview
+Generalized convulsive seizures are typically bilateral and symmetric although variants with asymmetry including head and eye deviation can be seen. A tonic clonic seizure is a seizure consisting of a tonic and a clonic phase, typically in this order, however variations such as clonic-tonic-clonic are also seen. A clonic seizure is a seizure involving bilaterally rhythmic jerking and may occur alone or in combination with tonic activity where there is bilaterally increased tone of the limbs typically lasting seconds to a minute. The jerking in a clonic seizure is more sustained and rhythmic than seen in a myoclonic seizure.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs.
+
+Ictal
+
+With generalized convulsive seizures, the ictal EEG is often obscured by artifact. Generalized fast rhythmic spikes are seen in the tonic stage. Bursts of spikes and after-coming slow waves are synchronous with clonic jerks. A postictal period of irregular slow activity follows. Although individual seizure onsets can appear localized, the location and lateralization are not consistent from one seizure to another.
+
+Differential diagnoses
+	Non-epileptic seizures
+	Syncope with anoxic seizure
+	Focal seizure evolving to bilateral convulsion
+
+Related syndromes
+	Childhood absence epilepsy
+	Juvenile myoclonic epilepsy
+	Juvenile absence epilepsy
+	Epilepsy with generalized tonic-clonic seizures alone
+	Genetic epilepsy with febrile seizure plus
+	Dravet syndrome
+	Lennox Gastaut syndrome
+	Epilepsy with myoclonic-atonic seizures
+	Epilepsy with myoclonic absences
+
+
+
+ABSENCE - TYPICAL
+Clinical Overview
+A typical absence seizure is a generalized seizure with abrupt onset and offset of altered awareness which can vary in severity (see specific syndromes). Memory for events during the seizures is usually impaired although there may be some retained awareness particularly for adolescents. Clonic movements of eyelids, head, eyebrows, chin, perioral or other facial parts may occur, most typically at 3Hz. Myoclonus of limbs can rarely occur. Oral and manual automatisms are common and there may be perseveration of behaviors occurring prior to seizure onset. Absence seizures were previously known as 'petit mal' seizures. Absence status epilepticus can occur.
+
+CAUTION Individual absence seizure longer than 45 seconds or with a post-ictal phase right arrow consider focal seizure.
+
+CAUTION Onset of absence seizures < 4 years right arrow consider glucose transporter disorders.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs.
+
+Ictal
+
+Generalized spike-and-wave is mandatory. Regular 3 Hz generalized spike-and-wave occurs with typical absence seizures in childhood absence epilepsy. In absence seizures beginning in adolescence, faster irregular 3.5-6 Hz generalized spike-and-wave and polyspike-and-wave occurs.
+
+CAUTION Slow spike-and-wave (<2.5Hz) right arrow consider atypical absence seizures
+
+eeg
+Example of 3Hz generalized spike-and-wave seen on the ictal EEG
+
+Differential diagnoses
+	Absence with eyelid myoclonia: repetitive, rhythmic, fast >4 Hz jerks of the eyelids, with upward deviation of the eyeballs and with head extension; often very frequent and provoked by photic stimulation.
+	Myoclonic absence: 3 Hz myoclonic jerks of upper limbs with tonic abduction.
+	Atypical absence: more prolonged subtle altered awareness often seen in individuals with intellectual disability.
+	Focal seizures with dyscognitive features
+	Daydreaming / inattention
+
+Related syndromes
+	Childhood absence epilepsy
+	Juvenile myoclonic epilepsy
+	Juvenile absence epilepsy
+	Genetic epilepsy with febrile seizure plus
+	Dravet syndrome
+	Epilepsy with myoclonic-atonic seizures
+	Epilepsy with myoclonic absences
+
+
+
+MYOCLONIC ABSENCE
+Clinical Overview
+Rhythmic myoclonic jerks of the shoulders and arms with tonic abduction that results in progressive lifting of the arms during the seizure. The myoclonic jerks are typically bilateral but may be unilateral or asymmetric. Perioral myoclonias and rhythmic jerks of the head and legs may occur. Seizures last 10-60 seconds and typically occur daily. Level of awareness varies from complete loss of awareness to retained awareness.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndrome in which this seizure type occurs.
+
+Ictal
+
+Regular 3-Hz generalized spike-and-wave. EMG recordings from the upper arm show a constant relationship between the bilateral myoclonic jerks and spike-and-waves.
+
+CAUTION Slow spike-and-wave (<2.5Hz) right arrow consider atypical absence seizures.
+
+Differential diagnoses
+	Typical absence (with myoclonic components)
+	Atypical absence
+
+Related syndromes
+	Epilepsy with myoclonic absences
+
+
+
+ABSENCE WITH EYELID MYOCLONIA
+Clinical Overview
+Absence seizures accompanied by brief, repetitive, often rhythmic, fast (4-6 Hz) myoclonic jerks of the eyelids with simultaneous upward deviation of the eyeballs and extension of the head. Seizures are typically very brief (<6s in duration) and multiple seizures occur on a daily basis. Mostly awareness is retained.
+
+CAUTION If myoclonic seizure with abduction of the upper limbs right arrow myoclonic absence seizures
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndrome in which this seizure type occurs.
+
+Ictal
+
+High amplitude generalized spike-and-wave and polyspike-and-wave at a frequency of 3-6Hz, triggered by eye closure and intermittent photic stimulation.
+
+CAUTION Slow spike-and-wave (<2.5Hz) is not seen.
+
+Differential diagnoses
+	Myoclonic absence: 3 Hz myoclonic jerks of upper limbs with tonic abduction.
+	Typical absence (with eyelid flutter)
+
+Related syndromes
+	Epilepsy with eyelid myoclonias
+	Occasionally seen in other genetic generalized epilepsies and Dravet syndrome
+NOTE A genetic generalized epilepsy is an epilepsy with generalized seizures associated with generalized epileptiform EEG patterns, such as generalized spike wave activity.
+
+
+
+ABSENCE - ATYPICAL
+Clinical Overview
+An atypical absence seizure has less abrupt onset and offset of loss of awareness than typical absence seizures. They are often associated with other features such as loss of muscle tone of the head, trunk or limbs (often a gradual slump) and subtle myoclonic jerks. Atypical absence seizures often occur in individuals with intellectual impairment.The loss of awareness may be minimal with the patient continuing an activity, but more slowly or with mistakes.
+
+CAUTION These seizures can be difficult to recognize in a patient with ongoing slow (<2.5 Hz) generalized spike-and-wave on EEG, careful correlation between EEG and clinical state is recommended.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs.
+
+Ictal
+
+Slow (<2.5 Hz) generalized spike-and-wave discharges accompany atypical absences. These may be facilitated by hyperventilation, however hyperventilation may be difficult to achieve in children with intellectual impairment.
+
+eeg
+Example of slow spike-and-wave.
+
+Differential diagnoses
+	Daydreaming / inattention
+	Focal seizures with dyscognitive features
+
+Related syndromes
+	Lennox-Gastaut syndrome
+	Dravet syndrome
+	Epilepsy with myoclonic-atonic seizures
+	Epilepsy with myoclonic absences
+
+
+
+TONIC
+Clinical Overview
+A generalized tonic seizure involves bilaterally increased tone of the limbs typically lasting seconds to a minute. They often occur out of sleep and in runs of varying intensity of tonic stiffening. The individual is unaware during these events. At the beginning of tonic seizures with more intense stiffening, individuals may make an expiratory sound. More severe and prolonged tonic seizures may have a vibratory component which may be confused with clonic jerking. Tonic seizures often occur in individuals with intellectual impairment.
+
+CAUTION Although asymmetry can occur in a generalized tonic seizure, if consistent focal features are seen from seizure to seizure right arrow consider focal seizure involving the frontal lobe.
+
+NOTE Tonic seizures are one type of seizure that can result in a "drop attack" (also known as astatic seizure), other causes of drop attacks include myoclonic (especially in younger children), atonic and myoclonic-atonic seizures.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs.
+
+Ictal
+
+Tonic seizures show diffuse or generalized accelerating low amplitude paroxysmal fast activity, which is often bilateral and predominates in the anterior and vertex regions.
+
+eeg
+Tonic seizure, on EEG accompanied by electrodecrement and paroxysmal fast frequencies.
+
+CAUTION Consistent focality of spikes or maximal amplitude of ictal rhythm right arrow consider focal seizure.
+
+
+Differential diagnoses
+	Epileptic spasms: the motor contraction is often shorter in duration (<2 seconds), epileptic spasms often occur in a series.
+	Focal seizure - supplementary sensorimotor cortex of frontal lobe
+	Syncope
+	Non epileptic seizures
+
+Related syndromes
+	Lennox-Gastaut syndrome
+	Epilepsy with myoclonic-atonic seizures
+
+
+
+ATONIC
+Clinical Overview
+An atonic seizure involves sudden loss or diminution of muscle tone without apparent preceding myoclonic or tonic features. Atonic seizures are very brief (<2 seconds) and may involve the head, trunk or limbs. Atonic seizures often occur in individuals with intellectual impairment.
+
+NOTE Atonic seizures are one type of seizure that can result in a "drop attack" (also known as an astatic seizure), other causes of drop attacks include myoclonic (especially in younger children), tonic and myoclonic-atonic seizures.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs.
+
+Ictal
+
+Generalized spike-and-wave is typical, with atonia at the time of the slow wave.
+
+CAUTION If intermittent photic stimulation triggers seizures right arrow consider myoclonic-atonic seizures
+
+Differential diagnoses
+	Myoclonic-atonic seizure: the myoclonic component may be missed without careful review of video
+	Syncope
+	Focal seizure with atonic motor features
+
+Related syndromes
+	Epilepsy with myoclonic-atonic seizures
+	Lennox-Gastaut syndrome
+
+
+
+MYOCLONIC
+Clinical Overview
+A myoclonic seizure is a single or series of jerks (brief muscle contractions). Each jerk is typically milliseconds in duration. Myoclonic status epilepticus is characterized by ongoing (> 30 minutes) irregular jerking, often with partially retained awareness.
+
+NOTE Myoclonic seizures are one type of seizure that can result in a "drop attack" (also known as astatic seizure), other causes of drop attacks include tonic, atonic and myoclonic-atonic seizures.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs.
+
+Ictal
+
+The myoclonic jerk correlates with a generalized spike-and-wave or polyspike-and-wave.
+
+Differential diagnoses
+	Non epileptic seizure
+	Myoclonic-atonic seizure
+	Atonic seizure
+	Negative myoclonic seizure: often compensatory movement to correct posture follows the negative myoclonic seizure.
+	Typical absence (with myoclonic components)
+	Myoclonic absence seizure
+	Non-epileptic myoclonus e.g. spinal myoclonus
+	Tremor
+	Fasciculation
+	
+Related syndromes
+	Juvenile myoclonic epilepsy
+	Progressive myoclonus epilepsies
+	Lennox-Gastaut syndrome
+	Dravet syndrome
+	Epilepsy with myoclonic-atonic seizures
+
+
+
+NEGATIVE MYOCLONUS
+Clinical Overview
+A negative myoclonic seizure is a seizure with brief cessation of background muscle tone, lasting less than 500 milliseconds. The resulting movement produced can have two components, an initial loss of posture caused by the negative myoclonus, and a subsequent voluntary, compensatory movement to restore posture. Negative myoclonic seizures may occur in isolation or in a series.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs.
+
+Ictal
+
+Negative myoclonus is seen in association with the spike of a spike or spike-and-wave discharge on EEG.
+
+Differential diagnoses
+	Non epileptic seizure
+	Myoclonic-atonic seizure
+	Atonic seizure
+
+Related syndromes
+	Progressive myoclonus epilepsies
+	Myoclonic encephalopathy in non-progressive disorders
+
+
+
+MYOCLONIC-ATONIC
+Clinical Overview
+A myoclonic-atonic seizure is a myoclonic seizure followed by an atonic seizure. Sometimes a series of myoclonic jerks occurs prior to the atonia. The head and limbs are affected, typically resulting in rapid fall. The myoclonic jerk may be subtle.
+
+NOTE Myoclonic-atonic seizures are one type of seizure that can result in a "drop attack" (also known as astatic seizure), other causes of drop attacks include myoclonic (especially in younger children), tonic and atonic seizures.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndrome in which this seizure type occurs.
+
+Ictal
+
+The myoclonic component is associated with a generalized spike or polyspike. The atonic component is associated with the aftergoing high voltage slow wave.
+
+CAUTION Focal discharges are not seen right arrow consider structural brain abnormality.
+
+Differential diagnoses
+	Atonic seizure
+	Tonic seizure
+	Typical absence: with myoclonic or atonic components
+
+Related syndromes
+	Epilepsy with myoclonic-atonic seizures
+
+
+
+FOCAL SEIZURE
+Focal seizures are conceptualized as originating within networks limited to one hemisphere. They may be discretely localized or more widely distributed. Focal seizures may originate in subcortical structures. For each seizure type, ictal onset is consistent from one seizure to another, with preferential propagation patterns that can involve the ipsilateral and/or contralateral hemisphere.
+
+Focal seizures can be described by their semiology (features). The features that occur may reflect the regional networks involved in the seizure origin or propagation, often enabling these areas of the brain to be identified. Some features allow identification of the hemisphere involved, others allow identification of the discrete area of the brain (for example a lobe) that is involved. In this section of EpilepsyDiagnosis.org, features of focal seizures are presented as well as the collection of features that may allow the seizure onset or network to be lateralized to a hemisphere and/or discretely localized to a lobe or a more localized area of the brain.
+
+
+
+AURA
+Clinical Overview
+Auras are subjective and may be sensory or experiential. They reflect the initial seizure discharge. An aura may be an isolated phenomenon or progress to a focal seizure with objective features (with or without altered awareness) or to a bilateral convulsion. An aura is also known as a "warning".
+
+Sensory aura
+
+A sensory aura involves a sensation without an objective clinical sign. Sensory aura include the following types:
+
+	Somatosensory aura are characterized by sensory phenomena including tingling, numbness, electric-shock like sensation, pain, sense of movement, or desire to move. Somatosensory aura occur in seizures involving the sensorimotor cortex.
+	Visual aura are characterized by elementary visual hallucinations such as flashing or flickering lights, spots or other shapes, simple patterns, scotomata, or amaurosis. More complex visual hallucinations such as seeing formed images are considered experiential aura. Visual aura occur in seizures involving the occipital lobe, and are often colored in nature.
+	Auditory aura are characterized by elementary auditory phenomena including buzzing, ringing, drumming or single tones. More complex auditory hallucinations such as voices are considered experiential seizures. Auditory aura occur in seizures involving auditory cortex in the lateral superior temporal lobe.
+	Olfactory aura are characterized by olfactory phenomena - usually an odor, which is often unpleasant. Olfactory aura occur in seizures involving the mesial temporal or orbitofrontal regions.
+	Gustatory aura are characterized by taste phenomena including acidic, bitter, salty, sweet, or metallic tastes. Gustatory aura occur in seizures involving the parietal operculum and the insula.
+	Epigastric aura are characterized by upper abdominal phenomena including discomfort, emptiness, tightness, churning and a sensation that may rise up to the chest or throat. Epigastric aura occur in seizures involving the mesial temporal lobe.
+	Cephalic aura are characterized by a sensation in the head such as light-headedness or headache.
+
+
+Experiential aura
+
+An experiential aura involves affective, mnemonic (memory) or perceptual subjective phenomena including depersonalization and hallucinatory events; these may appear alone or in combination. Experiential aura include the following types:
+
+	Affective aura are characterized by phenomena such as fear, depression, joy and anger.
+	Mnemonic aura are characterized by memory phenomena such as feelings of familiarity (déjà vu) and unfamiliarity (jamais vu).
+	Hallucinatory aura are characterized by imagined complex sensory phenomena that may involve visual (e.g. formed images), auditory (e.g. hearing voices) or other sensory modalities, without change in awareness. The sensory phenomena may be accompanied by associated emotion or interpretation e.g. may be experienced as persecutory.
+	Illusory aura are characterized by an alteration of actual perception involving visual, auditory, somatosensory, olfactory, and/or gustatory phenomena, without change in awareness.
+
+
+
+MOTOR
+Clinical Overview
+A motor feature involves motor activity and may consist of an increase (positive) or decrease (negative) in muscle contraction. Motor features may be elementary or complex.
+
+Elementary motor
+
+An elementary motor feature involves a stereotyped contraction of a muscle or group of muscles. Such motor features may be predominantly convulsive Convulsive: rhythmic jerking (clonic activity), may occur alone or in combination with tonic activity. (e.g. hemiclonic Hemiclonic: rhythmic jerking (clonic activity) involving only one side of the body), myoclonicMyoclonic: a single or short cluster of brief muscle contractions (jerks). Each jerk is typically milliseconds in duration., tonicTonic: increased muscle tone, usually lasting for seconds to minutes., epileptic spasmEpileptic spasm: sudden flexion, extension or mixed flexion-extension of proximal and truncal muscles, lasting 1-2 seconds, typically occurs in a series, versiveVersive: sustained, forced conjugate ocular, cephalic, and/or truncal rotation or lateral deviation from the midline. or dystonicDystonic: sustained contractions of both agonist and antagonist muscles producing athetoid or twisting movements, may produce abnormal postures..
+
+
+Complex motor
+
+A complex motor feature involves complex movement patterns. Three types are recognized:
+
+	A hypermotor feature involves proximal limb or axial muscles, producing irregular large amplitude ballistic movements, such as pedaling, pelvic thrusting, jumping, thrashing and/or rocking movements.
+	A negative motor feature is characterized by reduced motor activity.
+		A negative myoclonic feature involves an interruption in normal tonic muscle activity for 500 milliseconds or less, without evidence of preceding myoclonus Myoclonic: a single or short cluster of brief muscle contractions (jerks). Each jerk is typically milliseconds in duration..
+		An atonic feature involves sudden loss or diminution of muscle tone without apparent preceding myoclonic or tonic activity. This lasts >500 milliseconds but < 2 seconds. It may involve the head, trunk, jaw, or limb musculature
+		A hypomotor feature involves a decrease in amplitude and/or rate or arrest of ongoing motor activity.
+	An automatism is a coordinated, repetitive motor activity usually occurring when cognition is impaired and for which the subject is usually amnesic afterward. This often resembles a voluntary movement and may consist of an inappropriate continuation of pre-ictal motor activity. Automatisms include:
+		Oroalimentary: lip smacking, lip pursing, chewing, swallowing, clicking.
+Manual or pedal: bilateral or unilateral distal or proximal movements, including fumbling, tapping, manipulating movements of hands or feet.
+		Gestural: often unilateral, fumbling or exploratory movements with the hand intended to lend emotional tone to communication.
+		Gelastic: bursts of laughter or giggling, usually without appropriate affective tone and described as 'mirthless'. This is characteristic of seizures arising in the hypothalamus, but can occur in seizures arising in the frontal or temporal lobes.
+		Vocal: single or repetitive sounds such as shrieks or grunts
+		Verbal: single or repetitive words, phrases or brief sentences.
+		Dacrystic: outbursts of crying.
+
+
+Focal seizure evolving to a bilateral convulsion
+
+A focal seizure may spread to involve both hemispheres, resulting in bilateral convulsive features. This was previously known as a 'secondary generalized seizure'. Motor components in such a situation may include tonic or clonic features.
+
+
+Epilepsia partialis continua
+
+Epilepsia partialis continua refers to recurrent focal motor seizures (typically affecting hand and face, although other body parts may be affected), that occur every few seconds or minutes for extended periods (days or years). The focal motor features may exhibit a Jacksonian march. A Todd's paresis may be seen in the affected body part.
+
+
+
+AUTONOMIC
+Clinical Overview
+Autonomic features are characterized by autonomic phenomena, which can involve cardiovascular, gastrointestinal, vasomotor, and thermoregulatory functions. Examples include palpitations, nausea, butterflies, hunger, chest pain, urge to urinate or defecate, goosebumps, sexual sensation, feeling hot or cold, pilo-erection, pallor, tachycardia or bradycardia/asystole, flushing, pupillary changes and lacrimation.
+
+CAUTION Ictal asystole of sufficient duration (> 5 seconds) to cause reduced brain perfusion may result in loss of body tone, stiffening and/or convulsive movements.
+
+
+
+DYSCOGNITIVE
+Clinical Overview
+A dyscognitive feature involves altered awareness or responsiveness. Responsiveness may not have been tested and therefore may be impossible to evaluate. Degree of loss of awareness or responsiveness may vary. The term 'complex partial seizure' was previously used to denote focal seizures with altered awareness.
+
+
+
+HEMISPHERIC LATERALIZATION
+Clinical Overview
+Specific focal seizure features are useful in lateralizing the seizure onset or network to one hemisphere. Such features can be informative when EEG recordings are not helpful.
+
+Features that suggest lateralization of the seizure are outlined below. These features provide strong evidence for lateralization, but it should be noted that occasionally they can be falsely lateralizing.
+
+	Unilateral ictal clonic activity or ictal dystonia suggests lateralization of the seizure to the contralateral hemisphere.
+	Early forced head version suggests lateralization to the hemisphere contralateral to the direction of the head version i.e. if the head turns to the right, the seizure onset is in the left hemisphere.
+	Ictal speech lateralizes to the non-dominant hemisphere.
+	Ictal aphasia lateralizes to the dominant hemisphere.
+	Postictal dysphasia lateralizes to the dominant hemisphere.
+	Preserved awareness during ictal automatisms lateralizes to the non-dominant hemisphere.
+	Post-ictal nose-wiping lateralizes to the hemisphere ipsilateral to the hand used for nose-wiping.
+	Unilateral eye-blinking lateralizes to the hemisphere ipsilateral to the eye-blinking.
+	Ictal vomiting lateralizes to the non-dominant hemisphere
+
+
+
+
+Lobar localization
+
+FRONTAL
+Clinical Overview
+
+Overview
+The frontal lobe is the largest lobe and gives rise to seizures with distinctive features depending on the area of the frontal lobe involved. Motor features are prominent and range from hypermotor thrashing attacks with pelvic thrusting and bipedal automatisms to asymmetric tonic posturing. Frontal lobe seizures may begin with a brief aura, even when seizures occur from sleep. Seizures are typically brief, and can have prominent vocalization, bizarre behavior, urinary incontinence, and head and eye deviation. Frontal lobe seizures may be exclusively nocturnal and often cluster. The ictal EEG may not show ictal patterns or may be obscured by movement artifact.
+
+
+CAUTION When consciousness is impaired, frontal dyscognitive seizures can be difficult to distinguish from absence seizures.
+
+
+CAUTION Nocturnal frontal lobe seizures can be mistaken for parasomnias, however:
+
+
+	Frontal lobe seizures are usually brief events (< 2 minutes), with stereotyped features seen from seizure to seizure and preserved awareness. Parasomnias are usually longer in duration (> 10 minutes), have variable features from event to event and are characterized by a confusional state with the patient having no memory of the event afterwards.
+	In parasomnias, clustering is rare and the common non-REM parasomnias typically occur 1-2 hours after falling asleep, in the first cycle of deep slow wave sleep. Nocturnal frontal lobe seizures typically occur throughout the night, and more frequently within half an hour of falling asleep or awakening.
+
+CAUTION Frontal lobe seizures may be mis-diagnosed as non-epileptic seizures as there may be bilateral motor phenomena with preserved awareness, and the ictal EEG can be normal.
+
+
+Subtypes of frontal lobe seizures
+
+1.Primary sensorimotor cortex
+Seizures are characterized by localized convulsive, tonic or myoclonic activity. They may exhibit features of a Jacksonian march where unilateral convulsive movements start in one muscle group and spread systematically to adjacent groups reflecting the spread of ictal activity through the motor cortex according to the homunculus. There may be sensory features alone such as unilateral tingling, or in combination with motor features. Negative motor features such as atonic features may also occur.
+
+2.Supplementary sensorimotor cortex
+Seizures are characterized by an abrupt onset and offset of asymmetric tonic posturing, lasting 10-40 seconds with minimal postictal confusion. Asymmetric posturing of the upper limbs occurs, with extension of the upper limb contralateral to the hemisphere of seizure onset and flexion of the ipsilateral upper limb. Loud vocalization or speech arrest can occur at seizure onset. The head and eyes are often turned to the side contralateral to the hemisphere of seizure onset. There may be a somatosensory aura.
+
+CAUTION The supplementary sensorimotor area is highly connected to other brain regions and asymmetric posturing may be seen in seizures from other regions through rapid spread to the supplementary sensorimotor area.
+
+3.Orbitofrontal cortex
+Dyscognitive features, initial repetitive gestural automatisms, olfactory hallucinations and illusions and autonomic signs may occur.
+
+4.Frontopolar cortex
+Seizures may be characterized by forced thoughts, dyscognitive features, initial ipsilateral head and eye version with possible progression to contralateral version, autonomic features and axial convulsive movements resulting in falls.
+
+5.Dorsolateral frontal cortex
+In the dominant hemisphere, a seizure occurring in or near Broca's area can result in aphasia or dysphasia in a patient who is otherwise awake and responsive. Motor features occur, most commonly tonic features, and are accompanied by contralateral head and eye version. 'Forced thinking' or 'forced acts' may be described.
+
+6.Cingulate cortex
+Seizures are characterized by gestural automatisms at onset with loss of awareness, affective aura and autonomic features. Gelastic automatisms can occur.
+
+7.Fronto-parietal operculum
+Seizures are characterized by facial (mouth and tongue) clonic movements (which may be unilateral), laryngeal symptoms, articulation difficulty, swallowing or chewing movements and hyper-salivation. Sensory (e.g. epigastric) and experiential (e.g. fear) aura and autonomic (urogenital, gastrointestinal, cardiovascular or respiratory) features are common. Gustatory hallucinations are particularly common.
+
+NOTE the terms fronto-parietal opercular, centrotemporal, sylvian and rolandic seizures are synonymous, referring to seizures involving the region around the central sulcus, particularly in the lower central sulcus.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs for specific information. As a general rule, EEG abnormality may be enhanced in sleep deprivation states and in sleep.
+
+There are large areas of mesial and inferior frontal cortex that are not sampled by scalp EEG. The interictal EEG is frequently normal if the etiology of the epilepsy is a structural brain abnormality in these areas. Even with repeated EEGs, epileptiform discharges may only be seen in up to 70% of such patients. In these patients, discharges are typically midline or bi-frontal.
+
+Ictal
+
+Ictal EEG in frontal lobe seizures may be difficult to interpret. Seizures often involve hypermotor activity, which causes the EEG to be obscured by muscle artifact. Ictal EEG can demonstrate a localized ictal rhythm in lateral frontal lobe seizures with localized repetitive discharges. Ictal EEG in mesial frontal lobe seizures can often appear as a generalized EEG change, if an EEG change is present. These bilateral discharges often have an amplitude asymmetry, representing secondary bilateral synchrony rather than true generalized seizure onset, and may be preceded by generalized suppression of the EEG. Ictal EEG may also be characterized by diffuse or localized low voltage fast rhythms.
+
+CAUTION False localization may occur, especially to the ipsilateral temporal lobe. Interpretation of seizure features in conjunction with ictal EEG is important in this situation.
+
+Differential diagnoses
+	Typical absence seizures
+	Focal seizures with dyscognitive features arising/involving other lobes
+	Non-epileptic seizures
+	Paroxysmal movement disorders
+	Parasomnias
+
+Related syndromes
+	Autosomal dominant nocturnal frontal lobe epilepsy
+	Childhood epilepsy with centrotemporal spikes
+	Familial focal epilepsy with variable foci
+
+
+TEMPORAL
+Clinical Overview
+
+Overview
+Temporal lobe seizures are characterized by behavioral arrest with loss of awareness (dyscognitive features). Automatisms are common and include oro-alimentary and/or gestural automatisms. Seizures often commence with an aura which can be experiential such as fear or déjà vu. Epigastric and auditory aura also occur. Autonomic features are common including pallor and palpitations. Postictal confusion typically occurs.
+
+Specific features suggest seizure onset in the dominant or non-dominant temporal lobe (see hemispheric lateralization). Ictal speech, spitting, vomiting, drinking, urge to urinate and automatisms with preserved consciousness suggest seizure onset in the non-dominant temporal lobe. Postictal speech disturbance suggests a dominant temporal lobe seizure. Upper limb dystonia is a useful lateralizing feature, lateralizing the seizure to the contralateral hemisphere. Conversely, manual automatisms usually occur on the ipsilateral side.
+
+In infants, temporal seizures may be subtle and manifest with pallor, apnoea and behavioral arrest. There may be earlier and more marked motor manifestations including tonic events and epileptic spasms, which may reflect different patterns of spread in the developing brain.
+
+CAUTION Temporal focal dyscognitive seizures can have similar features to frontal seizures, however dyscognitive seizures of temporal origin tend to have a slower onset and progression, and postictal confusion is more pronounced.
+
+CAUTION Temporal focal dyscognitive seizures need to be distinguished from absence seizures. While both may have automatisms, temporal lobe seizures are typically longer (> 30 seconds), associated with pallor, and followed by postictal confusion.
+
+Subtypes of temporal lobe seizures
+
+	1.Mesial temporal lobe including hippocampus
+Seizures that arise in the mesial temporal lobe may be characterized by distinctive auras such as a rising epigastric sensation or abdominal discomfort and experiential features such as déjà vu, jamais vu and fear. Unpleasant olfactory and gustatory auras may also occur. Auras may occur in isolation or may be followed by the onset of behavioral arrest with slowly progressive impairment of awareness and oro-alimentary (chewing, lip-smacking, swallowing, tongue movements) and manual automatisms. Autonomic phenomena (pallor, flushing, tachycardia) are common. Upper limb automatisms may be unilateral and may lateralize the seizure to the ipsilateral hemisphere. Unilateral pupillary dilatation can occur, and can also lateralize the seizure to the ipsilateral hemisphere. Contralateral upper limb dystonia may develop and head and eye version to the contralateral side can occur. Whilst seizures tend to have a longer duration than for lateral temporal lobe seizures, evolution to a bilateral convulsion is uncommon.
+
+	2.Lateral / neocortical temporal lobe
+Lateral temporal lobe seizures may have an initial aura with auditory, complex visual, illusionary or vertiginous features. The auditory aura is usually a basic sound such as buzzing or ringing (rather than formed speech). If the aura is heard in only one ear it suggests the seizure is in the contralateral hemisphere. In comparison to mesial temporal lobe seizures, seizures are of shorter duration, and the onset of altered awareness is an earlier feature (the initial aura is not as prolonged). Lateral temporal lobe seizures may spread and motor features such as contralateral upper limb dystonia, facial twitching or grimacing, and head and eye version may occur. Evolution to a bilateral convulsion is more common than in mesial temporal lobe seizures.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs for specific information. As a general rule, EEG abnormality may be enhanced in sleep deprivation states and in sleep.
+
+EEG abnormalities (spike-and-wave or sharp slow waves) are seen in an anterior temporal distribution in mesial temporal lobe structural brain abnormality. Focal slow and/or temporal intermittent rhythmic delta activity (TIRDA) can be seen in around half of patients with mesial temporal structural brain abnormality. EEG abnormalities may be seen in a mid-temporal or posterior temporal distribution in lateral temporal lobe structural brain abnormalities.
+
+Ictal
+
+Seizures in mesial temporal lobe structural brain abnormality are characterized by rhythmic theta (or less commonly spike) activity in the anterior temporal EEG leads (F7, T3; F8, T4). The EEG change may follow the clinical seizure onset. Focal post-ictal slow activity occurs in about 70% of such seizures and if present is consistent with side of seizure onset in 90% of seizures.
+
+Seizures in lateral temporal lobe structural brain abnormality are characterized by mid- to posterior temporal ictal rhythms (rhythmic theta or spike activity seen at T3, T5; T4, T6), with a broad field. The ictal rhythmic activity may be less stable in frequency and amplitude than in mesial temporal seizures, bi-temporal spread occurs more often (in up to 20%) and more rapidly.
+
+Differential diagnoses
+	Typical absence seizures
+	Focal seizures with dyscognitive features arising/involving other lobes
+	Non-epileptic seizures
+	Psychiatric disorders
+	Behavioral disturbance or aggression due to other causes
+
+Related syndromes
+
+	Autosomal dominant epilepsy with auditory features
+	Familial focal epilepsy with variable foci
+	Other familial temporal lobe epilepsies
+
+Related etiologies
+
+	Hippocampal sclerosis
+
+
+
+PARIETAL
+Clinical Overview
+
+Overview
+Seizures with ictal onset in the parietal lobe may be difficult to diagnose, especially in children, because of the subjective nature of these seizures. Positive and/or negative sensory features occur. Typically paraesthesia is reported but disorientation, complex visual hallucinations, vertiginous and visual illusions and disturbance of body image (somatic illusion) can occur. Receptive language impairment can occur with dominant hemisphere involvement. Ipsilateral or contralateral rotatory body movements can occur. There is often involvement of other lobes as the seizure spreads.
+
+Subtypes of parietal lobe seizures
+
+	1.Primary sensory area (post-central gyrus)
+Seizures present with contralateral (or rarely ipsilateral or bilateral) sensory aura, most commonly paraesthesias with tingling and/or numbness. There may be prickling, tickling, crawling or electric-shock sensations in the affected body part. The sensory abnormality may spread sequentially along a body part as the seizure spreads on the cortex according to the sensory homunculus (Jacksonian march), when this occurs motor activity in the affected body part commonly follows. Less common sensory aura include pain and thermal perceptions (such as sensations of burning or cold).
+
+	2.Non dominant parietal cortex
+Seizures may be characterized by body image distortions with feelings of movement (e.g. floating) or altered posture (e.g. twisting movement) in a stationary limb. Somatic illusions such as feeling of a body part being enlarged (macrosomatognosia), shrunken (microsomatognosia) or absent (asomatognosia), or elongated (hyperschematica) or shortened (hyposchematica) may also occur. Distal body parts and the tongue are more commonly affected.
+
+	3.Secondary sensory area (parietal upper bank of the sylvian fissure)
+Seizures are characterized by an experiential aura followed by a feeling of inability to move which may spread sequentially through body parts in a Jacksonian march (ictal paralysis), this may be followed by clonic jerking in affected body parts.
+
+	4.Parieto-occipital junction
+Visual illusions including macropsia (objects in a section of the visual field appear larger) or micropsia (objects appear smaller) may occur. Versive eye movements (typically contralateral) or epileptic nystagmus may be seen. If nystagmus is seen, this is typically with the fast component to the side contralateral to the hemisphere of seizure onset with the slow component returning to the ipsilateral side. Eye movements typically occur with retained awareness, and may be accompanied by head or trunk version. Complex visual hallucinations may occur.
+
+	5.Paracentral lobule
+Seizures arising in the non-dominant hemisphere may be characterized by sexual sensations affecting the genitalia. The subsequent phase of the seizure may be accompanied by sexualized behavior.
+
+	6.Dominant parieto-temporal region
+Seizures may be characterized by language impairment with difficulties reading, calculating and writing.
+
+	7.Fronto-parietal operculum
+Seizures are characterized by facial (mouth and tongue) clonic movements (which may be unilateral), laryngeal symptoms, articulation difficulty, swallowing or chewing movements and hyper-salivation. Sensory (e.g. epigastric), experiential (e.g. fear) and autonomic (urogenital, gastrointestinal, cardiovascular or respiratory) features are common. Gustatory hallucinations are particularly common.
+
+NOTE the terms fronto-parietal opercular, centrotemporal, sylvian and rolandic seizures are synonymous, referring to seizures involving the region around the central sulcus, particularly in the lower central sulcus.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs for specific information. As a general rule, EEG abnormality may be enhanced in sleep deprivation states and in sleep. For some patients, EEG abnormality and ictal events may be precipitated by sensory stimulation e.g. movement or touch of a body part.
+
+EEG abnormalities (spike-and-wave or sharp slow waves) may be seen in a posterior distribution in lateral parietal lobe brain abnormalities. The EEG may be normal in structural brain abnormalities affecting mesial parietal areas.
+
+Ictal
+
+Surface ictal EEG in parietal lobe seizures can be unhelpful, the ictal EEG may be normal in up to 80% of seizures, or there may be lateralized slow activity. Central parietal rhythmic spike or spike-and-wave is occasionally seen. The EEG patterns may instead reflect the seizure spread, which may be to the temporal or frontal lobes or bilaterally. Seizures arising in mesial parietal areas are often associated with secondary bilateral synchrony.
+
+Differential 
+	Non-epileptic seizures
+	Migraine with visual aura
+	Psychiatric disorders
+
+Related syndromes
+	Childhood epilepsy with centrotemporal spikes
+	Familial focal epilepsy with variable foci
+
+
+
+OCCIPITAL
+Clinical Overview
+
+Overview
+Seizures arising in the occipital lobe are characterized by visual aura that are subjective leading to difficulty in diagnosis in young children. Oculomotor features may also occur such as forced eye closure, eyelid fluttering, eye deviation and nystagmus. There is often involvement of other lobes as the seizure spreads.
+
+Sub-locations
+
+	1.Primary visual cortex
+Seizures in this area result in elemental visual auras, these may be positive phenomena (typically multi-colored shapes such as circles, flashes), or negative phenomena such as loss of a part of a visual field or blindness (amaurosis). Bilateral loss of vision may occur and this may be in the form of a black-out or a white-out. More complex formed visual images are not seen in seizures arising in this area. The visual aura is seen in the contralateral visual field to the hemisphere of seizure onset. If positive visual phenomena occur in a part of the visual field, the person may be seen to look in that direction during the seizure. It can be helpful to ask a young child to draw what they see during their seizure. Visual aura are usually brief (< 2 minutes) which can assist in distinguishing them from migraine aura (5-15 minutes).
+
+	2.Extra-striate cortex
+Seizures in this area are associated with more complex formed visual hallucinations such as pictures of people, animals or scenes.
+
+	3.Parieto-occipital junction
+Epileptic nystagmus may be seen. If nystagmus is seen, this is typically with the fast component to the side contralateral to the hemisphere of seizure onset and the slow component returning to the ipsilateral side. Eye movements typically occur with retained awareness, and may be accompanied by head or trunk version. There may also be eyelid flutter or forced eyelid closure.
+
+	4.Inferior to the calcarine fissure
+Occipital seizures arising in this area tend to spread to the temporal lobe producing dyscognitive features.
+
+	5.Superior to the calcarine fissure
+Occipital seizures arising in this area can spread to the parietal lobe, fronto-parietal operculum or frontal lobes. Atonic motor features can occur if the seizure spreads rapidly to frontal regions.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs for specific information. As a general rule, EEG abnormality may be enhanced in sleep deprivation states and in sleep. In some syndromes/etiologies, photic stimulation and/or eye closure may enhance EEG abnormalities.
+
+In occipital structural brain abnormality, background posterior dominant alpha rhythms and photic driving responses may be asymmetric in amplitude; the interictal EEG may or may not show interictal epileptiform abnormality (spike-and-wave or sharp slow waves).
+
+In Panayiotopoulos syndrome, occipital spike-and-wave may be of high voltage.
+
+Ictal
+
+In occipital structural brain abnormality, the ictal EEG can be unhelpful and may vary with seizure spread, which may be to the temporal or frontal lobes or bilaterally. A localized (lobar) or lateralized (hemispheric) ictal rhythm may not be present in up to 20% of patients. Generalized epileptiform abnormalities are common and may exhibit bilateral asynchrony. Ictal rhythms when present may be characterized by occipital paroxysmal fast activity or rhythmic spike activity, which may be preceded by brief attenuation of the EEG.
+
+Differential diagnoses
+	Non-epileptic seizures
+	Migraine with visual aura
+	Psychiatric disorders
+
+Related syndromes
+
+	Panayiotopoulos syndrome
+	Childhood occipital epilepsy (Gastaut type)
+	Photosensitive occipital lobe epilepsy
+	Familial focal epilepsy with variable foci
+
+Related etiologies
+
+	Celiac disease, epilepsy and cerebral calcification syndrome (check anti-gliadin antibodies)
+
+
+
+FOCAL/GENERALIZED
+
+For everyday purposes seizures are broadly categorized as either generalized or focal, these terms can be used where appropriate but there are seizures that cannot be categorized in this manner. Seizure types that may be focal or generalized are presented in this section of EpilepsyDiagnosis.org.
+
+EPILEPTIC SPASMS
+Clinical Overview
+An epileptic spasm is a sudden flexion, extension or mixed flexion-extension of proximal and truncal muscles, lasting 1-2 seconds i.e. longer than a myoclonic jerk (which lasts milliseconds) but not as long as a tonic seizure (which lasts > 2 seconds). Spasms typically occur in a series, usually on wakening. Subtle forms may occur with only chin movement, grimacing, or head nodding. Spasms may be bilaterally symmetric, asymmetric, or unilateral.
+
+CAUTION Epileptic spasms usually occur in a series (several in a cluster) right arrow if singular, consider other seizure types.
+
+EEG
+Background/Interictal/Activation
+
+Please refer to specific syndromes and etiologies in which this seizure type occurs for specific information. As a general rule, EEG abnormality may be first evident / enhanced in sleep and on wakening.
+
+Ictal
+
+Epileptic spasms are most commonly accompanied by a high voltage generalized sharp or slow wave followed by low amplitude fast activity and generalized voltage attenuation. This EEG pattern may be seen in sleep with or without clinical seizures seen.
+
+Differential diagnoses
+	Tonic seizures
+	Myoclonic seizures
+	Atonic seizures
+	Gastro-intestinal conditions e.g. colic, Sandifer syndrome
+	Hypnogogic jerks
+	Self-gratification
+
+Related syndromes
+
+	West syndrome
+	Early myoclonic encephalopathy
+	Ohtahara syndrome
+	Lennox-Gastaut syndrome
+	Structural brain abnormalities
+
+Related etiologies
+
+	Structural brain abnormalities

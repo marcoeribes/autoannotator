@@ -1,0 +1,2682 @@
+EPILEPSIES BY ETIOLOGY
+
+
+In recent years there has been a significant expansion in our understanding of the underlying etiologies of the epilepsies, underpinned by advances in modern neuroimaging and genetic testing. As such terminology such as 'idiopathic', 'cryptogenic' and 'symptomatic' are no longer used. Epilepsies are now described more precisely by their specific underlying etiologies. In this section of EpilepsyDiagnosis.org, important etiologies are presented, with particular focus on those that have distinct clinical, electrical or radiological features that are important to recognize and those for whom early recognition and treatment optimizes health outcomes.
+
+
+
+
+
+GENETIC
+The concept of genetic epilepsy is that the epilepsy is, as best we understand, the direct result of a known or presumed genetic defect(s) in which seizures are the core symptom of the disorder. The genetic defect may arise at a chromosomal or molecular level. It is important to emphasize that "genetic" does not mean the same as "inherited" as de novo mutations are not uncommon. Having a genetic etiology does not preclude an environmental contribution to the epilepsy.
+
+
+
+CHROMOSOMAL ABNORMALITIES
+Although many chromosomal abnormalities may be associated with epilepsy, some are important to recognize either because they have distinct seizure and EEG features or they are frequently seen in epilepsy populations. These are presented in this section of EpilepsyDiagnosis.org.
+
+Karyotype assessment is important to consider in all epilepsies where the etiology is uncertain as dysmorphic features may be subtle or not apparent. Karyotype examination should be extended to 50-100 mitoses to exclude mosaicism. Karyotype examination may need to be supplemented by a FISH analysis with sub-telomeric region-specific probes or by a CGH microarray for the diagnosis of some chromosomal abnormalities. For some disorders, examination of cells other than blood lymphocytes may be required.
+
+15q13.3 MICRODELETION SYNDROME
+18q- SYNDROME
+INV-DUP (15) OR IDIC (15)
+DEL 1p36
+ANGELMAN SYNDROME
+DOWN SYNDROME (TRISOMY 21)
+KLEINFELTERS SYNDROME (XXY)
+MILLER DIEKER SYNDROME (DEL 17p)
+PALLISTER KILLIAN SYNDROME (TETRASOMY 12p)
+RING 14 (r14) SYNDROME
+RING 20 (r20) SYNDROME
+TRISOMY 12p
+WOLF-HIRSCHHORN SYNDROME (DEL 4p)
+15q13.3 MICRODELETION SYNDROME
+
+This chromosomal abnormality is associated with intellectual impairment, developmental delay and epilepsy. Seizures of various types may occur, however these are typically generalized (myoclonic, absence and generalized convulsive). Dysmorphic features may include everted lips, deep-set eyes, upslanting palpebral fissures, hypertelorism, synophris, prominent philtrum and hypotonic facies. A CGH microarray is usually the most useful diagnostic test.
+
+18q- SYNDROME
+
+This chromosomal abnormality is associated with intellectual impairment (moderate-severe), behavioral disorder, epilepsy and dysmorphic features including microcephaly, turricephaly, deep-set-eyes, broad nasal bridge, high arched or cleft palate, carp shaped mouth and small hands and feet. Cardiac defects may occur. Neuroimaging shows abnormal myelination, and may show cerebellar hypoplasia. Seizures are of early onset and seizures with autonomic features are common (which may result in cardiac arrhythmia and apnoea). It is notable that this chromosome deletion may include the TCF4 gene, which is mutated in Pitt Hopkins Syndrome.
+
+INV-DUP (15) OR IDIC (15)
+
+This syndrome occurs when there is an inverted duplication of the proximal region of chromosome 15, typically including the unstable region 15q11-q13. A large duplication results in tetrasomy of 15p and partial tetrasomy of 15q. Maternal age at conception is a known risk factor. Patients usually have varying degrees of epilepsy, developmental delays, intellectual impairment, autistic spectrum disorders and minor dysmorphic features. Seizures can include epileptic spasms, and a range of other seizure types (both focal and generalized). This chromosomal abnormality is diagnosed on routine karyotype. FISH is used to confirm that the extra chromosomal material is from chromosome 15q or to establish the diagnosis in the event of an interstitial 15q duplication.
+
+DEL 1p36
+
+This chromosomal abnormality results in intellectual impairment (moderate to severe), epilepsy and multiple congenital abnormalities. Dysmorphic features include microcephaly, brachycephaly, large and late-closing anterior fontanelle, prominent forehead, straight (horizontal) eyebrows, deep-set eyes, short palpebral fissure, broad nasal bridge, midface hypoplasia, hypotonic facies, low-set abnormal ears, pointed chin and shortened hands and feet. Sensorineural hearing loss, skeletal, urogenital and cardiac defects may occur. Neuroimaging may show a range of structural brain abnormalities. Seizures occur in >50% of cases, typically starting in infancy or childhood with many types of seizures seen, including epileptic spasms, generalized and focal seizures. Seizures may cluster during febrile illness. Some patients may have Ohtahara syndrome. Seizure control is usually not difficult to achieve. Routine karyotype assessment may not allow diagnosis of this syndrome, FISH analysis with sub-telomeric region-specific probes or CGH microarray are usually necessary.
+
+ANGELMAN SYNDROME
+
+Angelman syndrome results from deletion or inactivation of genes on the maternally-inherited chromosome 15q11-q13 region, while the paternal copy, which may be of normal sequence, is imprinted and therefore silenced. The patient has severe intellectual impairment, developmental delay, epilepsy, sleep disorder, jerky movements (especially hand-flapping), ataxia, frequent laughter or smiling, and usually a happy demeanor. Dysmorphic features are well recognized: microcephaly, prominent mandible, pointed chin, protruding tongue, and fair hair and complexion with blue eyes. Seizures are seen in up to 90% and usually start under the age of 2 years, commonly with generalized seizure types (generalized convulsions, atypical absences, myoclonic seizures). Seizures may be aggravated by fever and by certain anti-seizure medications such as carbamazepine and lamotrigine. The EEG is usually very abnormal, and more abnormal than clinically expected. High amplitude 2-3 Hz frontal predominant activity may be seen; symmetrical 4-6 Hz high voltage activity or 3-6 Hz occipital activity overlaid with spikes and sharp waves and associated with eye closure are other patterns that occur. A CGH microarray is usually the most useful diagnostic test.
+
+DOWN SYNDROME (TRISOMY 21)
+
+Down syndrome is a common chromosomal disorder with well-recognized dysmorphic features, epilepsy occurs in approximately 10% of individuals and age of seizure onset is bimodal with 40% having seizures before 1 year of age (commonly epileptic spasms) and 40% having seizures from the third decade of life. All major seizure types have been described in children with Down syndrome including focal seizures, epileptic spasms, myoclonic and generalized convulsive seizures. Phenotypes seen may also include reflex (startle-induced) seizures. Co-existing acquired structural brain abnormalities may occur, as a consequence of congenital cardiac disease.
+
+KLEINFELTERS SYNDROME (XXY)
+
+Klinefelter's syndrome is a common sex chromosomal abnormality and the most common cause of male hypogonadism. This syndrome is characterized by cognitive and behavioral dysfunction and hypogonadism. Seizures usually start between 3 months and 3 years of age and are typically well controlled with anti-seizure medication. Variable electroclinical characteristics may be seen from patient to patient, however generalized seizures (absence, convulsive) are common seizure types. This disorder is diagnosed on routine karyotype examination.
+
+MILLER DIEKER SYNDROME (DEL 17p)
+
+This clinical syndrome may arise from a microdeletion in chromosome 17p (17p13.3 microdeletion) or from other chromosomal abnormalities (e.g. translocations, ring chromosome, contiguous deletions) affecting 17p. The LIS1 gene is located on 17p and this syndrome includes the presence of classical (type 1) lissencephaly. The children have distinctive facial features with a short upturned nose, thickened upper lip with a thin vermillion upper border, frontal bossing, small jaw, low-set posteriorly rotated ears, sunken appearance in the middle of the face, widely spaced eyes, and hypertelorism. The forehead is prominent with bitemporal hollowing. Most (80%) of cases are sporadic, with 20% of cases inherited from an unaffected parent with a balanced translocation. Renal malformations and omphalocele have also been reported.
+
+PALLISTER KILLIAN SYNDROME (TETRASOMY 12p)
+
+This chromosomal abnormality results in dysmorphic features that include a coarsened flat facies, high forehead, reduced scalp hair over the frontal and temporal regions, hypertelorism, a broad nasal bridge, a small anteverted nose, a high arched palate, microretrognathia, a cupid-bow shaped upper lip and low-set ears. There may be cardiac, diaphragmatic and ocular abnormalities. There is developmental delay, severe intellectual impairment and epilepsy. Seizures of varied types have been reported, including epileptic spasms. The disorder is sporadic. Most patients are mosaic for tetrasomy 12p and it may be undetectable in blood lymphocytes. To diagnose this disorder, examination of fibroblasts may be required.
+
+RING 14 (r14) SYNDROME
+
+This is a rare chromosomal disorder, consistently associated with epilepsy. The epilepsy is usually of early onset and seizures are intractable but there are no recognized distinctive seizure or electrographic features. Focal seizures facilitated during febrile illness and Ohtahara syndrome have been reported associated with this chromosomal abnormality. Intellectual impairment (moderate-severe), microcephaly, facial dysmorphism (narrow long face, retrognathia, short neck), cardiac (pulmonary stenosis) and ocular abnormalities (cataract, retinal pigmentation, macular abnormality) occur. Most cases are sporadic, but familial cases have been reported. Most patients are mosaic for ring 14 abnormality. To diagnose this disorder a karyotype should be performed examining 50-100 mitoses, this has to be specifically requested, as it may not be part of routine karyotype assessment. CGH microarray may not detect this disorder if no deletion occurs in the ring formation.
+
+RING 20 (r20) SYNDROME
+
+This is a rare chromosomal disorder with epilepsy as the striking feature. Although some patients may have microcephaly, intellectual impairment (two thirds of patients) and behavioral disorders, there are few distinctive clinical features that aid identification of this syndrome. Dysmorphic features are not expected. Most cases are sporadic, but familial cases have been reported. Mosaicism is common with intellectual impairment (but not the epilepsy) correlating with the degree of mosaicism. Nocturnal frontal lobe seizures are common. Around 50% of patients report frightening visual hallucinations during their focal seizures. Seizures may manifest as prolonged confusional states, lasting minutes to half an hour, during which the patient may be motionless and staring or may have automatisms and confused wandering. Perioral and eyelid myoclonic jerks may accompany these events. The ictal EEG shows long periods of widespread rhythmic theta and high-amplitude 2-3 Hz rhythmic, notched, frontally predominant, slow waves. Spike-and-wave is of low amplitude. Interictal EEG may be normal or show focal bi-fronto-temporal spikes. Seizures are usually frequent and intractable to medications. To diagnose this disorder a karyotype should be performed examining 50-100 mitoses, this has to be specifically requested, as it may not be part of routine karyotype assessment. CGH microarray may not detect this disorder if no deletion occurs in the ring formation.
+
+TRISOMY 12p
+
+Trisomy 12p is a chromosomal abnormality that results in developmental delay, intellectual impairment and a number of dysmorphic features including turricephaly, a flattened occiput, short neck, rounded facies with prominent cheeks, high prominent forehead, hypertelorism, epicanthic folds, broad nasal bridge and other facial dysmorphism. Cardiac and limb defects may occur. Structural brain abnormalities include microgyria and focal cortical dysplasia. Seizures are often generalized, with myoclonic absences and myoclonic seizures reported, EEGs have shown 3Hz generalized spike-and-wave.
+
+WOLF-HIRSCHHORN SYNDROME (DEL 4p)
+
+Wolf-Hirschhorn syndrome results from the partial deletion of the short arm of chromosome 4. The abnormality results in developmental delay, intellectual impairment (severe), hypotonia and epilepsy, and a number of dysmorphic features (microcephaly, micrognathia, short philtrum, epicanthic folds, high forehead, prominent glabella, ocular hypertelorism, dysplastic ears and peri-auricular tags). The nose may have a 'Greek helmet' appearance. There may also be congenital heart defects, hypospadias, colobomata of the iris, renal anomalies, cleft lip and/or palate and deafness. Immune disorders including common variable immunodeficiency and IgA deficiency may occur. Neuroimaging may show abnormalities of the corpus callosum or cerebellum, or other abnormality. Most cases are sporadic, with 10% inherited from a parent with a translocation. Seizures occur in the majority (>90%), typically starting in the first three years of life, with generalized convulsive or hemiclonic seizures facilitated by fever (resulting in seizure clusters or status epilepticus) seen at that time. Epileptic spasms, atypical absences and focal seizures may also occur. EEG patterns of two types are recognized - diffuse, atypical slow sharp/spike-and-wave complexes in long bursts activated by slow wave sleep or high amplitude fast spike/polyspike-and-wave with posterior emphasis, triggered by eye closure. Seizures are usually well-controlled with monotherapy and improve with age. Routine karyotype assessment may not allow diagnosis of this syndrome, FISH analysis with sub-telomeric region-specific probes or CGH microarray are usually necessary.
+
+
+
+GENE ABNORMALITIES
+Current knowledge regarding the contribution of gene abnormalities to epilepsy derives from specific molecular genetic studies that have been well replicated and even become the basis of diagnostic testing, or from appropriately designed family studies. Some of the important gene abnormalities that cause epilepsy and/or have particular features that are important to recognize are presented in this section of EpilepsyDiagnosis.org.
+
+AKT3
+ARFGEF2
+ARHGEF9
+ARX
+CACNA1A
+CACNB4
+CDKL5
+CHD2
+CHRNA2
+CHRNA4
+CHRNB2
+CLCN2
+COL4A1
+DCX
+DEPDC5
+EFHC1
+FKRP
+FKTN
+FLNA
+FMR1 (FRAGILE X SYNDROME)
+FOXG1
+GABRA1
+GABRD
+GABRG2
+GLI3
+GNAQ
+GRIN2A
+KCNQ2
+KCNQ3
+KCNT1
+LARGE
+LGI1
+LIS1
+MECP2
+NPRL3
+PCDH19
+PIK3CA
+PIK3R2
+PLCB1
+PNKP
+POMT1
+POMT2
+PRRT2
+RELN
+SCN1A
+SCN1B
+SCN2A
+SLC2A1
+SLC25A22
+SPTAN1
+STXBP1
+TBC1D24
+TCF4 (PITT HOPKIN SYNDROME)
+TSC1
+TSC2
+TUBA1A
+WDR62
+ZEB2 (MOWAT WILSON SYNDROME)
+AKT3
+
+The v-akt murine thymoma viral oncogene homolog 3 gene is located on chromosome 1q44. The protein encoded by this gene is a member of the AKT serine/threonine protein kinase family and is a regulator of cell proliferation and differentiation in response to insulin and growth factors. AKT3 gene abnormalities can cause megalencephaly, hydrocephalus, polymicrogyria and polydactyly.
+
+ARFGEF2
+
+The ADP ribosylation factor guanine nucleotide exchange factor 2 gene is located on chromosome 20q13.13. The protein encoded by this gene is a protein that helps with the movement of vesicles within the cell, this being important in neuronal cell migration in fetal life. ARFGEF2 gene abnormalities can cause periventricular nodular heterotopia, with microcephaly.
+
+ARHGEF9
+
+The Cdc42 guanine nucleotide exchange factor (GEF) 9 (ARHGEF9) gene, located on chromosome Xq11.1, encodes a protein that regulates other genes. Mutations in ARHGEF6 cause Ohtahara syndrome with hyperekplexia. Seizures may be provoked by tactile stimulation or extreme emotion.
+
+ARX
+
+The aristaless related homeobox (ARX) gene, located on chromosome Xp21.3, is responsible for the gene product ARX protein, a transcription factor. The ARX protein is important in early embryonic development influencing differentiation and migration of cells in the pancreas, testes, brain and skeletal muscles. Mutations in ARX are found in Partington syndrome (a neurological disorder associated intellectual impairment and focal dystonia of the hands), Ohtahara syndrome, X-linked West syndrome, X-linked myoclonic epilepsy with intellectual disability and X-linked lissencephaly or other structural brain abnormalities (which may be accompanied by ambiguous genitalia). ARX mutations account for nearly 10% of all X-linked intellectual impairment.
+
+CACNA1A
+
+The calcium channel, voltage-dependent, P/Q type, alpha 1A subunit (CACNA1A) gene, located on chromosome 19p13, encodes the alpha-1 subunit of a calcium channel. Mutations in this gene have been linked to episodic ataxia, familial hemiplegic migraine and spinocerebellar ataxia type 6. Variants in CACNA1A have been linked to susceptibility to genetic generalized epilepsies with absence seizures.
+
+CACNB4
+
+The calcium channel, voltage-dependent, beta 4 subunit (CACNB4) gene, located on chromosome 2q22-q23, encodes the beta-4 subunit of a calcium channel. Variants in this gene have been linked to episodic ataxia and genetic generalized epilepsies including juvenile myoclonic epilepsy.
+
+CDKL5
+
+The cyclin-dependent kinase-like 5 (CDKL5) gene, located on chromosome Xp22, encodes a CDKL5 protein that acts as a kinase (changing activity of other proteins). One of the proteins affected by CDKL5 is MECP2 protein.
+
+More than 10 mutations in CDKL5 have been identified in girls with atypical (early onset seizure variant) Rett syndrome. This severe form of the disorder includes many of the features of classic Rett syndrome (including developmental delay, loss of language skills, and repeated hand wringing movements), but also causes recurrent seizures beginning in infancy.
+Mutations in CDKL5 are also reported in X-linked epileptic spasms with intellectual impairment, seen more commonly in females but also reported in males.
+Mutations in CDKL5 are also reported in Ohtahara syndrome
+Girls with CDKL5 mutations have also been described to have an unusual, distinctive seizure type called a hypermotor-tonic-spasms sequence.
+CHD2
+
+The chromodomain helicase DNA binding protein 2 (CHD2) gene, located on chromosome 15q26, is a gene that modifies transcription. CHD2 gene abnormalities have been linked to epilepsy of infancy with migrating focal seizures.
+
+CHRNA2
+
+The cholinergic receptor, nicotinic, alpha 2 (neuronal) (CHRNA2) gene, located on chromosome 8p21, encodes a subunit of the neuronal nicotinic acetylcholine receptor. Mutations in CHRNA2 are found as a rare cause of autosomal dominant nocturnal frontal lobe epilepsy.
+
+CHRNA4
+
+The cholinergic receptor, nicotinic, alpha 4 (neuronal) (CHRNA4) gene, located on chromosome 20q13.2-q13.3, encodes a subunit of the neuronal nicotinic acetylcholine receptor. Mutations in CHRNA2 are found in patients with autosomal dominant nocturnal frontal lobe epilepsy
+
+CHRNB2
+
+The cholinergic receptor, nicotinic, beta 2 (neuronal) (CHRNB2) gene, located on chromosome 1q21.3, encodes a subunit of the neuronal nicotinic acetylcholine receptor. Mutations in CHRNB2 are found in patients with autosomal dominant nocturnal frontal lobe epilepsy .
+
+CLCN2
+
+The chloride channel, voltage-sensitive 2 (CLCN2) gene, located on chromosome 3q27.1, encodes a voltage-gated chloride channel. Variants in CLCN2 have been linked with genetic generalized epilepsies including juvenile absence epilepsy, juvenile myoclonic epilepsy and epilepsy with generalized tonic-clonic seizures alone.
+
+COL4A1
+
+The collagen type IV alpha 1 gene is located on chromosome 13q34. The protein encoded by this gene is a component of type IV collagen, an important component of basement membranes. COL4A1 gene abnormalities can cause familial early life stroke resulting in 'familial porencephaly'.
+
+DCX
+
+The doublecortin gene is located on chromosome Xq22.3-q23. The protein encoded by this gene is doublecortin, which binds to and is important in maintaining stability of microtubules. Microtubules are the scaffolding that allows for normal cell migration in the developing brain. DCX gene abnormalities can cause either lissencephaly or subcortical band heterotopia.
+
+DEPDC5
+
+The DEP domain containing 5 (DEPDC5) gene, located on chromosome 22q12.3, encodes a protein that may be involved in membrane trafficking and/or G protein signaling. Mutations in DEPDC5 have been identified in familial epilepsies with focal seizures including familial focal epilepsy with variable foci, familial temporal lobe epilepsy and autosomal dominant nocturnal frontal lobe epilepsy. Mutations in DEPDC5 have also been found in patients with focal cortical dysplasia, including in familial cases.
+
+EFHC1
+
+The EF-hand domain (C-terminal) containing 1 (EFHC1) gene, located on chromosome 6p12.3, encodes EFHC1 protein, which interacts with another protein that functions as a calcium channel. The EFHC1 protein has a role in neurotransmission, but may also have a role in apoptosis. Mutations in EFHC1 have been linked to juvenile myoclonic epilepsy.
+
+FKRP
+
+The fukutin related protein gene is located on chromosome 19q13.32. The protein encoded by this gene is fukutin related protein, its exact function is not known but it is important for cell migration in early brain development. FKRP gene abnormalities can cause Walker-Warburg syndrome - cobblestone lissencephaly, eye abnormality and myopathy.
+
+FKTN
+
+The fukutin gene is located on chromosome 9q31.2. The protein encoded by this gene is fukutin protein, its exact function is not known but it is important for cell migration in early brain development. FKTN gene abnormalities can cause Fukuyama congenital muscular dystrophy (seen almost exclusively in Japan) and Walker-Warburg syndrome. In both conditions, patients have cobblestone lissencephaly, eye abnormality and myopathy. However, patients with Walker-Warburg syndrome have more severe presentation.
+
+FLNA
+
+The filamin A gene is located on chromosome Xq28. The protein encoded by this gene is filamin A, which works with other proteins forming the cytoskeleton, important for cell migration. FLNA gene abnormalities can cause periventricular nodular heterotopia.
+
+FMR1 (FRAGILE X SYNDROME)
+
+Fragile X syndrome is the most frequent cause of familial intellectual impairment and is the second most common cause of intellectual impairment after Down syndrome. Typical dysmorphic features (elongated face, large or protruding ears, and large testes) are recognized. Patients typically have autistic features. Epilepsy has been reported in up to 40% of patients. Seizures and EEG features are similar to those seen in childhood epilepsy with centrotemporal spikes and related epilepsies. Seizures typically improve with age. The Fragile X abnormality is usually caused by a trinucleotide repeat expansion in the fragile X metal retardation 1 (FMR1) gene, located on chromosome Xq27.3. Diagnosis is determined by analysis of the number of trinucleotide repeats using polymerase chain reaction and methylation status using Southern blot analysis. This method does not detect missense mutations or deletions involving FMR1 and sequencing of the FMR1 gene may be required if there is clinical suspicion of Fragile X syndrome.
+
+FOXG1
+
+The forkhead box G1 (FOXG1) gene, located on chromosome 14q13, encodes a protein known as forkhead box G1 that acts as a transcription factor.
+
+Mutations in FOXG1 cause a congenital variant of Rett syndrome. In this syndrome severe intellectual impairment, microcephaly, jerky limb movements, epilepsy, and absent language development are apparent from early infancy. There is no early period of normal development.
+Duplications in the area of chromosome 14 that includes the FOXG1 gene may result in epileptic spasms or intractable seizures with developmental and intellectual impairment.
+GABRA1
+
+The gamma-aminobutyric acid (GABA) A receptor, alpha 1 (GABRA1) gene, located on chromosome 5q34, encodes the alpha 1 subunit of the GABA-A receptor. Variants in the GABRA1 gene have been linked to genetic generalized epilepsies such as juvenile myoclonic epilepsy.
+
+GABRD
+
+The gamma-aminobutyric acid (GABA) A receptor, delta (GABRD) gene, located on chromosome 1p36.3, encodes the delta subunit of the GABA-A receptor. Variants in the GABRD gene have been linked to genetic generalized epilepsies such as genetic epilepsy with febrile seizures plus and juvenile myoclonic epilepsy.
+
+GABRG2
+
+The gamma-aminobutyric acid (GABA) A receptor, gamma 2 (GABRG2) gene, located on chromosome 5q34, encodes the gamma 2 subunit of the GABA-A receptor. Variants in the GABRG2 gene have been linked to genetic generalized epilepsies such as childhood absence epilepsy , genetic epilepsy with febrile seizures plus and juvenile myoclonic epilepsy.
+
+GLI3
+
+The GLI family zinc finger 3 gene is located on chromosome 7p13. The protein encoded by this gene, GLI3 protein, is a transcription factor that controls gene expression, and is important in brain development. GLI3 gene abnormalities can cause hypothalamic hamartoma and/or polydactyly, and Pallister Hall syndrome.
+
+GNAQ
+
+The G protein subunit alpha q gene is located on chromosome 9q21. The protein encoded by this gene is a G protein that is important in cell signaling. GNAQ gene abnormalities can cause Sturge Weber syndrome.
+
+GRIN2A
+
+The glutamate receptor, ionotropic, N-methyl D-aspartate 2A (GRIN2A) gene, located on chromosome 16p13.2, encodes a subunit of the N-methyl-D-aspartate (NMDA) receptor. Mutations in GRIN2A have been reported in childhood epilepsy with centro-temporal spikes , atypical childhood epilepsy with centro-temporal spikes , epileptic encephalopathy with continuous spike-and-wave during sleep and in Landau Kleffner syndrome.
+
+KCNQ2
+
+The potassium voltage-gated channel, KQT-like subfamily, member 2 (KCNQ2) gene, located on chromosome 20q13.3, encodes four alpha subunits of the potassium channel. However, the KCNQ2 alpha subunits can also interact with alpha subunits produced from the KCNQ3 gene to form a more functional potassium channel that transmits a much stronger M-current. Epilepsies seen with KCNQ2 mutations include self-limited familial neonatal epilepsy and an early onset epilepsy encephalopathy similar to Ohtahara syndrome, however seizures remit with age (severe neurological impairment occurs, early neuroimaging may show hyperintensities in the basal ganglia and thalamus that later resolve).
+
+KCNQ3
+
+The potassium voltage-gated channel, KQT-like subfamily, member 3 (KCNQ3) gene, located on chromosome 8q24, encodes four alpha subunits of the potassium channel. However, the four KCNQ3 alpha subunits can also interact with alpha subunits produced from the KCNQ2 gene to form a more functional potassium channel that transmits a much stronger M-current. KCNQ3 mutations are seen in self-limited familial neonatal epilepsy .
+
+KCNT1
+
+The potassium channel, subfamily T, member 1 (KCNT1) gene, located on chromosome 9q34.3, encodes a sodium-activated potassium channel subunit. Mutations in KCNT1 are found in more severe forms of autosomal dominant nocturnal frontal lobe epilepsy and in epilepsy of infancy with migrating focal seizures.
+
+LARGE
+
+The like-glycosyltransferase gene is located on chromosome 22q12.3. The protein encoded by this gene is important for glycosylation of a-dystroglycan, and therefore for the cytoskeleton. LARGE gene abnormalities can cause Walker-Warburg syndrome - cobblestone lissencephaly, eye abnormality and myopathy.
+
+LGI1
+
+The leucine-rich, glioma inactivated 1 (LGI1) gene, located on chromosome 10q24, encodes a protein called leucine-rich, glioma inactivated 1 (Lgi1) or epitempin. This function of this gene product is as yet unknown. Mutations in LGI1 are found in autosomal dominant epilepsy with auditory features.
+
+LIS1 (also known as PAFAH1B1)
+
+The platelet activating factor acetylhydrolase 1b regulatory subunit 1 (PAFAH1B1) gene, also known as the lissencephaly 1 (LIS1) gene, is located on chromosome 17p13.3. The protein encoded by this gene is a subunit of a complex called platelet activating factor acetyl hydrolase 1B. This regulates the level of platelet activating factor (PAF), which is important for normal microtubular function, and for neuronal migration in the developing brain. LIS1 (PAFAH1B1) gene abnormalities can cause lissencephaly - either in isolation, or as part of Miller Dieker syndrome.
+
+MECP2
+
+The methyl CpG binding protein 2 (MECP2) gene, located on chromosome Xq28, is responsible for the gene product MeCP2 protein. This protein plays an important role at synapses and may help regulate gene expression, but its exact function is unknown.
+
+A duplication of MECP2 results in MECP2 duplication syndrome - with intellectual impairment, developmental delay and epilepsy.
+Mutations in MECP2 are known to cause MECP2-related severe neonatal encephalopathy - neonates are males with microcephaly, movement disorders, breathing problems, and epilepsy.
+Eight particular mutations in MECP2 are responsible for nearly half of cases of PPM-X syndrome - affected individuals have psychiatric disorders, epilepsy, intellectual impairment and movement disorder (typically Parkinsonism). Males with this syndrome are more severely affected than females.
+More than 300 mutations in the MECP2 gene have been identified in females with Rett syndrome. In patients with Rett syndrome, epilepsy is seen in 80% of cases and is intractable in 30%. Generalized seizure types including generalized convulsive, atypical absence, atonic, tonic and myoclonic seizures are recognized to occur in Rett syndrome.
+MECP2 mutations have also been reported in individuals with severe X-linked intellectual impairment, autism and a Rett-Angelman syndrome phenotype.
+NPRL3
+
+The NPR3-like, GATOR1 complex subunit gene is located on chromosome 16p13.3. The protein encoded by this gene contributes to the function of the GATOR 1 complex, inhibiting mTORC1 signaling, therefore controlling cell growth and differentiation. NPRL3 gene abnormalities have been found in patients with focal cortical dysplasia, including in familial cases.
+
+PCDH19
+
+The protocadherin 19 (PCDH19) gene, located on chromosome Xq22.1, is responsible for a gene product that is a calcium-dependent cell-adhesion protein. This gene has been implicated in Ohtahara syndrome and in a number of other epilepsies including genetic epilepsy with febrile seizures plus. PCDH19 mutations may be found in females with an epilepsy syndrome similar to Dravet syndrome (however myoclonic and absence seizures are typically not frequent), this epilepsy has been called epilepsy, female-restricted with mental retardation (EFMR). Seizures start early (mean age 9 months), are frequent, cluster, and are facilitated by fever. Seizure types include convulsive, focal (often with evolution to bilateral convulsion) and tonic (probably focal tonic) seizures. Development is often normal with regression at seizure onset in some; intellect varies from normal in a third to severe intellectual disability. Autistic features and psychiatric disorders are prominent in severely affected girls. The X-linked mode of inheritance is remarkable, as normal transmitting fathers are hemizygous carriers and will pass the mutation (and clinical syndrome) to all their daughters, while half of the daughters of affected heterozygous mothers will inherit the mutation and clinical syndrome. Parental mosaicism of PCDH19 has also been described. The mechanism underlying this inheritance pattern is thought to be cellular interference, where two populations of cells (mutation positive and wild-type PCDH19) cannot form normal networks as PCDH19 has a key role in cell-cell adhesion. Family pedigrees, if the mutation is inherited, will reflect this inheritance pattern with epilepsy, intellectual impairment and/or psychiatric disorders limited to females. It should, however, be noted that there are rare reports of affected males with mosaicism. As de novo mutations are common, testing for PCDH19 should be considered in any female with fever aggravation of seizures, that have onset under 5 years of age.
+
+PIK3CA
+
+The phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha gene is located on chromosome 3q26.3. The protein encoded by this gene is important for the function of PI3K, a kinase that activates certain cell signaling molecules. These signaling molecules are important for cell growth, proliferation and migration. PIK3CA gene abnormality that is acquired in a mosaic fashion can cause megalencephaly-capillary malformation syndrome.
+
+PIK3R2
+
+The phosphoinositide-3-kinase regulatory subunit 2 gene is located on chromosome 19q13.2-q13.4. The protein encoded by this gene is important for the function of PI3K, a kinase that activates certain cell signaling molecules. These signaling molecules are important for cell growth, proliferation and migration. PIK3R2 gene abnormality can cause megalencephaly polymicrogyria-polydactyly hydrocephalus syndrome.
+
+PLCB1
+
+The phospholipase C, beta 1 (phosphoinositide-specific) (PLCB1) gene, located on chromosome 20p12, encodes a protein that catalyzes the formation of inositol trisphosphate and diacylglycerol from phosphatidylinositol bisphosphate. Mutations in PLCB1 are found in Ohtahara syndrome, patients may progress to have West syndrome. Deletions in PLCB1 have been reported as a rare cause of epilepsy of infancy with migrating focal seizures.
+
+PNKP
+
+The polynucleotide kinase 3'-phosphatase (PNKP) gene, located on chromosome 19q13.3-q13.4, encodes a protein involved in DNA repair. Mutations in PNKP are found in Ohtahara syndrome.
+
+POMT1
+
+The protein O-mannosyltransferase 1 gene is located on chromosome 9q34.1. The protein encoded by this gene is a subunit of the POMT enzyme complex, important for the normal functioning of a-dystroglycan, and therefore for the cytoskeleton. In skeletal muscles, a-dystroglycan helps stabilize and protect muscle fibers. In the brain, it is important for cell migration during early brain development. POMT1 gene abnormalities can cause Walker-Warburg syndrome (cobblestone lissencephaly, eye abnormality and myopathy) and muscle-eye brain disease.
+
+POMT2
+
+The protein O-mannosyltransferase 2 gene is located on chromosome 14q24. The protein encoded by this gene is a subunit of the POMT complex, important for the normal functioning of a-dystroglycan, and therefore for the cytoskeleton. In skeletal muscles, a-dystroglycan helps stabilize and protect muscle fibers. In the brain, it is important for cell migration during early brain development. POMT2 gene abnormalities can cause Walker-Warburg syndrome (cobblestone lissencephaly, eye abnormality and myopathy) and muscle-eye brain disease.
+
+PRRT2
+
+The proline-rich transmembrane protein 2 (PRRT2) gene, located on chromosome 16p11.2, encodes a transmembrane protein. Mutations in PRRT2 are found in self-limited infantile epilepsy and also in paroxysmal kinesigenic dyskinesia.
+
+RELN
+
+The reelin gene is located on chromosome 7q22. The protein encoded by this gene is reelin, this activates a signaling pathway in the developing brain that triggers neuronal migration to their proper locations. RELN gene abnormalities can cause lissencephaly with cerebellar hypoplasia.
+
+SCN1A
+
+The sodium channel, voltage-gated, type I, alpha subunit (SCN1A) gene, located on chromosome 2q24.3, has been implicated in a number of epilepsies. The SCN1A gene product is the alpha subunit of the NaV1.1 sodium channel. This sodium channel is important in controlling sodium transport into neurons. Over 150 mutations in the SCN1A gene have been linked to epilepsy. Epilepsies seen with SCN1A include genetic epilepsy with febrile seizures plus and Dravet syndrome. Febrile seizures may be the only clinical manifestation or mutations may be found in family members of individuals with epilepsy who do not have seizures. Specific mutations in SCN1A have also been associated with epilepsy of infancy with migrating focal seizures and familial hemiplegic migraine. Polymorphisms in this gene (ICS5N+5G>A polymorphism) may affect efficacy and adverse effects of sodium channel blocking anti-seizure medications.
+
+SCN1B
+
+The sodium channel, voltage-gated, type I, beta subunit (SCN1B) gene, located on chromosome 19q13.1, encodes the sodium channel beta-1 subunit. The sodium channel is important in controlling sodium transport into neurons. Epilepsies seen with SCN1B mutations include genetic epilepsy with febrile seizures plus. SCN1B mutations are also associated with risk of cardiac arrhythmia.
+
+SCN2A
+
+The sodium channel, voltage-gated, type II, alpha subunit (SCN2A) gene, located on chromosome 2q24.3, has been implicated in a number of epilepsies. The SCN2A gene product is the alpha subunit of the NaV1.1 sodium channel. This sodium channel is important in controlling sodium transport into neurons. Epilepsies seen with SCN2A mutations include self-limited familial neonatal-infantile epilepsy, self-limited familial infantile epilepsy, epilepsy of infancy with migrating focal seizures and Ohtahara syndrome.
+
+SLC2A1
+
+The solute carrier family 2, facilitated glucose transporter member 1 (SLC2A1) gene, located on chromosome 1p34.2, is responsible for a gene that encodes a major glucose transporter in the blood-brain barrier. Mutations in this gene can cause epilepsy in GLUT1 deficiency and/or paroxysmal exercise induced dyskinesia.
+
+SLC25A22
+
+The solute carrier family 25 (mitochondrial carrier: glutamate), member 22 (SLC25A22) gene, located on chromosome 11p15.5, is responsible for a gene product that is a mitochondrial glutamate carrier. This gene has been implicated in early myoclonic encephalopathy and Ohtahara syndrome.
+
+SPTAN1
+
+The spectrin, alpha, non-erythrocytic 1 (SPTAN1) gene, located on chromosome 9q34.11, is responsible for the gene product alpha spectrin, a filamentous cytoskeletal protein that functions to stabilize plasma membranes and organize intracellular organelle. This gene has been implicated in Ohtahara syndrome and in West syndrome. Neuroimaging typically shows hypomyelination.
+
+STXBP1
+
+The syntaxin binding protein 1 (STXBP1) gene, located on chromosome 9q34.1, is responsible for the gene product syntaxin-binding protein, which plays a role in neurotransmitter release through modulation of synaptic vesicle docking and fusion. This gene has been implicated in Ohtahara syndrome and in other epilepsies seen in individuals with intellectual impairment. STXBP1 mutations account for 10-15% of all cases of Ohtahara syndrome. Neuroimaging typically shows hypomyelination.
+
+TBC1D24
+
+The TBC1 domain family, member 24 (TBC1D24) gene, located on chromosome 16p13.3, is a gene that may encode a protein that is GTPase-activating. TBC1D2 gene abnormalities have been linked to epilepsy of infancy with migrating focal seizures.
+
+TCF4 (PITT HOPKIN SYNDROME)
+
+The transcription factor 4 (TCF4) gene, located on chromosome 18q21.1, produces a transcription factor (TCF4 protein) that is part of the E-protein family. The TCF4 protein plays a role in the maturation of cells to carry out specific functions (cell differentiation) and the self-destruction of cells (apoptosis). At least 50 mutations in this gene have been found in Pitt Hopkin syndrome, a clinical syndrome with developmental delay, intellectual impairment (moderate-severe), epilepsy, distinct facial features (thin eyebrows, sunken eyes, prominent nose, high nasal bridge, a Cupid's bow appearance to the upper lip, a wide mouth with full lips, widely spaced teeth and thickened cupped ears) and breathing abnormality (typically a hyperventilation-apnoea sequence). Children typically have a happy demeanor, with frequent smiling and hand flapping.
+
+TSC1
+
+The tuberous sclerosis 1 gene is located on chromosome 9q34. The protein encoded by this gene is hamartin, which in combination with tuberin (see TSC2 gene) form a complex that is important in the mTOR pathway, an intracellular pathway that controls cell growth and differentiation. TSC1 gene abnormalities cause reduced mTOR inhibition and tuberous sclerosis.
+
+TSC2
+
+The tuberous sclerosis 2 gene is located on chromosome 16p13.3. The protein encoded by this gene is tuberin, which in combination with hamartin (see TSC1 gene) form a complex that is important in the mTOR pathway, an intracellular pathway that controls cell growth and differentiation. TSC2 gene abnormalities cause reduced mTOR inhibition and tuberous sclerosis. TSC2 gene abnormalities have also been found in DNA extracted from focal cortical dysplasia type IIB.
+
+TUBA1A
+
+The tubulin alpha 1a gene is located on chromosome 12q13.12. The protein encoded by this gene is a-tubulin, part of the tubulin family of proteins that are important for structure and function of microtubules - which in turn are important for cell migration in early brain development. TUBA1A gene abnormalities can cause lissencephaly, lissencephaly with cerebellar hypoplasia and polymicrogyria.
+
+WDR62
+
+The WD repeat domain 62 gene is located on chromosome 19q13.12. The protein encoded by this gene is important for cell proliferation. WDR62 gene abnormalities can cause a wide variety of developmental brain malformations including lissencephaly and schizencephaly. Compound heterozygote gene abnormalities in WDR62 have been identified in patients with polymicrogyria. Patients have microcephaly and may have hypoplasia of the corpus callosum and cerebellum.
+
+ZEB2 (MOWAT WILSON SYNDROME)
+
+The zinc finger E-box binding homeobox 2 (ZEB2) gene, located on chromosome 2q22.3, produces the ZEB2 protein that controls early growth and development. It appears particularly important in embryonic neural crest tissues. At least 100 mutations in this gene have been found in Mowat Wilson syndrome, a clinical syndrome with developmental delay, intellectual impairment, epilepsy, distinct facial features (elongated square-shaped face, deep-set and widely spaced eyes, broad nasal bridge, rounded nasal tip, prominent jaw, pointed chin, large eyebrows, uplifted dimpled earlobes) and intestinal (Hirschsprung disease) and other (microcephaly, structural brain abnormality, cardiac) defects. Children typically have a happy demeanor, with frequent smiling open-mouthed expression.
+
+
+
+
+
+STRUCTURAL
+Structural epilepsies are conceptualized as having a distinct structural brain abnormality that has been demonstrated to be associated with a substantially increased risk of epilepsy in appropriately designed studies. The structural brain abnormality can be acquired (such as due to stroke, trauma or infection) or may be of genetic origin; however, as we currently understand it, the structural brain abnormality is a separate disorder interposed between the acquired or genetic defect and the epilepsy.
+
+Common structural brain abnormalities associated with epilepsy are presented in this section of EpilepsyDiagnosis.org.
+
+Neuroimaging
+
+Magnetic resonance imaging (MRI) using a 1.5Tesla magnet is the minimum standard investigation for exclusion of a structural abnormality, although it is acknowledged that MRI may not be available in resource-poor settings. When a MRI study is performed, it is important to perform epilepsy-directed protocols that allow careful scrutiny for specific acquired abnormalities (e.g. hippocampal sclerosis) and subtle malformations of cortical development such as focal cortical dysplasia. Imaging with 3Tesla or higher strength, and the use of advanced software analysis methods, may assist with the identification of structural abnormalities not obvious on routine MRI. Interictal and ictal EEG together with complementary functional neuroimaging studies such as PET, SPECT and MEG, where available, may assist by directing attention to a particular brain region allowing a subtle abnormality to be identified. In young children imaged under the age of 2 years, subtle abnormalities may not be appreciated and repeat imaging may be required after myelination is complete.
+
+
+
+
+
+MALFORMATIONS OF CORTICAL DEVELOPMENT
+OVERVIEW
+
+Malformations of cortical development are structural abnormalities of the cerebral cortex (the grey matter that lines the surface of the brain), which arise due to the abnormal formation of the cerebral cortex in early (intrauterine) life. The precursor cells of the cerebral cortex are initially formed in the periventricular region, and then migrate to their correct location to form the normal structure and cell connections seen in the mature cerebral cortex. A variety of genes contribute to this process, and gene abnormalities, chromosome abnormalities or less commonly environmental factors (such as lack of oxygen to the developing brain or intrauterine infection) can interrupt normal cortical formation.
+
+The important malformations of cortical development that are seen in patients with epilepsy are presented in this section of EpilepsyDiagnosis.org:
+
+	focal cortical dysplasia,
+	tuberous sclerosis,
+	lissencephaly,
+	subcortical band heterotopia,
+	grey matter heterotopia,
+	polymicrogyria,
+	hemimegalencephaly,
+	schizencephaly, and
+	hypothalamic hamartoma
+
+
+
+FOCAL CORTICAL DYSPLASIA
+
+Clinical Overview
+OVERVIEW
+
+Focal cortical dysplasias (FCD) are localized regions of malformed cerebral cortex. They are a common cause of focal seizures. They are classified by their neuropathological features.
+
+	FCD Type I refers to isolated lesions, which present either as radial (FCD Type Ia) or tangential (FCD Type Ib) dyslamination of the cortex, that may be identified in one or multiple lobes of the brain.
+	FCD Type II is an isolated lesion characterized by cortical dyslamination and dysmorphic neurons without (Type IIa) or with balloon cells (Type IIb).
+	FCD Type III describes FCD that occurs in combination with hippocampal sclerosis (FCD Type IIIa), with glioneuronal tumors (FCD Type IIIb), adjacent to vascular malformations (FCD Type IIIc) or in association with lesions acquired in early life, such as a previous ischemic injury (FCD Type IIId).
+
+Clinical context
+
+The clinical presentation of focal cortical dysplasia depends on the extent and location of the malformation, and co-occurring structural abnormalities. Unless the area of focal cortical dysplasia is large, patients do not initially suffer from significant developmental, neurological or cognitive impairment. Onset of seizures can be at any age, with two thirds having seizure onset by 5 years of age and most patients having seizure onset by 16 years. Older age of onset is rarely seen. While around one fifth of patients may show transient responsiveness to medication (seizure freedom for one year or more), seizures are usually difficult to control with medication (seen in around 80% of patients). Both sexes may be affected.
+
+CAUTION developmental and cognitive outcome may be worse in children with uncontrolled seizures in early life, especially if epileptic spasms or generalized seizure types appear, therefore proactive seizure control is important, this may include epilepsy surgery, if seizures are not controlled with medication.
+
+Seizures
+Seizures and videos
+
+Focal seizures are usually the initial seizure type, with features referable to the location of the focal cortical dysplasia. If these do not have motor feutures, they may be difficult to detect in infants and young children.
+
+Evolution to bilaterl convulsions can occur,these may have focal features if this information is carefully sought.
+
+Epileptic spasms may occur, and may be the presenting seizure type, these may have focal features that are referable to the location of the focalcorticaldysplasia.
+
+Status epilepticus, including focal status epilepticus,can occur.
+
+CAUTION patients with focal cortical dysplasia, who have earlier age of seizure onset, may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seizures types, such as atypical absences, atonic and tonic seizures. Developmental and cognitive impairments are more common in this group. If these seizure types re seen, achieving full seizure control is important, if this is not achieved with medication, epilepsy surgery should be considered.
+
+Background
+
+The background EEG may be normal, or may show focal slowing over the focal cortical dysplasia. In the presence of epileptic spasms or generalized seizure types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+The interictal EEG may be normal or may show focal interictal spikes, polyspikes or spike-and-wave in the location of the focal cortical dysplasia.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+The presence of focal, rhythmic epileptiform discharges is the most characteristic feature of the scalp EEG in patients with focal cortical dysplasia, showing spatial correlation with the focal cortical dysplasia. Focal cortical dysplasias that are not accessible by scalp EEG may have poorly localized ictal change on EEG, with patterns that may include subtle attenuation, or only rhythmic slowing.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+
+Imaging for optimized detection of focal cortical dysplasia:
+
+MRI, with thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of FCD type I:
+
+Atrophy - lobar or sublobar, with regional loss of subcortical white matter
+Increased signal in the white matter on T2-weighted/FLAIR imaging, and decreased signal on T1-weighted imaging
+May have mildly abnormal sulcal / gyral pattern
+FCD type Ia is usually found in the temporal lobes and may be associated with hippocampal atrophy, FCD type Ib is usually found outside of the temporal lobes
+Imaging of FCD type I
+
+Both images below are from the same patient and illustrate FCD type I, showing regional increase in signal in white matter (which appears brighter) on T2-weighted images, with regional atrophy (compare right temporal, parietal and occipital regions to the same regions on the left)
+
+FCD I
+
+FCD I
+
+Imaging characteristics of FCD type II:
+
+Increased cortical thickness, with abnormal sulcal / gyral pattern
+Blurring of the grey-white matter junction
+Increased signal in the white matter on T2-weighted/FLAIR imaging, decreased signal on T1-weighted images
+A radially-oriented linear or conical transmantle stripe of T2/FLAIR hyperintensity tapering to the lateral ventricle
+FCD type II are most commonly found in the frontal lobes
+Imaging of FCD type II
+
+There is a localized area of cortical thickening, with blurring of the grey-white matter junction and increased signal in the underlying white matter on FLAIR imaging, seen in the left frontal lobe
+
+FCD II
+
+Imaging of FCD type II
+
+There is a regional area of gyral expansion in the left inferior frontal lobe, with increased signal in the underlying white matter on T2-weighted imaging (with a central dark core) that is radially-orientated, tapering towards the lateral ventricle (with the 'tail' seen on the second coronal image, arrow). The imaging features FCD type II, can be identical to that of a cortical tuber.
+
+FCD II
+
+FCD II
+
+CAUTION in the immature unmyelinated brain, increased T2/FLAIR signal is difficult to identify, as is grey-white matter junction blurring, imaging may need to be repeated after myelination is complete.
+
+CAUTION some focal cortical dysplasias may be difficult to detect, but detection is important as epilepsy surgery can cure intractable seizures that arise from focal cortical dysplasias. Advanced imaging modalities, such as PET and SPECT scans, with expert review, may be required.
+
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Sporadic A term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality , possibly due to acquired gene abnormalities A gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. , which may be somaticA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception, that does not occur in sex cells (sperm/egg). The gene abnormality is therefore not inherited from the individual's parents, and is not able to be passed on to offspring. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. This situation is known as 'mosaicism'.  or germlineA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception, that affects his/her sex cells (sperm/egg). The gene abnormality is therefore not inherited from the individual's parents. The individual may not be affected by the gene abnormality clinically, if it is present only in their egg/sperm cells, but the gene abnormality can be passed on to offspring. If this occurs, the offspring will have the gene abnormality in all their cells. . Familial cases are reported only exceptionally.
+
+KNOWN GENES
+
+Recently gene abnormalities in mTOR pathway genes have ben found in some patients with FCD type II. These gene abnormalities may be germline (DEPDC5 and NPRL3) or somatic (TSC2).
+
+FAMILY HISTORY
+
+Rare familial cases of FCD have been reported in patients with gene abnormalities in DEPDC5 or NPRL3 genes. There is variable expressivity in these patients, with some family members seemingly unaffected, others with focal epilepsy and normal MRI and others with FCD.
+
+Differential diagnoses
+
+The pathological features of focal cortical dysplasia Type IIb can be indistinguishable from that of a cortical tuber seen in tuberous sclerosis.
+
+
+
+TUBEROUS SCLEROSIS
+
+Clinical Overview
+OVERVIEW
+
+Tuberous sclerosis, a genetic disorder, is a common cause of malformations of cortical development, with a birth incidence of 1:6000 births. It is a disorder caused by a defect in the mTOR pathway, an intracellular pathway that regulates cell growth and differentiation, resulting in abnormalities in a number of organs, including the brain, skin, heart, kidneys and eyes.
+
+Prior to the identification of the gene abnormalities associated with tuberous sclerosis, diagnosis relied on the presence of certain clinical features (Table). Many of these features appear with age and may not be present at the time of seizure onset (typically under 1 year of age). In infants, the only clinical features that may be present, in addition to structural brain abnormalities, are hypopigmented skin macules (which may need a Woods light examination to identify) and cardiac rhabdomyomas.
+
+The frequency of epilepsy in tuberous sclerosis is high, with onset of seizures typically under 1 year of age (commonly epileptic spasms and focal seizures), but a smaller group having later (>4 years) onset of seizures, with focal seizures seen in this group. Developmental and cognitive impairments can occur, although 50% of individuals are of normal intellect.
+
+CAUTION developmental and cognitive outcome may be worse in children with uncontrolled seizures in early life, especially if epileptic spasms or generalized seizure types appear, therefore proactive seizure control is important, this may include epilepsy surgery if seizures are not controlled with medication.
+
+Table: Criteria for clinical diagnosis of tuberous sclerosis (2012).
+
+Diagnosis is established as follows:
+
+a clinical diagnosis of definite tuberous sclerosis: 2 major features or 1 major and 2 or more minor features (lymphangioleiomyomatosis and angiomyolipomas cannot be used together as two major features)
+a clinical diagnosis of possible tuberous sclerosis: either 1 major or 2 or more minor features
+the identification of either a TSC1 or TSC2 pathogenic mutation in DNA from normal tissue is sufficient to make a definite diagnosis of tuberous sclerosis. Note that 10% to 25% of tuberous sclerosis patients have no mutation identified by conventional genetic testing, and a normal result does not exclude tuberous sclerosis
+
+Major Features	                                                Minor Features
+3 or more hypomelanotic macules, at least 5mm in diameter	"Confetti" skin lesions
+3 or more angiofibromas or fibrous cephalic plaque	        3 or more dental enamel pits
+2 or more ungual fibromas	                                2 or more intraoral fibromas
+Shagreen patch	                                                Retinal achromic patch
+Multiple retinal hamartomas	                                Multiple renal cysts
+Cortical dysplasias (includes tubers and cerebral white         Nonrenal hamartoma (e.g. liver)                                      
+matter radial migration lines)	
+Subependymal nodules	 
+Subependymal giant cell astrocytoma	 
+Cardiac rhabdomyoma	 
+Lymphangioleiomyomatosis	 
+Angiomyolipomas (2 or more)	
+
+Seizures and videos
+
+Focal seizures are seen, with features referable to the location of the cortical tubers from which they arise. If these do not have motor features, they may be difficult to detect in infants and young children.
+
+evolution to bilateral convulsions can occur, these may have focal features if this information is carefully sought.
+
+Epileptic spasms may be seen, and may be the presenting seizure type; these may have focal features that are referable to a cortical tuber or tuber complex.
+
+Status epilepticus, including focal status epilepticus, can occur.
+
+CAUTION patients with tuberous sclerosis, who have earlier age of seizure onset, may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seizure types, such as atypical absences, atonic and tonic seizures. Developmental and cognitive impairments, and psychiatric disorders are more common in this group. If these seizure types are seen, achieving full seizure control is important, if this is not achieved with medication, epilepsy surgery should be considered.
+ 
+Background
+
+The background EEG may be normal, or may show focal slowing over cortical tubers. In the presence of epileptic spasms or generalized seizure types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+The interictal EEG may be normal or may show focal interictal spikes, polyspikes or spike-and-wave in the location of cortical tubers.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with multiple tubers or those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+The presence of focal, rhythmic epileptiform discharges is the most characteristic feature of the scalp EEG in patients with tuberous sclerosis who have focal seizures. The focal ictal EEG change shows spatial correlation with the cortical tuber from which seizures arise. Cortical tubers that are not accessible by scalp EEG may have poorly localized ictal change on scalp EEG, with patterns that may include subtle attenuation, or rhythmic slowing.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+
+Imaging for optimized detection of tuberous sclerosis:
+
+MRI, with thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of tuberous sclerosis:
+
+cortical tubers (present in 80% or more patients, cerebellar tubers may also be present)
+subependymal nodules (present in 95% or more patients)
+subependymal giant cell astrocytoma (present in around 10-15% of patients)
+white matter abnormalities and cysts
+The pathological and imaging features of cortical tubers can be indistinguishable from those of focal cortical dysplasia (FCD IIb). Hemimegalencephaly has been reported in some patients with tuberous sclerosis.
+
+Imaging in tuberous sclerosis
+
+This is a T2-weighted image of a cortical tuber in an immature brain. There is a localized area of gyral expansion in the right frontal lobe, with abnormal low signal in the underlying white matter. The imaging features of this tuber can be similar to that of a focal cortical dysplasia (FCD type IIb).
+
+TS1
+
+Imaging in tuberous sclerosis
+
+Both images below are from the same patient and show:
+
+multiple cortical tubers - areas of gyral expansion with thickening of the overlying cortex and abnormal signal in the underlying white matter
+subependymal nodules
+white matter abnormality
+TS2
+
+TS3
+
+Imaging in tuberous sclerosis
+
+The image below is a T2-weighted image showing cortical tubers in the right and left frontal lobes (arrows).
+
+TS4
+
+GENETICS
+
+PATTERN OF INHERITANCE
+
+	In two thirds of cases: sporadicA term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality, due to an acquired gene abnormalityA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. which may be somaticA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception, that does not occur in sex cells (sperm/egg). The gene abnormality is therefore not inherited from the individual's parents, and is not able to be passed on to offspring. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. This situation is known as 'mosaicism'.  or germlineA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception, that affects his/her sex cells (sperm/egg). The gene abnormality is therefore not inherited from the individual's parents. The individual may not be affected by the gene abnormality clinically, if it is present only in their egg/sperm cells, but the gene abnormality can be passed on to offspring. If this occurs, the offspring will have the gene abnormality in all their cells. .
+	In one third of cases: familial inheritance - autosomal dominant, with high penetrance.
+
+Autosomal dominant, with high penetrance. Most cases are due to a new mutation, and do not have a family history.
+
+KNOWN GENES
+
+Gene abnormalities in TSC1 (on 9q34, encoding hamartin) or TSC2 (on 16p13, encoding tuberin) genes are responsible for the majority of tuberous sclerosis cases. Hamartin and tuberin form a complex that is required for normal function of the mTOR pathway. The TSC1 or TSC2 gene abnormality is detectable in blood in most individuals with tuberous sclerosis. Usually individuals have one copy of the abnormal gene, resulting in reduced normal hamartin/tuberin production initially. Over time, a second acquired gene abnormality may occur in the other copy of the TSC gene, resulting in further reduction in normal hamartin/tuberin production and loss of regulation of cell growth in those cells with two abnormal TSC genes. Up to 10-25% of patients may not have a TSC1/2 gene abnormality found in blood, these individuals are likely to still have a TSC1 or TSC2 gene abnormality, but present only in a small percentage of blood cells, or present in other cells (such as brain or kidney cells) in the body.
+
+FAMILY HISTORY
+
+May be present, a history of seizures/epilepsy or skin or renal disease in family members should be sought.
+
+Differential diagnoses
+
+Focal cortical dysplasia, particularly FCD type IIb, which may be pathologically identical to the cortical tubers in tuberous sclerosis
+
+
+
+LISSENCEPHALY
+Clinical Overview
+OVERVIEW
+
+Lissencephaly is a malformation of cortical development, where there is deficient gyration (folding) in the cerebral cortex, resulting in absent gyri (agyria) and/or broad simple gyri (pachygyria).
+
+There are two major types of lissencephaly:
+
+	Classical lissencephaly (also known as type 1 lissencephaly), with reduced gyration and cerebral cortical thickening, this may occur in isolation or with other congenital abnormalities, for example as part of a 17p microdeletion - Miller-Dieker syndrome
+	Cobblestone lissencephaly (also known as type 2 lissencephaly), with reduced gyration and a nodular appearance to the cortex, is associated with structural abnormalities of the cerebellum and brainstem, and commonly occurs with eye and muscle involvement - Fukuyama congenital muscular dystrophy, muscle-eye-brain disease, and Walker-Warburg syndrome
+Lissencephaly may co-occur with any of a large number of other structural brain abnormalities, such as abnormality in ventricular appearance, of the corpus callosum, of the septum pellucidum and hypoplasia of the pyramidal tracts
+
+Clinical Context
+
+Classical lissencephaly
+
+The clinical presentation of classical lissencephaly depends on the extent of the malformation, and whether associated with other structural abnormalities within the brain, or with involvement of other systems. Epilepsy is present in nearly all individuals (more than 90%), often with onset of seizures in the first year of life. Developmental, cognitive and motor impairments are frequent and significant in most cases. Many children have bulbar difficulties that result in difficulty with feeding and respiratory function.
+
+Cobblestone lissencephaly
+
+The clinical presentation of cobblestone lissencephaly predominantly relates to the co-occurring severe congenital muscular dystrophy.
+
+Seizures
+Seizures and videos
+
+Epileptic spasms are seen, and areusuallythe presenting seizure type (in 80%).
+
+Generalized seizures types, such as atypical absence, atonic and tonic seizure, are also seen.
+
+EEG
+Background
+
+The background EEG is abnormal, and may show widespread high amplitude fast activity (alpha and beta frequencies), widespread slowing, high amplitude spike or sharp activity (with or without subsequent EEG attenuation) or hypsarrhythmia (seen in those with epileptic spasms).
+
+Specific genetic etiologies may have preferential EEG patterns, children with anterior agyria-pachygyria with DCX mutations may have diffuse moderate amplitude alpha activity, whereas those with posterior predominant cortical abnormality and LIS1 mutations may have bursts of sharp and slow waves with periods of attenuation.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as epileptic spasms may only be demonstrated from sleep or on wakening.
+
+Ictal
+
+Ictal EEG reflects the types of seizures that are present. When epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types is seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of lissencephaly:
+
+Whilst lissencephaly may be seen on USS (antenatal and postnatal) and CT, MRI is the imaging of choice for assessing the detail and associated structural abnormalities. MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of lissencephaly type 1:
+
+	reduced gyration (resulting in a shallow Sylvian fissure giving a 'figure of 8' appearance)
+	cerebral cortical thickening, 12-20mm (instead of 3-4mm)
+	subcortical band heterotopia is sometimes seen (anterior predominance in DCX mutations, posterior predominance in LIS1 mutations)
+	other structural brain abnormalities may be seen such as enlarged ventricles and hypoplastic corpus callosum
+Imaging in lissencephaly type 1
+
+The images below are all from the same patient. They show reduced gyration, a shallow Sylvian fissure (SF, arrow), thickening of the cortex and subcortical band heterotopia, appreciated over posterior regions (SBH, arrows).
+
+lissencephaly type 2
+
+lissencephaly type 3
+
+lissencephaly type 4
+
+Imaging characteristics of lissencephaly type 2 can include:
+
+	lack of normal sulcation (resulting in a shallow Sylvian fissure giving a 'figure of 8' appearance)
+	nodular cortical surface
+	associated abnormalities, related to associated syndromes
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+The pattern of inheritance depends on the gene abnormality. LIS1 and TUBA1A occur as acquired gene abnormalitiesA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. . DCX can be inherited in an X-linked pattern. Rare forms of lissencephaly may have autosomal recessive inheritance.
+
+KNOWN GENES
+
+Classical lissencephaly:
+
+	LIS1 - accounts for half of all cases of classical lissencephaly, with a posterior to anterior gradient of lissencephaly seen, this gene abnormality may occur in isolation or in association with Miller Dieker syndrome
+	DCX - accounts for 10% of all cases of classical lissencephaly, with an anterior to posterior gradient of lissencephaly seen, and a male predominance (females have subcortical band heterotopia)
+	ARX - lissencephaly with agenesis of the corpus callosum and with abnormal genitalia in males
+	RELN - lissencephaly with cerebellar hypoplasia
+	TUBA1A - lissencephaly with a posterior to anterior gradient, may have associated cerebellar hypoplasia
+	Other genes: DYNC1H1, KIF2A, KIF5C, TUBG1
+Cobblestone lissencephaly: POMT1, POMT2, LARGE, FKTN and FKRP
+
+FAMILY HISTORY
+
+May be present (see above).
+
+Differential diagnoses
+
+	The normal immature brain, as seen in a preterm infant or on fetal MRI, lacks gyration.
+	Subcortical band heterotopia
+	Polymicrogyria
+
+
+
+SUBCORTICAL BAND HETEROTOPIA
+Clinical Overview
+OVERVIEW
+
+Subcortical band heterotopia is a malformation of cortical development, where there is a band of cortical cells (grey matter) located between the lateral ventricular wall and the cortex. The overlying cortex has a largely normal appearance, but may have mildly shallow sulcation. It occurs due to failure of migration of a population of neuronal cells to their correct location in the cerebral cortex. Subcortical band heterotopia is typically bilateral, symmetric and anterior-predominant. Occasionally subcortical band heterotopia can be bifrontal only, or rarely biparieto-occipital. Subcortical band heterotopia usually occurs in isolation, without other associated structural brain abnormalities, though mild cerebellar hypoplasia can occur with DCX mutations.
+
+Clinical Context
+
+The clinical presentation of subcortical band heterotopia is usually with developmental and cognitive impairments, with or without seizures. The severity of cognitive impairment and seizures correlates with the thickness of the subcortical band. Seizure onset can be at any age, and can be as late as the second or third decade of life. There is a strong female predominance.
+
+Seizures
+
+Focal seizures are seen.
+
+Evolution to bilateral convulsions can occur, these may have focal features if this information is carefully sought.
+
+Seizure types may change over time, with the emergence of generalized seizure types, such as typical absence, atonic and tonic seizures.
+
+EEG
+Background
+
+The background EEG may be normal, or may show focal or widespread slowing.
+
+Interictal
+
+Focal interictal spikes or polyspikes may be seen. Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) may also occur.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep.
+
+Ictal
+
+The presence of focal, rhythmic epileptiform discharges may be seen, with focal seizure types. If generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of subcortical band heterotopia:
+
+Whilst subcortical band heterotopia may be seen on USS and CT (depending on severity), MRI is the imaging of choice for assessing the detail and associated structural abnormalities. MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of subcortical band heterotopia:
+
+a band of grey matter is seen, located between the ventricle and cortex, this can be of variable thickness (can be subtle in some areas), and may be duplicated (i.e. a double band) in the temporal lobes
+the overlying cortex may be normal or may show shallow sulcation.
+Anterior predominance of banding is recognized with DCX mutations, posterior predominance with LIS1 mutations
+Imaging in subcortical band heterotopia
+
+The images below are all from the same patient, and show pachygyria (broad simple gyri) anteriorly and subcortical band heterotopia posteriorly (SBH, arrows).
+
+sbh 1
+
+sbh 2
+
+sbh 3
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+The pattern of inheritance depends on the gene abnormality. LIS1 is typically an acquired gene abnormalityAcquired gene abnormality A gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. . DCX is inherited in an X-linked pattern.
+
+KNOWN GENES
+
+	DCX - accounts for most cases of subcortical band heterotopia, with the heterotopia being bilateral, symmetric and anterior predominant, with a female predominance.
+	LIS1 - posterior predominant subcortical band heterotopia
+FAMILY HISTORY
+
+May be present (see above).
+
+Differential diagnoses
+
+Lissencephaly
+
+
+
+GREY MATTER HETEROTOPIA
+Clinical Overview
+OVERVIEW
+
+Grey matter heterotopia is a malformation of cortical development, where cortical cells (grey matter) are present in inappropriate locations in the brain, due to interruption in their migration to their correct location in the cerebral cortex. Grey matter heterotopia may be unilateral or bilateral, singular or multiple, separate or contiguous. The most common form is bilateral periventricular nodular heterotopia (grey matter heterotopia lining the lateral ventricles). Grey matter heterotopia can also occur in subcortical white matter (subcortical nodular heterotopia). Grey matter heterotopia can co-occur with other structural abnormalities. Unilateral periventricular nodular heterotopia can co-occur with subcortical nodular heterotopia and with polymicrogyria. Bilateral periventricular nodular heterotopia can co-occur with cerebellar vermis hypoplasia and hypoplasia of the corpus callosum. Hippocampal sclerosis can co-occur with heterotopia.
+
+Clinical context
+
+The clinical presentation of grey matter heterotopia depends on the extent of the malformation, and whether the malformation is unilateral or bilateral, or associated with other brain malformations or congenital malformations elsewhere in the body. Developmental, cognitive and motor impairments can occur, and are more severe in those with bilateral or extensive heterotopia or other brain abnormalities. Seizures are common, seen in 80-90% of cases. There is a female predominance in cases of bilateral periventricular nodular heterotopia.
+
+Seizures
+Seizures and videos
+
+Focal seizures are usually seen, with features referable to the location of the heterotopia. They maybe frequent and fail to respond tomedication. If these do not have motor features, they may be difficult to detect in infants.
+
+Evolution to bilateral convulsions can occur, these may have featuresif this information is carefully sought.
+
+Epileptic spasms can occur,and may be the presenting seizure type, these may have focal features that are referable to the location of the heterotopia.
+
+Status epilepticus, including focal status epilepticus, can occur.
+
+CAUTION patients with heterotopia, who have earlier age of seizure onset, may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seisure types, such as atypical absence, atonic and tonic seizures. Developmental and cognitive impairments are more common in this group. If these seizure types are seen, and if seizure control is not achieved with medication,epilepsy surgery may be considered if the region of heterotopia is localized.
+
+EEG
+Background
+
+The background EEG may be normal, or may show focal or widespread slowing. In the presence of epileptic spasms the background may show hypsarrhythmia.
+
+Interictal
+
+Focal interictal spikes or polyspikes may be seen, referrable to the location of the heterotopia.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+Focal rhythmic epileptiform discharges may be seen with focal seizures, showing spatial correlation with the heterotopia. Ictal onset may occur in the heterotopic nodule itself, or in overlying cortex. Heterotopia that are not accessible by scalp EEG may have poorly localized ictal change on EEG, with patterns that may include subtle attenuation, or only rhythmic slowing.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of grey matter heterotopia:
+
+Whilst grey matter heterotopia may be seen on USS and CT (depending on size), MRI is the imaging of choice for assessing the detail and associated structural abnormalities. MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of periventricular nodular heterotopia:
+
+heterotopic nodules of grey matter intensity are seen immediately deep to the ependymal layer-two pattern are seen:
+nodules along the bodies and anterior horns of the lateral ventricles, as seen in typical bilateral periventricular nodular heterotopia
+Nodules seen maximal in the trigones and occipital horns, as seen in the infrasylvian form of periventricular nodular heterotopia
+Imaging in grey matter heterotopia
+
+The image below is an example of bilateral periventricular nodular heterotopia, showing grey matter nodules along the bodies of both lateral ventricles.
+
+grey matter 1
+
+Imaging in grey matter heterotopia
+
+Both images below are from the same patient, and show unilateral (right) periventricular nodular heterotopia, with grey matter heterotopia lining the body of the right ventricle. There is polymicrogyria in the overlying cortex (compare right and left).
+
+grey matter 2
+
+grey matter 3
+
+Imaging characteristics of subcortical nodular heterotopia:
+
+heterotopic grey matter extending from the ventricle into white matter or extending from the cortex into underlying white matter
+heterotopias are continuous with overlying cortex or underlying ventricle
+co-occurring abnormalities in the affected hemisphere include distortion of the ventricle, loss of volume in cortex and white matter, abnormal white matter signal
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+	SporadicA term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality (acquired gene abnormalityA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. ).
+	Inheritance can be autosomal recessive or X-linked.
+
+KNOWN GENES
+
+	FLNA - associated with bilateral periventricular nodular heterotopia, this gene abnormality is found in 80% of familial periventricular nodular heterotopia, and in 20% of those with sporadic periventricular nodular heterotopia. FLNA gene abnormalities may be associated with connective tissue disease and vascular abnormalities, such as aortic root dilatation.
+	ARFGEF2 - microcephaly is seen in these cases.
+A number of chromosomal deletions have been associated with periventricular nodular heterotopia, including deletions of 7q11.23, 5p15.1 and 4p15.
+
+CHROMOSOMAL ABNORMALITIES
+
+A number of chromosomal deletions have been associated with periventricular nodular heterotopia, including deletions of 6q27, 7q11.23, 5p15.1 and 4p15.
+
+FAMILY HISTORY
+
+May be present (see above).
+
+Differential diagnoses
+
+	Subependymal nodules, as seen in tuberous sclerosis - these have signal abnormality that is mixed white matter/grey matter.
+	Closed lipped schizencephaly - can appear similar to subcortical nodular heterotopia, but is associated with a 'dimple', rather than a 'bulge' in the ventricle wall
+
+
+
+POLYMICROGYRIA
+Clinical Overview
+OVERVIEW
+
+Polymicrogyria is a common malformation of cortical development, where there is abnormal layering, excessive gyration (folding), and gyral fusion in the cerebral cortex. Polymicrogyria may be bilateral, or less commonly unilateral. It occurs most frequently in the perisylvian cortex (80%) and can result in the Sylvian fissure having an abnormal extension and orientation. Polymicrogyria can co-occur with other structural abnormalities, including abnormalities of the white matter, corpus callosum, cerebellum and basal ganglia.
+
+Clinical Context
+
+The clinical presentation of polymicrogyria depends on the extent of the malformation, and whether the malformation is unilateral or bilateral. It also depends on whether there are other brain structural abnormalities. Developmental, cognitive and motor impairments can occur. Unilateral polymicrogyria can be associated with contralateral hemiparesis. Impairments are more significant in those with bilateral or extensive polymicrogyria. Seizures onset occurs within the first year in ~ 50%, and within the first 5 years in ~70%, but seizures may not start until the second decade of life.
+
+Causes of polymicrogyria:
+
+	Gene abnormalities e.g. WDR62 and PIK3R2
+	Intrauterine cerebral injury, after approximately 20 weeks gestation, e.g. infection such as CMV, or hypoxia-ischemia
+	Metabolic etiology e.g. peroxisomal disorders
+
+Bilateral perisylvian syndrome
+
+Bilateral perisylvian polymicrogyria can cause facial and oromotor dysfunction, resulting in difficulty with tongue, facial and pharyngeal movement. Patients have difficulty with feeding, swallowing and speech. Speech can be limited, and patients may require communication aids. The jaw jerk is brisk and the gag reflex may be absent. Motor impairment in the limbs can be mild. Cognitive impairment may be mild to moderate.
+
+Aicardi syndrome
+
+A genetic syndrome, that manifests in females, and is presumably X-linked with:
+
+	Malformation of cortical development, most commonly polymicrogyria, and grey matter heterotopia, this may be unilateral or bilateral
+	Agenesis/dysgenesis of the corpus callosum
+	Choroid plexus cysts, with risk of papilloma
+	Retinal/eye abnormality - may have chorioretinal lacunae, microophthalmia, coloboma - if the malformation of cortical development is unilateral, the eye findings may be unilateral/ipsilateral
+	Skeletal abnormality - affecting the spine and ribs, that may result in scoliosis
+	Facial features that may include a short philtrum, a flat nose with upturned tip, large ears and sparse eyebrows
+
+Seizures
+Seizures of videos
+
+Focal seizures are usuallythe initial seizure type, with features referable to the location of the polymicrogyria. If these do not have motor features,they may be difficult to detect in infants.
+
+Evolution to bilateral convulsions can occur, these may have focal features if this information is carefully sought.
+
+Epileptic spasms are uncommon, these may have focal features that are referable to the location of the polymicrogyria.
+
+Status epilepticus, including focal status epilepticus, can occur.
+
+CAUTION patients with polymicrogyria, who have earlier age of seizure onset, may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seisure types, such as atypical absence, atonic and tonic seizures. Developmental and cognitive impairments are more common in this group. If these seizure types are seen, and if seizure control is not achieved with medication,epilepsy surgery may be considered if the region of heterotopia is localized.
+
+EEG
+Background
+
+The background EEG may be normal, or may show focal slowing or low voltage fast frequencies over the polymicrogyric cortex. In the presence of epileptic spasms or generalized seizures types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+Focal interictal spikes or polyspikes may be seen, at the location of the polymicrogyria.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+Focal, rhythmic epileptiform discharges may be seen, showing spatial correlation with the location of the polymicrogyria.. Polymicrogyria that is not accessible by scalp EEG may have poorly localized ictal change on EEG, with patterns that may include subtle attenuation, or only rhythmic slowing.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of polymicrogyria:
+
+MRI is the imaging of choice for assessing the detail and associated structural abnormalities. MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images. Thin sliced imaging is necessary to distinguish the microgryia in the thickened cortex, which may otherwise resemble the thickened cortex and poorly formed gyral pattern seen in lissencephaly or the thickened cortex with grey-white matter blurring of focal cortical dysplasia.
+
+Imaging characteristics of polymicrogyria:
+
+	apparent cortical thickening due to multiple small gyri (over-folding, 6 to 10 mm thickness) rather than true thickening
+	an irregular surface to the cortex due to multiple small gyri
+	a stippled appearance to the grey-white matter interface due to multiple small gyri
+	Sylvian fissue may show abnormal morphology, being extended and abnormally oriented posteriorly
+	underlying white matter may show high signal on T2 weighted images
+	occasionally, perhaps more so in patients with previous intrauterine infection, the abnormal cortex may show regions of calcification.
+	abnormality of the basal ganglia suggests a tubulin gene mutation
+	may be associated periventricular nodular heterotopia
+Imaging of polymicrogyria
+
+The image below is from a patient with Aicardi syndrome and shows a localized area of polymicrogyria in the right frontal lobe (arrow)
+
+polymicrogyria 1
+
+Imaging of polymicrogyria
+
+The image below shows unilateral (right) periventricular nodular heterotopia, with grey matter heterotopia lining the body of the right ventricle. There is polymicrogyria in the overlying cortex (arrow)
+
+polymicrogyria 2
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+There are numerous genetic causes of polymicrogyria, most occur sporadically A term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality . In familial cases, all patterns of inheritance have been reported, however X-linked is the commonest pattern of inheritance. Polymicrogyria may also be acquired as a consequence of injury to the developing brain (e.g. CMV infection, hypoxia-ischemia).
+
+KNOWN GENES
+
+Tubulin genes - PIK3R2 (associated with macrocephaly), WDR62 (associated with microcephaly)
+
+CHROMOSOMAL ABNORMALITIES
+
+1p36 deletion syndrome
+
+22q11.2 deletion syndromes (including DiGeorge syndrome)
+
+FAMILY HISTORY
+
+May be present (see above).
+
+Differential diagnoses
+
+	Subcortical nodular heterotopia
+	Focal cortical dysplasia
+	Lissencephaly - classical or cobblestone
+
+
+
+HEMIMEGALENCEPHALY
+Clinical Overview
+OVERVIEW
+
+Hemimegalencephaly is a malformation of cortical development, where there is an abnormally large and malformed cerebral hemisphere, with abnormal cortical formation, white matter volume and ventricular morphology. The other hemisphere is usually normal, but may be smaller in size. Hemimegalencephaly can co-occur with other structural abnormalities including enlargement of the ipsilateral cerebellar hemisphere and brainstem, polymicrogyria and grey matter heterotopia. It can occur in tuberous sclerosis, linear nevus sebaceous syndrome (50% have hemimegalencephaly), hypomelanosis of Ito, neurofibromatosis, Proteus syndrome and in Klippel-Trenaunay-Weber syndrome.
+
+Clinical context
+
+The clinical presentation of hemimegalencephaly is usually with early onset intractable focal seizures and hemiplegia. Seizure onset is typically in the first year of life, often in the neonatal period. Developmental, cognitive and motor impairments are frequent and significant in most cases.
+
+CAUTION developmental and cognitive outcome may be worse in children with uncontrolled seizures in early life, especially if epileptic spasms or generalized seizure types appear, therefore proactive seizure control is important, this may include epilepsy surgery, if seizures are not controlled with medication.
+
+Seizures
+Seizures and videos
+
+Focal seizures are usually the initial seizure type, with features referable to the hemimegalencephalic hemisphere. If these do not have motor features, they may be difficult to detect in infants.
+
+Evolution to bilateral convulsions can occur, these may have focal features if this information is carefully sought.
+
+Epileptic spasms are seen, these may have focal features that are referable to the hemimegacephalic hemisphere.
+
+Status epilepticus, including focal status epilepticus, can occur.
+
+CAUTION patients with hemimegalencephaly, may develop epileptic spasms or generalized seisure types, such as atypical absence, atonic and tonic seizures. Developmental and cognitive impairments are more common in this group. If these seizure types are seen, and if seizure control is not achieved with medication,epilepsy surgery may be considered if the region of heterotopia is localized.
+
+EEG
+Background
+
+The background EEG shows focal slowing over the abnormal hemisphere. In the presence of epileptic spasms or generalized seizure types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+Focal interictal spikes or polyspikes may be seen over the abnormal hemisphere.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may not now typical abnormality associated with epileptic spasms, this abnormality may only be present in sleep.
+
+Ictal
+
+Focal rhythmic epileptiform discharges are seen with focal seizures arising in the hemimegalencephalic hemisphere.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of hemimegalencephaly:
+
+Although hemimegalencephaly may be identified on USS (fetal and postnatal) and CT, MRI is the imaging of choice for assessing the detail and associated structural abnormalities. MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of hemimegalencephaly:
+
+	the cortex shows areas of thickening, with shallow sulci and enlarged/poorly formed gyri, it may also show areas of polymicrogyria, grey matter heterotopia or pachygyria
+	the grey-white matter junction is blurred
+	white matter volume is abnormal and demonstrates abnormal signal
+	the appearance of the ventricle is abnormal, particularly the posterior horn of the lateral ventricle, as the occipital lobe may be displaced across the midline
+	the cerebral enlargement may be maximal posteriorly, appearing as a posterior quadrantic dysplasia
+Imaging of hemimegalencephaly
+
+The image below shows an enlarged right hemisphere, with thickened cortex with shallow sulcation, blurring of the grey-white matter junction and abnormal signal in the white matter.
+
+hemimegalencephaly
+
+Imaging of hemimegalencephaly
+
+The image below shows an enlarged right hemisphere, with thickened cortex, blurring of the grey-white matter junction and abnormal signal in the white matter.
+
+hemimegalencephaly
+
+Imaging of hemimegalencephaly
+
+The image below shows an enlarged right hemisphere, with thickened cortex, blurring of the grey-white matter junction and abnormal signal in the white matter. The right basal ganglia is abnormal in structure and orientation. Ventricular size and morphology is abnormal, and the occipital lobe extends across the midline.
+
+hemimegalencephaly
+
+Imaging of hemimegalencephaly
+
+The image below shows an enlarged left hemisphere, with thickened cortex, blurring of the grey-white matter junction and abnormal signal in the white matter. The left basal ganglia is abnormal in structure and orientation. Ventricular size and morphology is abnormal, and the occipital lobe extends across the midline.
+
+hemimegalencephaly
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+SporadicA term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality  (acquired somatic gene abnormalityA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. An acquired somatic gene abnormality, is one that does not affect the individuals egg/sperm cells, and therefore cannot be passed on to his/her offspring. ).
+
+KNOWN GENES
+
+Hemimegalencephaly has been linked with acquired somatic gene abnormalitiesA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. An acquired somatic gene abnormality, is one that does not affect the individuals egg/sperm cells, and therefore cannot be passed on to his/her offspring. in genes involved in the PI3K/AKT/mTOR pathway, including PIK3CA, AKT3, TSC1, TSC2. These gene abnormalities have been found directly in a small percentage of brain cells from the abnormal hemisphere.
+
+FAMILY HISTORY
+
+May be present (see above).
+
+Differential diagnoses
+
+None, due to the distinctive imaging appearance.
+
+
+
+SCHIZENCEPHALY
+Clinical Overview
+OVERVIEW
+
+Schizencephaly is an uncommon malformation of cortical development that results in a cleft, lined by polymicrogyria, that extends from the ependyma of the ventricles to the pia mater. The majority of clefts are posterior frontal or parietal, but temporal or occipital location can occur. Hypoplasia of the optic nerves and midline brain abnormality (agenesis of the septum pellucidum) may also be present ('septo-optic dysplasia plus').
+
+Causes
+
+	Gene abnormalities e.g. COL4A1
+	Intrauterine cerebral injury, after approximately 20 weeks gestation, e.g. infection such as CMV, or hypoxia-ischemia
+Clinical Context
+
+The clinical presentation of schizencephaly depends on whether the malformation is unilateral or bilateral, and open- or closed-lipped. Developmental, cognitive and motor impairments are common, and more significant in those with bilateral schizencephaly. In unilateral schizencephaly, the impairment may be limited to a hemiparesis or the individual may only have epilepsy. Seizure onset is usually in the first two years of life, with earlier age of seizure onset seen in those with bilateral/open-lipped clefts. Hydrocephalus can occur, and is more frequently seen in open-lipped clefts.
+
+CAUTION developmental and cognitive outcome may be worse in children with uncontrolled seizures in early life, especially if epileptic spasms or generalized seizure types appear, therefore proactive seizure control is important, this may include epilepsy surgery, if seizures are not controlled with medication.
+
+Seizures
+Seizures and videos
+
+Focal seizures are usually the initial seizure type, with features referable to the location of the cleft. If thesedo not have motor features, they may be difficult to detect in infants.
+
+Evolution to bilateral convulsions can occur, and may be the presenting seizure type, these may have focal features that are referable to the location of the cleft.
+
+Status epilepticus, including focal status epilepticus, can occur.
+
+CAUTION patients with schizencephaly, who have earlier age of seizure onset, may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seisure types, such as atypical absence, atonic and tonic seizures. Developmental and cognitive impairments are more common in this group. If these seizure types are seen, and if seizure control is not achieved with medication,epilepsy surgery may be considered if the region of heterotopia is localized.
+
+EEG
+Background
+
+The background EEG may be normal, or may show focal slowing over the cleft. In the presence of epileptic spasms or generalized seizure types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+Focal interictal spikes, polyspikes or sharp waves may be seen, at the location of the cleft.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+Focal, rhythmic epileptiform discharges are seen, showing spatial correlation with the cleft.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of schizencephaly:
+
+While schizencephaly may be detected on USS (fetal and postnatal) and CT, especially open-lipped schizencephaly, MRI is the imaging of choice for assessing the detail and associated structural abnormalities. MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of open-lip schizencephaly:
+
+	a cleft is seen extending from the ventricle to the cortical surface, lined by polymicrogyria
+	the cleft results in CSF communication between the subarachnoid space and the lateral ventricle; the "pia ependymal seam"
+	the cleft walls are separated by CSF filled space
+	the open-lip form is common in bilateral schizencephaly
+
+Imaging of a schizencephalic cleft
+
+The image below shows a right sided open-lipped schizencephalic cleft. The walls of the cleft are lined by grey matter and are separated by CSF filled space.
+
+schizencephaly 1
+
+Imaging characteristics of closed-lip schizencephaly:
+
+	a cleft is seen extending from the ventricle to the cortical surface, composed of heterotopic grey matter
+	a 'dimple' in the ventricle is seen, at the point where the cleft commences
+	the cleft walls are in apposition, without CSF filled space separating them
+	the closed-lip form is common in unilateral schizencephaly
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+	Sporadic A term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality  - schizencephaly may be due to acquired injuries to the developing brain (infection, hypoxia-ischemia) or due to acquired gene abnormalities A gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found..
+	Familial inheritance - autosomal dominant inheritance is recognized for COL41A mutations
+
+KNOWN GENES
+
+COL41A (can cause porencephaly or schizencephaly)
+
+FAMILY HISTORY
+
+Rare familial cases have been described (see above).
+
+Differential diagnoses
+
+	Porencephaly - distinguished by the absence of grey matter lining the schizencephalic cleft.
+	Subcortical nodular heterotopia - is associated with a bulge, rather than a 'dimple' in the ventricle wall
+	Focal cortical dysplasia - while in FCD type IIb, white matter signal abnormality may be seen to taper to the ventricle, abnormal grey matter does not extend through the white matter to the ventricle.
+
+
+
+HYPOTHALAMIC HAMARTOMA
+Clinical Overview
+OVERVIEW
+
+Hypothalamic hamartomas are rare malformations of fetal brain development, affecting development of the hypothalamus, and are placed within the spectrum of grey matter heterotopia. Pathologically, lesions show mature neuronal and glial cells and some myelinated fibres.
+
+Clinical context
+
+Hypothalamic hamartomas are associated with different clinical presentations, depending upon the site of attachment of the hamartoma.  Hamartomas that are attached posteriorly in the region of the mammillary bodies cause seizures.  Hamartomas attached anteriorly in the region of the tuber cinereum cause central precocious puberty.  Larger lesions with anterior and posterior attachment cause both seizures and central precocious puberty.  Hypothalamic hamartoma occurs in both sexes, with a male predominance (1.3M:F). Seizure onset is typically under the age of 1 year, typically with gelastic seizures present from birth, but often recognized in retrospect after emergence of other seizure types. Developmental and learning impairments (of variable severity) and psychiatric disorders are seen in 80%.
+
+CAUTION developmental and cognitive outcome may be worse in children with uncontrolled seizures in early life, especially if epileptic spasms or generalized seizure types appear, therefore proactive seizure control is important, this may include epilepsy surgery, if seizures are not controlled with medication.
+
+Causes
+
+	Sporadic (95%)
+	Pallister-Hall syndrome (5%)
+
+PALLISTER HALL SYNDROME
+
+This syndrome includes polydactyly, a bifid epiglottis, dysplastic nails, imperforate anus, kidney abnormalities and hypothalamic hamartoma. It is associated with a mutation in GLI3 (on chromosome 7p13).
+
+Seizures
+Seizures and videos
+
+Focal seizures, with gelastic features are usually the initial seizure type, occuring in >95% of individuals. Seizures are typically brief (5-20 seconds), frequent (multiple daily, even multiple per hour), and can be subtle. These are often not recognizedas seizures in infants and young children, until after emergence of other seizure types.
+
+Focal seizures with dyscognitive features are also common (seen in 50-60% of individuals), with the dyscognitive features often preceded by gelastic features.
+
+Status epilepticus, including focal status epilepticus, can occur.
+
+CAUTION patients with hypothalamic hamartoma may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seisure types, such as atypical absence, atonic and tonic seizures. Developmental and cognitive impairments are more common in this group. 
+
+EEG
+
+Background
+
+The background EEG may be normal, and is often so initially. Focal slowing may also be seen (temporal > frontal > occipital areas). In the presence of epileptic spasms or generalized seizure types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+The interictal EEG is usually normal. Focal interictal spikes can be seen (in temporal > frontal > occipital areas).
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+Hypothalamic hamartomas are not accessible by scalp EEG, and ictal EEG may be normal or may show only subtle attenuation or rhythmic slowing.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of hypothalamic hamartoma:
+
+Coronal T2 fast-spin echo sequences with thin slices and no inter-slice gap through the hypothalamus, to visualize the hypothalamic hamartoma and its attachment.
+
+Imaging characteristics of hypothalamic hamartoma:
+
+	a mass, of grey matter signal intensity, in the region of the hypothalamus
+	may be 'sessile', attached to the mammillary region, and if large may distort or incorporate the mammillary bodies, with the columns of the fornix displaced antero-laterally and with variable extension below the third ventricle
+	may be 'pedunculated', attached to the tuber cinereum, projecting into the suprasellar cistern
+
+Imaging of a hypothalamic hamartoma
+
+The images below show a hypothalamic hamartoma, seen on axial and coronal T2-weighted imaging, evident as a mass with signal that is slightly brighter than that of the cortex, attached to the mamillary bodies, and displacing the columns of the fornix laterally.
+
+hypothalamic hamartoma 1
+
+hypothalamic hamartoma 2
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+	95% sporadicA term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality (acquired gene abnormalityA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. )
+	5% familial inheritance - autosomal dominant (Pallister-Hall syndrome)
+KNOWN GENES
+
+GLI3 gene abnormality is responsible for Pallister-Hall syndrome; and GLI3 mutations are found in approximately 20% of sporadic hypothalamic hamartoma cases.
+
+FAMILY HISTORY
+
+May be present (see above).
+
+Differential diagnoses
+
+None, due to distinctive imaging appearance.
+
+
+
+
+
+VASCULAR MALFORMATIONS
+OVERVIEW
+
+Cerebral vascular malformations are a heterogeneous group of disorders that may be associated with epilepsy. The important vascular malformations that are seen in patients with epilepsy are presented in this section of EpilepsyDiagnosis.org:
+
+	Cerebral angioma,
+	Sturge weber syndrome, and
+	Arteriovenous malformation
+
+Seizures may occur due to local structural distortion of cortex, hypoxia-ischemia, hemosiderin deposition from recurrent microhemorrhage or gliosis.
+
+
+
+CEREBRAL ANGIOMA
+Clinical Overview
+OVERVIEW
+
+Cerebral angiomas are vascular abnormalities comprised of clusters of abnormally dilated blood vessels.  They can be singular or multiple, and are found in the brain, spinal cord, and rarely, in other areas of the body including the skin and retina.
+
+They are also known as:
+
+cavernous angioma
+cavernous hemangioma
+cavernous venous malformation
+Up to 40% of solitary cerebral angiomas co-occur with another vascular abnormality, known as a developmental venous anomaly. Cerebral angiomas can continue to form with age, therefore the incidence and number per person increases with age.
+
+Clinical context
+
+The clinical presentation of cerebral angiomas depends on the size, location and effect of the angioma, but is typically the result of hemorrhage, or microhemorrhage in the vicinity of the angioma. This results in presentation with seizures, headache, and/or neurological and cognitive impairment. Presentation is typically in the 20-40 year age group. The risk of hemorrhage is 1% per year for familial cases, and less for sporadic cases.
+
+Seizures
+Seizures and videos
+
+Focal seizures are usually the initial seizure type, with features referable to the location of the cerebral angioma(s).
+
+Evolution to bilateral convulsions can occur, these may have focal features if this information is carefully sought.
+
+EEG
+Background
+
+The background EEG may be normal, or may show focal slowing or attenuation over the region of the cerebral angioma(s).
+
+Interictal
+
+Focal interictal spikes or sharp waves may be seen, at the location of the cerebral angioma(s).
+
+Activation
+
+EEG abnormality may be enhanced by sleep deprivation and in sleep.
+
+CAUTION hyperventilation causes cerebral vasoconstriction, which may, in certain circumstances, impair critical cerebral perfusion and cause neurological symptoms. Hyperventilation is best avoided in the presence of intracranial vascular malformations.
+
+Ictal
+
+Focal rhythmic epileptiform discharges occur during focal seizures, with spatial correlation with the cerebral angioma(s).
+
+Imaging
+Imaging
+
+Imaging for optimized detection of cerebral angioma:
+
+Gradient echo (GRE) or T2* sequences are able to delineate these lesions better than T1 or T2 weighted images, and GRE/T2* images are very important in detecting angiomas, that may be missed by conventional spin echo sequences. Susceptibility weighted imaging (SWI) may have sensitivity equal to that of GRE in detecting angiomas. SWI is also highly sensitive in detecting calcification as compared to T1 and T2 images. Unless large, or associated with hemorrhage, these abnormalities are not seen on CT. Cerebral angiomas are not seen on angiography, as they are 'slow flow' abnormalities.
+
+Imaging characteristics of cerebral angioma:
+
+	a mass with a characteristic "popcorn"" or "berry" appearance, with a rim of hemosiderin, which demonstrates prominent blooming on susceptibility weighted sequences
+	T1 and T2 signal is varied internally due to degrading hemorrhage of varying age
+
+Imaging of cerebral angiomas
+
+The image below, a T2* image, shows two punctate hypointense foci ('black dots') in the left occipital region (arrows), with others in the frontal lobes.
+
+cerebral angioma 1
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+	80% - sporadic A term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality
+	20% - familial inheritance, with autosomal dominant inheritance (multiple angiomas are more common in familial cases).
+KNOWN GENES
+
+CCM1, CCM2 and CCM3.
+
+FAMILY HISTORY
+
+May be present (see above).
+
+Differential diagnoses
+
+Developmental venous anomaly
+
+
+
+STURGE WEBER SYNDROME
+Clinical Overview
+OVERVIEW
+
+Sturge Weber syndrome is characterized by angiomas of the face, eye and leptomeninges. It is caused by an acquired somatic gene abnormality A gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. An acquired somatic gene abnormality, is one that does not affect the individuals egg/sperm cells, and therefore cannot be passed on to his/her offspring. resulting in a gain of function in the GNAQ gene, in progenitor vascular cells.
+
+Clinical context
+
+Sturge-Weber syndrome:
+
+	a facial port-wine stain, present at birth, in the distribution of the ophthalmic branch of the trigeminal nerve (this may be absent in 15% of Sturge Weber syndrome patients);
+	leptomeningeal angioma ipsilateral to the side of the port-wine stain, over occipital and posterior parietal regions predominantly, causing ischemia, atrophy and calcification in the affected cortex (resulting in seizures and risk of progressive contralateral hemiparesis and homonymous hemianopia); and
+	ocular (choroidal, scleral) angioma (in 30% of patients), causing glaucoma, iris heterochromia, or buphthalmos.
+
+Seizures are seen in 75-90% of patients, usually commencing under 12 months of age. Patients with Sturge Weber syndrome are at risk of stroke, due to impaired venous drainage caused by leptomeningeal angiomas. Risk of stroke is increased by prolonged seizures or status epilepticus. Communicating hydrocephalus may occur from increased venous pressure. Headache is common. Bilateral or lower facial port wine stain can occur, seen in 15% of patients.
+
+CAUTION developmental and cognitive outcome is worse in children with uncontrolled seizures in early life, especially if epileptic spasms or generalized seizure types appear, therefore proactive seizure control is important, this may include epilepsy surgery, if seizures are not controlled with medication.
+
+Seizures
+Seizures and videos
+
+Focal seizures are usually the commonest seizure type, with features referable to the location of the leptomeningealangioma. If these do not have motor features, they may be difficult to detect in infants.
+
+Evolution to bilateral convulsions can occur, these may have focal featuresif this information is carefully sought.
+
+Epileptic spasms may be seen, these may have focal features that are referable to the location of the leptomeningeal angioma.
+
+Status epilepticus, including focal status epilepticus, is seen, and is associated with increased risk of stroke.
+
+CAUTION patients with Sturge Weber syndrome, who have earlier age of seizure onset, may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seisure types, such as atypical absence, atonic and tonic seizures. Developmental and cognitive impairments are more common in this group. If these seizure types are seen, achieving full seizure control isimportant, if this is not achieved with medication, epilepsy surgery should be considered.
+
+EEG
+Background
+
+The background EEG may be normal, or may show focal slowing or attenuation over the region of the leptomeningeal angioma. In the presence of epileptic spasms or generalized seizure types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+Focal interictal spikes or sharp waves may be seen, over the location of the leptomeningeal angioma.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+CAUTION hyperventilation causes cerebral vasoconstriction, which may, in certain circumstances, impair critical cerebral perfusion and cause neurological symptoms. Hyperventilation is best avoided in the presence of intracranial vascular malformations.
+
+Ictal
+
+Focal rhythmic epileptiform discharges occur during focal seizures, with spatial correlation with the leptomeningeal angioma.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of Sturge Weber syndrome:
+
+While Sturge Weber syndrome may be detected on skull Xray and CT, especially when there is established calcification and atrophy, MRI is the imaging of choice for assessing detail. MRI should include thin slice volumetric T1-weighted images with contrast, and axial and coronal T2-weighted and FLAIR images. In addition, orbital involvement can be assessed with orbital MRI.
+
+Imaging characteristics of Sturge Weber syndrome:
+
+	On CT imaging, gyral subcortical calcification is seen, with a "tram-track" appearance, unilateral cerebral atrophy can also be appreciated.
+	On MR imaging, T1-weighted imaging with contrast show leptomeningeal enhancement, this may not be seen in older patients. Other findings include cerebral atrophy, white matter signal abnormality, and an enlarged unilateral choroid plexus.
+	Angiography is not routinely performed, but is abnormal in most cases, showing absent superficial cortical veins, with dilated and tortuous deep veins.
+
+CAUTION imaging findings may be absent in infants, as calcification and atrophy may be absent at this age.
+
+Imaging of Sturge Weber syndrome
+
+The two CT images below show subcortical calcification in the left occipital lobe (arrows).
+
+Sturge Weber 1
+
+Sturge Weber 2
+
+Imaging of Sturge Weber syndrome
+
+The image below is a T2 weighted image, showing atrophy of the right hemisphere, enlargement of the choroid plexus (arrow 1), a thickened overlying skull and subcortical calcification (hypointense / dark signal in the subcortical region - arrow 2).
+
+Sturge Weber 3
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+	Sporadic A term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality (acquired somatic gene abnormality A gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. An acquired somatic gene abnormality, is one that does not affect the individuals egg/sperm cells, and therefore cannot be passed on to his/her offspring. )
+
+KNOWN GENES
+
+	GNAQ (somatic gene abnormality in progenitor vascular cells).
+	Non syndromic facial port wine stains have also been demonstrated to be caused by a somatic gene abnormality in this gene, the mutation is likely to occur at a later stage in development.
+
+FAMILY HISTORY
+
+Not applicable (acquired somatic gene abnormality A gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. An acquired somatic gene abnormality, is one that does not affect the individuals egg/sperm cells, and therefore cannot be passed on to his/her offspring. )
+
+Differential diagnoses
+
+Klippel-Trenaunay-Weber Syndrome
+
+
+
+ARTERIOVENOUS MALFORMATION
+Clinical Overview
+OVERVIEW
+
+Arteriovenous malformations are abnormal blood vessels that shunt blood directly from the arterial to the venous circulation. There is a risk of intracranial hemorrhage, estimated at 2-4% per year, which can be limited or catastrophic. Management is therefore directed at reducing mortality and morbidity (neurological and cognitive impairment) from hemorrhage.
+
+Clinical context
+
+Patients with arteriovenous malformation may present with hemorrhage, seizures, headache and/or progressive neurological / cognitive impairments. In infants, head size may be large, scalp veins may be prominent and there may be co-existing high output cardiac failure.
+
+Seizures
+Seizures and videos
+
+Focal seizures are usually the initial seizuretype, with features referable to the location of the arteriovenous malformation. If these donot have motor features, they may be difficult to detect in infants.
+
+Evolution is bilateral convulsions can occur, these may have focal features if this information is carefully sought.
+
+EEG
+Background
+
+The background EEG may be normal, or may show focal slowing or attenuation over the region of the arteriovenous malformation.
+
+Interictal
+
+Focal interictal spikes or sharp waves may be seen, at the location of the arteriovenous malformation.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep.
+
+CAUTION hyperventilation causes cerebral vasoconstriction, which may, in certain circumstances, impair critical cerebral perfusion and cause neurological symptoms. Hyperventilation is best avoided in the presence of intracranial vascular malformations.
+
+Ictal
+
+Focal rhythmic epileptiform discharges occur during focal seizures, with spatial correlation with the arteriovenous malformation.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of arteriovenous malformation:
+
+While arteriovenous malformations may be detected on CT with contrast, and on MRI, angiography is the 'gold standard' imaging.
+
+Imaging characteristics of arteriovenous malformation:
+
+	CT with contrast shows the 'bag of worms' - tangled vessels composed of feeding arteries, nidus and draining veins.
+	MRI shows low T2-signal intensity flow voids in fast flowing vessels, and may demonstrate areas of previous hemorrhage and related edema.
+	Formal cerebral angiography allows optimal visualization of feeding arteries, nidus and enlarged draining veins.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Sporadic A term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality , very rare familial cases are reported.
+
+KNOWN GENES
+
+None know yet.
+
+FAMILY HISTORY
+
+Very rare familial cases are reported.
+
+Differential diagnoses
+
+None, due to distinctive imaging appearance.
+
+
+
+
+
+HIPPOCAMPAL SCLEROSIS
+Clinical Overview
+OVERVIEW
+
+Hippocampal sclerosis is characterized pathologically by loss of pyramidal neurons, granule cell dispersion and gliosis in the hippocampus. It can be associated with changes in nearby structures, known as mesial temporal sclerosis. It a common cause of temporal lobe seizures that do not respond to medication. It is an acquired structural abnormality, and is known to occur as a consequence of seizures, especially prolonged febrile seizures. It can co-occur with other structural brain abnormalities, including malformations of cortical development and vascular malformations (e.g. Sturge Weber syndrome), known as 'dual pathology'.
+
+Clinical context
+
+The clinical presentation of hippocampal sclerosis is with seizures with mesial temporal features, and there may be cognitive deficits that relate to the hippocampus affected (verbal memory impairment in dominant hippocampal sclerosis, visual memory impairment in non dominant hippocampal sclerosis). Presentation may relate to the associated structural or genetic co-occurring condition, if present. For example, around 25% of patients with hippocampal sclerosis may have a history of febrile seizures, especially prolonged febrile seizures. In these individuals, the self-limited syndrome of febrile seizures is followed by a latent period, and then seizures with mesial temporal features appear.
+
+Seizures
+Seizures and videos
+
+Focal seizures with mesial temporal features are seen. These retypically resistant to medication.
+
+Evolution to bilateral convulsions can occur, these will have focal features referable to the mesial temporal region before evolution, if this information is carefully sought.
+
+EEG
+Background
+
+The background EEG is usually normal, although minor background slowing may occur. One third of patients have temporal intermittent rhythmic delta activity (TIRDA), seen on the side of the hippocampal sclerosis.
+
+Interictal
+
+The interictal EEG may be normal or may show focal sharp waves, spikes or spike-and-wave, maximally over the anterior temporal electrodes on the side of the hippocampal sclerosis. The EEG may also show bitemporal abnormality.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Focal slowing of the background may be accentuated during hyperventilation.
+
+Ictal
+
+Ictal onset in the hippocampus is typically associated with clinical seizure onset before scalp EEG change appears. This EEG change, when it occurs, may be preceded by diffuse or lateralized suppression. The ictal pattern is typically a gradual build up of rhythmic alpha or theta activity, with or without superimposed spikes or sharp waves, maximal in anterior temporal electrodes on the side of the hippocampal sclerosis. Post-ictal slow activity is seen in the same electrodes.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of hippocampal sclerosis:
+
+Thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of hippocampal sclerosis:
+
+	hippocampal atrophy
+	hippocampal signal change (high T2 and FLAIR signal)
+	changes may be seen in nearby structures, known as mesial temporal sclerosis
+	up to one third of patients have dual pathology (hippocampal sclerosis co-existing with other structural brain abnormalities), these should be carefully sought
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Hippocampal sclerosis is an acquired abnormality.
+
+KNOWN GENES
+
+Not applicable in most cases - hippocampal sclerosis is an acquired abnormality. However, febrile seizures, especially if prolonged, can cause hippocampal sclerosis. Genetic epilepsies that are associated with febrile seizures (such as Dravet syndrome, Febrile Seizures Plus) can therefore predispose an individual to the development of hippocampal sclerosis.
+
+FAMILY HISTORY
+
+This may be present if there is a genetic co-occurring condition associated with prior febrile seizures (see above).
+
+Differential diagnoses
+
+	Autoantibody mediated limbic encephalitis - prominent high signal may be seen on T2 and FLAIR images in the hippocampus, atrophy may develop over time
+	Malformation of the hippocampus
+
+
+
+
+
+HYPOXIC-ISCHEMIC
+OVERVIEW
+
+Hypoxic-ischemic structural brain abnormalities include loss of cerebral volume and scarring ('gliosis'). Acute seizures typically occur, maximal in the first 24 hours of the hypoxic-ischemic event. If epilepsy occurs following hypoxic-ischemic brain injury, there is typically a latent period after the hypoxic-ischemic event, followed by emergence of seizures.
+
+Important hypoxic-ischemic associated structural brain abnormalities associated with epilepsy are presented in this section of EpilepsyDiagnosis.org:
+
+	stroke (cerebrovascular accident),
+	hypoxic-ischemic brain injury
+
+
+
+STROKE
+Clinical Overview
+OVERVIEW
+
+Stroke includes two main types, hemorrhagic and ischemic. Both types of stroke can cause acute seizures at the time of the acute event, as well as epilepsy as a long-term complication. In the elderly, cerebrovascular disease and stroke are the most common cause of acute seizures and epilepsy.
+
+Clinical context
+
+The clinical presentation of stroke depends on the extent and location of the haemorrhage and/or ischemia, age, and underlying cause. Acute seizures typically occur, and are maximal in, the first 24 hours of the stroke. Acute management centers both on management of seizures, and also management of the stroke. If epilepsy occurs as a post-stroke complication, there is typically a latent period, and then re-emergence of seizures 6-12 months following the stroke. Cognitive and neurological impairments may occur as a consequence of the stroke.
+
+Congenital stroke
+
+Stroke may occur prenatally or perinatally, with middle cerebral artery distribution stroke being common due to the nature of stroke etiologies in this age group. Infants may present with hemiplegia, which may only be diagnosed as development progresses and asymmetric motor function is recognized, such as early hand preference. Seizures may be the presenting symptom, and may have onset in the neonatal period or later. Because of the middle cerebral artery territory involvement, seizures with focal features that relate to sensori-motor cortex occur. Epileptic spasms occur in around one third of patients, generally responding to medication.
+
+CAUTION developmental and cognitive outcome may be worse in children with uncontrolled seizures in early life, especially if epileptic spasms or generalized seizure types appear, therefore proactive seizure control is important, this may include epilepsy surgery if seizures are not controlled with medication.
+
+Seizures
+Seizures and videos
+
+Focal seizures areusually the initial seizure type, with features referable to the location of the stroke.
+
+Evolution to bilateral convulsions can occur, these may have focal features if this information is carefully sought.
+
+Status epilepticus, including focal status epilepticus,can occur.
+
+CAUTION patients with stroke is early life, who have earlier age of seizure onset, may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seizure types, such as atypical absence, atonic and tonic seizures. Developmental and cognitive impairments are more common inthis group. If these seizure types are seen, achieving full seizure control is important, if this is not achieved with medication, epilepsy surgery should be considered.
+
+CAUTION seizures in neonates and young infants with stroke may be subtle clinically, and may require EEG surveillance for detection or confirmation.
+
+EEG
+Background
+
+The background EEG may be normal or show focal slowing over the location of the stroke. In the presence of epileptic spasms or generalized seizure types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+The interictal EEG may be normal or may show focal interictal spikes or spike-and-wave over the location of the stroke.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in young patients who evolve to have generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Focal slowing of the background may be accentuated during hyperventilation in underlying cerebrovascular disease.
+
+CAUTION hyperventilation causes cerebral vasoconstriction, which may, in certain circumstances, impair critical cerebral perfusion and cause neurological symptoms. Hyperventilation is best avoided in the presence of intracranial vascular malformations or impaired cerebral perfusion.
+
+Ictal
+
+The presence of focal, rhythmic epileptiform discharges is the most characteristic feature of the scalp EEG in patients with focal seizures, showing spatial correlation with the location of the stroke.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of stroke:
+
+Non contrast CT is helpful for the initial rapid diagnosis of hemorrhagic stroke, and CT angiography can demonstrate causes such as dissection. MRI is the imaging of choice for assessing the detail of ischemic stroke acutely, and the long-term structural sequelae in patients who have post-stroke epilepsy. MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images. In acute stroke, diffusion-weighted imaging and ADC maps may be required to show areas of ischemia in the first hours after stroke. MRA is also important to assess for stroke etiology (which may include dissection of large vessels, arteriopathy or embolic occlusion). MR imaging with susceptibility weighted imaging (SWI) or T2* imaging is helpful for detection of hemorrhage.
+
+Imaging characteristics of acute stroke:
+
+	diffusion restriction, resulting in high signal on DWI and low signal on ADC maps, within minutes from the onset of ischemia
+	high signal on T2/FLAIR imaging in the affected area within 6-12 hours
+	sulcal effacement and mass effect in the affected area in the first 24-48 hours
+	cortical laminar necrosis appearing as a ribbon of high signal on T1 weighted images, after 2 weeks
+
+Imaging characteristics of chronic stroke:
+
+	atrophy, gliosis, porencephaly/encephalomalacia and ex vacuo dilation of the ipsilateral ventricle in the location of the previous acute stroke.
+
+Imaging of chronic stroke
+
+The two images below show the sequelae of a previous middle cerebral artery territory infarction, in a 4 month old infant (congenital stroke), who presented with epileptic spasms. There is a porencephalic cyst in the territory of the right middle cerebral artery with atrophy and gliosis in the cortex at the margins of the cyst.
+
+stroke 1
+
+stroke 2
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Epilepsy in stroke is acquired due to the consequences of hypoxia-ischemia in regions that relate to vascular territory anatomy. The genetics of stroke is outside the scope of EpilepsyDiagnosis.Org.
+
+KNOWN GENES
+
+Not applicable (acquired)
+
+FAMILY HISTORY
+
+Not applicable (acquired)
+
+Differential diagnoses
+
+Stroke due to metabolic etiologies
+
+Hemiplegic migraine
+
+
+
+HYPOXIC-ISCHEMIC INJURY
+Clinical Overview
+OVERVIEW
+
+Hypoxic-ischemic brain injury can occur due to many causes and at any age in life. It can cause acute seizures at the time of the injury, as well as epilepsy as a longer-term complication.
+
+Clinical context
+
+The clinical presentation of hypoxic-ischemic injury depends on the extent of hypoxia-ischemia, location of the injury within the brain, age, the underlying cause, and associated factors such as raised intracranial pressure from cerebral oedema. Acute seizures typically occur, and are maximal, in the first 24 hours after the injury. Acute management centers both on management of seizures, and also management of the hypoxic-ischemic injury. If epilepsy occurs as a post-injury complication, there is typically a latent period, and then re-emergence of seizures months later. Cognitive and neurological impairments may occur as a consequence of the hypoxic-ischemic injury.
+
+Periventricular leukomalacia
+
+Hypoxic-ischemic brain injury may occur prenatally, with injury to posterior periventricular regions being common due to vascular watershed territory distribution in the fetal brain. Infants may present with spastic diplegia, which may only be diagnosed as development progresses and impaired motor function is recognized. Focal seizures with dyscognitive features are seen in these patients, relating to the area of brain injury in posterior occipito-parietal regions. Epilepsy associated with periventricular leukomalacia is not common, but seizures can be frequent and medically refractory in patients who have greater motor disability.
+
+Seizures
+Seizures and videos
+
+Focal seizures may be seen, with features referable to the location of the injury within the brain, either acutely or long-term.
+
+Evolution to bilateral convulsions can occur, these may have focal features referable to the location of brain injury if this information is carefully sought.
+
+Status epilepticus, including focal status epilepticus, can occur, especially at the time of the acute injury.
+
+In young patients with hypoxic-ischemic brain injury in early life,or pre-natally, seizure evolution may incude the emergence of epileptic spasms or generalized seizure types, such as atypical absence, atonic and tonic seizures. This evolution may be associated with cognitive and neurodevelopmental regression. If these seizure types are seen, and if seizure control is not achieved with medication, epilepsy surgery may be considered if the region of hypoxic-ischemic injury causing seizures is localized.
+
+CAUTION seizures in neonates and young infants with hypoxic-ischemic brain injury may be subtle clinically, and may require EEG surveillance for detection of confirmation.
+
+EEG
+Background
+
+Findings depend on the severity of the hypoxic-ischemic injury, but typically the background EEG shows widespread slowing with alteration in EEG amplitude during the acute injury. Later, the background may be normal, or show focal or widespread slowing.
+
+Interictal
+
+The interictal EEG may be normal or may show focal or multi-focal interictal spikes or spike-and-wave over the location(s) of the brain injury.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in young patients who evolve to have generalized seizures types.
+
+Hypsarrhythmia can be seen in young patients who evolve to have epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms following hypoxic-ischemic injury, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+In the presence of focal seizures, focal rhythmic epileptiform discharges are seen, showing spatial correlation with the area of brain injury from which focal seizures arise.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of hypoxic-ischemic brain injury:
+
+CT may show changes in hypoxic-ischemic brain injury, however MRI is the imaging of choice for assessing the detail of the acute hypoxic-ischemic changes, and the long-term structural sequelae in patients who have subsequent epilepsy. MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images. In acute hypoxia-ischemia, diffusion-weighted imaging and ADC maps may be required to show areas of ischemia in the first hours after the injury.
+
+Imaging characteristics of acute hypoxic-ischemic injury:
+
+	diffusion restriction, resulting in high signal on DWI and low signal on ADC maps, within minutes from the onset of hypoxia-ischemia
+	high signal on T2/FLAIR imaging in the affected area within 6-12 hours
+	sulcal effacement and mass effect in the affected area in the first 24-48 hours
+	cortical laminar necrosis appearing as a ribbon of high signal on T1 weighted images, after 2 weeks
+	distribution of changes depend on the contributions of hypoxia and/or ischemia (perfusion) to the injury, and on age (watershed territory distribution differs in the immature brain compared to the mature adult brain)
+Imaging characteristics of chronic hypoxic-ischemic injury:
+
+atrophy, gliosis, porencephaly/encephalomalacia and ex vacuo dilation of the ipsilateral ventricle in the location of the previous acute hypoxic-ischemic injury.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Not applicable (acquired)
+
+KNOWN GENES
+
+Not applicable (acquired)
+
+FAMILY HISTORY
+
+Not applicable (acquired)
+
+Differential diagnoses
+
+Acute brain injury due to metabolic etiologies
+
+Hemiplegic migraine
+
+
+
+
+TRAUMATIC BRAIN INJURY
+Clinical Overview
+OVERVIEW
+
+Traumatic brain injury can cause acute seizures at the time of the injury, as well as epilepsy as a longer-term complication. It is one of the most common causes of epilepsy due to acquired brain injury, especially in early adulthood. There is a relationship between the severity of injury and the likelihood of developing epilepsy - the more severe the injury, the higher the incidence of epilepsy developing.
+
+Clinical context
+
+The clinical presentation of traumatic brain injury depends on the extent and location of the traumatic brain injury, age, and associated factor such as raised intracranial pressure from cerebral oedema. Acute seizures can occur in the first 24 hours of the injury, or within the first week. Acute management centers both on management of seizures, but also management of the traumatic brain injury. If epilepsy occurs as a long-term consequence, there is typically a latent period, and then re-emergence of seizures months or sometimes years after the injury. Cognitive and neurological impairments may co-occur as a consequence of the injury.
+
+Seizures
+Seizures and videos
+
+Focal seizures may be seen, with features referable to the location of the injury within the brain, either acutely or long-term.
+
+Evolution to bilateral convulsions can occur, these may have focal features referableto the location of brain injury if this information is carefully sought.
+
+Status epilepticus, including focal status epilepticus,can occur, especially at the time of the acute injury.
+
+In young patients with traumatic brain injury in early life, seizures evolution may include emergence of epileptic spasms or generalized seisure types, such as atypical absence, atonic and tonic seizures. This evolution may be associated with cognitive and neurodevelopmental regression. If these seizure types areseen, and if seizure control is not achieved with medication, epilepsy surgery may be considered if the region of traumatic brain injury causing seizures is localized.
+
+CAUTION seizures in neonates and young infants with traumatic brain injury may be subtle clinically, and may require EEG surveillance for detection or confirmation.
+
+EEG
+Background
+
+Findings depend on the severity of the traumatic injury, but typically the background EEG shows widespread or focal slowing with alteration in EEG amplitude during the acute injury. Later, the background may be normal, or show focal or widespread slowing.
+
+Interictal
+
+The interictal EEG may be normal or may show focal or multi-focal interictal spikes or spike-and-wave over the location(s) of the traumatic brain injury.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in young patients who evolve to have generalized seizures types.
+
+Hypsarrhythmia can be seen in young patients who evolve to have epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep, in traumatic injury epilepsy. Obtaining a sleep EEG is important in infants at risk of epileptic spasms following traumatic brain injury, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+In the presence of focal seizures, focal rhythmic epileptiform discharges are seen, showing spatial correlation with the area of brain injury from which focal seizures arise.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of traumatic brain injury:
+
+At the time of acute injury, CT is very helpful for the detection of skull fracture, sub-arachnoid and intra-parenchymal blood. MRI is the imaging of choice for assessing the detail of the acute traumatic brain injury, and the long-term structural sequelae in patients who have subsequent epilepsy. MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images. In acute traumatic brain injury, diffusion-weighted imaging and ADC maps may be required to show areas of ischemia in the first hours after the injury. MRA may be useful to assess for traumatic vessel injury, such as dissection. MR imaging with susceptibility weighted imaging (SWI) or T2* imaging is helpful for detection of hemorrhage.
+
+Imaging characteristics of acute traumatic injury:
+
+	distribution of imaging changes relate to the mechanisms of the traumatic injury, which may be direct blunt trauma causing cerebral contusion, or associated with diffuse axonal shearing
+	diffuse axonal shearing appears as small regions of susceptibility artifact on SWI at the grey-white matter junction, in the corpus callosum and brainstem, these also appear as high signal on FLAIR
+	cerebral contusions are the result of direct blunt trauma (coup) with the brain coming to a sudden stop against the inner surface of the skull on the opposite side (contrecoup), contusions appear as areas of haemorrhagic change in affected brain areas, with surrounding sulcal effacement and mass effect appearing in the first 24-48 hours (due to oedema)
+	associated ischemia appears as diffusion restriction, resulting in high signal on DWI and low signal on ADC maps, within minutes from the onset of traumatic brain injury and high signal on T2/FLAIR imaging in the affected area within 6-12 hours
+
+Imaging characteristics of chronic traumatic brain injury:
+
+	atrophy, gliosis, porencephaly/encephalomalacia and ex vacuo dilation of the ipsilateral ventricle in the location of the previous acute traumatic injury.
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Not applicable (acquired)
+
+KNOWN GENES
+
+Not applicable (acquired)
+
+FAMILY HISTORY
+
+Not applicable (acquired)
+
+Differential diagnoses
+
+Stroke (causing a fall with head injury)
+
+
+
+
+
+TUMORS
+OVERVIEW
+
+Epileptogenic tumors are, in the majority, biologically benign lesions that do not usually change over time. As a result, they do not require oncological surgery and surveillance, instead their management centres on control of seizures. Some tumors are highly associated with refractory epilepsy, and are amenable to epilepsy surgery due to their anatomic and imaging features, epilepsy surgery is therefore an important treatment option for this group of patients.
+
+The most common tumors associated with epilepsy are the glioneuronal tumors:
+
+dysembryoplastic neuroepithelial tumors (DNET); and
+gangliogliomas
+Less commonly, epilepsy can be due to more aggressive tumors, these tumors require oncological surgery and surveillance, and are therefore not discussed in this section of EpilepsyDiagnosis.Org.
+
+
+
+DNET
+Clinical Overview
+OVERVIEW
+
+A dysembryoplastic neuroepithelial tumor (DNET) is a glioneuronal tumor that is cortically based, usually with a multinodular and/or multicystic appearance. Histologically, DNET's are characterized by oligodendrioglial like cells, intermixed with neuronal and astrocytic cells, with minimial cellular atypia. They are commonly found in the temporal lobes, but can be found elsewhere. They are frequently found to co-occur with adjacent focal cortical dysplasia (FCD IIIb), suggesting a common developmental etiology for both structural abnormalities.
+
+Clinical context
+
+The clinical presentation of a DNET depends on the location of the tumor, and co-occurring structural abnormalities (such as focal cortical dysplasia, hippocampal sclerosis). Seizures occur in almost all patients. Onset of seizures can be at any age, but is most commonly in childhood. Seizures are typically uncontrolled by medication. Both sexes may be affected, but a male predominance has been reported. Patients do not initially suffer from significant developmental, neurological or cognitive impairment, but this can occur in association with uncontrolled seizures. Psychiatric disorders have been reported in individuals with DNET.
+
+CAUTION developmental and cognitive outcome may be worse in children with uncontrolled seizures in early life, especially if epileptic spasms or generalized seizure types appear, therefore proactive seizure control is important in these patients.
+
+CAUTION as epilepsy surgery is expected to be associated with a high chance of permanent seizure freedom, this should be pursued in a timely fashion if seizures are uncontrolled with medication, if there are emerging developmental, cognitive or psychiatric impairments, or if generalized seizure types are seen.
+
+Seizures
+Seizures and videos
+
+Focal seizures are usually the initial type, with features referable to the location of the DNET, which is more commonly temporal than frontal in location. If seizures do not have motor features, they may be difficult to detect in infants and young children.
+
+Evolution to bilateral convulsions can occur, these may have focal features if this information is carefully sought.
+
+Epileptic spasms may occur; these may have focal features that are referable to the location of the DNET.
+
+Status epilepticus, including focal status epilepticus, can occur, but is uncommon.
+
+CAUTION patients with DNET's, who have earlier age of seizure onset, may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seizure types, such as atypical absence, atonic and tonic seizures. Developmental and cognitive impairments are more common inthis group. If these seizure types are seen, achieving full seizure control is important, if this is not achieved with medication, epilepsy surgery should be considered.
+
+EEG
+Background
+
+The background EEG may be normal, or may show focal slowing over the DNET. In the presence of epileptic spasms or generalized seizure types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+The interictal EEG may be normal or may show focal interictal spikes, polyspikes or spike-and-wave over the location of the DNET.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+The presence of focal, rhythmic epileptiform discharges is the most characteristic feature of the scalp EEG in patients with DNET, showing spatial correlation with the DNET. DNET's that are not accessible by scalp EEG may have poorly localized ictal change on EEG, with patterns that may include subtle attenuation, or only rhythmic slowing.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of DNET:
+
+MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of DNET:
+
+	DNET's are typically cortical lesions that lack significant mass effect or peri-tumoral edema
+	They are hypointense on T1-weighted images and hyperintense on T2-weighted images, typically with a 'bubbly appearance' due to their multicystic nature
+	They may show rings of enhancement, seen on FLAIR ('bright rim sign')
+	They may be associated with scalloping of the inner table of overlying skull bone, without actual skull bone erosion
+	They may show calcification (seen in ~30%), this may be best seen on CT or T2* weighted MR imaging
+DNET's can co-occur with focal cortical dysplasia (which is usually found adjacent to the DNET) and/or with hippocampal sclerosis.
+
+Imaging of a DNET
+
+The three images below are a T2-weighted, T1-weighted and FLAIR image of a DNET in the same patient, demonstrating the multicystic appearance, with a 'bright rim sign' - a ring of enhancement, seen on the FLAIR image .
+
+DNET 1
+
+Imaging of a DNET with focal cortical dysplasia (FCD IIIb)
+
+The image below is a coronal image showing a right basal temporal structural abnormality, which includes an area of gyral expansion, with cystic appearance, and neighboring abnormal signal in white matter, with blurring of the grey-white matter junction. This abnormality was confirmed following resection to be a DNET with adjacent focal cortical dysplasia (FCD IIIb).
+
+DNET 2
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Sporadic A term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality
+KNOWN GENES
+
+Genetic causes for DNET are not yet known. Molecular genetic studies of DNET tissue have shown a loss of heterozygosity 1p/19q in a proportion of tumors studied. There are rare reports of DNET co-occurring with neurofibromatosis type 1 (including a patient with multiple DNETs). There are rare reports of DNET co-occurring in XYY syndrome. It is unknown if these rare reports of co-occurrence are by chance or suggest a genetic cause for DNET.
+
+FAMILY HISTORY
+
+A family history is not expected due to sporadic occurrence, genetic abnormalities if present, are likely acquired somatic genetic abnormalitiesA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. An acquired somatic gene abnormality, is one that does not affect the individuals egg/sperm cells, and therefore cannot be passed on to his/her offspring. , without risk of transmission to offspring.
+
+Differential diagnoses
+
+	Focal cortical dysplasia
+	Cortical tuber
+	Ganglioglioma
+	Other low grade tumors (e.g. oligodendroglioma, astrocytoma)
+
+
+
+GANGLIOGLIOMA
+Clinical Overview
+OVERVIEW
+
+A gangliogliomas is a glioneuronal tumor that is cortically based, and may have a solid and/or multicystic appearance. Histologically, gangliogliomas are characterized by large ganglion-like cells, intermixed with glial (predominantly astrocytic) cells. They are commonly found in the temporal lobes, but can be found elsewhere. They may co-occur with adjacent focal cortical dysplasia (FCD IIIb), suggesting a common developmental etiology for both structural abnormalities.
+
+Clinical context
+
+The clinical presentation of a ganglioglioma depends on the location of the tumor and the presence of co-occurring structural abnormality such as focal cortical dysplasia. Onset of seizures can be at any age, but is most commonly in childhood. Males and females are equally affected. Patients do not initially suffer from significant developmental, neurological or cognitive impairment, but this can occur in association with uncontrolled seizures.
+
+CAUTION developmental and cognitive outcome may be worse in children with uncontrolled seizures in early life, especially if epileptic spasms or generalized seizure types appear, therefore proactive seizure control is important in these patients.
+
+CAUTION as epilepsy surgery is expected to be associated with a high chance of permanent seizure freedom, this should be pursued in a timely fashion if seizures are uncontrolled with medication, if there are emerging developmental, cognitive or psychiatric impairments, or if generalized seizure types are seen.
+
+Seizures
+Seizures and videos
+
+Focal seizures are usually the initial type, with features referable to the location of the ganglioglioma, which is more commonly temporal than frontal in location. If seizures do not have motor features, they may be difficult to detect in infants and young children.
+
+Evolution to bilateral convulsions can occur, these may have focal features if this information is carefully sought.
+
+Epileptic spasms may occur; these may have focal features that are referable to the location of the ganglioglioma.
+
+Status epilepticus, including focal status epilepticus, can occur, but is uncommon.
+
+CAUTION patients with ganglioglioma, who have earlier age of seizure onset, may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seizure types, such as atypical absence, atonic and tonic seizures. Developmental and cognitive impairments are more common inthis group. If these seizure types are seen, achieving full seizure control is important, if this is not achieved with medication, epilepsy surgery should be considered.
+
+EEG
+Background
+
+The background EEG may be normal, or may show focal slowing over the ganglioglioma. In the presence of epileptic spasms or generalized seizure types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+The interictal EEG may be normal or may show focal interictal spikes, polyspikes or spike-and-wave over the location of the ganglioglioma.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+The presence of focal, rhythmic epileptiform discharges is the most characteristic feature of the scalp EEG in patients with ganglioglioma, showing spatial correlation with the tumor. Ganglioglioma's that are not accessible by scalp EEG may have poorly localized ictal change on EEG, with patterns that may include subtle attenuation, or only rhythmic slowing.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of ganglioglioma:
+
+MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of ganglioglioma:
+
+The appearance of a ganglioglioma can vary due to variable growth patterns, but may include:
+
+	Either a partly cystic abnormality, with an enhancing mural nodule or a solely solid abnormality (which may expand an overlying gyrus)
+	Solid components that are iso- or hypointense on T1-weighted images and hyperintense on T2-weighted images
+	Solid components that enhance commonly (~50%)
+	Areas of calcification, that are commonly seen (>30%, seen on CT or T2* weighted MR imaging)
+	Scalloping of the inner table of overlying skull bone, without actual skull bone erosion
+	A distinct absence of peritumoral edema (on T2-weighted images/FLAIR)
+
+Gangliogliomas can co-occur with focal cortical dysplasia and/or with hippocampal sclerosis.
+
+Imaging of a ganglioglioma
+
+The images show a CT, T2-weighted and FLAIR image of a ganglioglioma, with a cystic component and an enhancing mural nodule, seen on the contrast CT image.
+
+ganglioglioma 1
+
+ganglioglioma 2
+
+ganglioglioma 3
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Sporadic A term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality
+KNOWN GENES
+
+Genetic causes for gangliogliomas are not yet known. There are rare reports of gangliogliomas co-occurring with neurofibromatosis type 1, neurofibromatosis type 2, Down syndrome, Turcot syndrome, Fragile X syndrome and Peutz-Jegher syndrome. It is unknown if these rare reports of co-occurrence are by chance or suggest a genetic cause for gangliogliomas.
+
+FAMILY HISTORY
+
+A family history is not expected due to sporadic occurrence, genetic abnormalities if present, are likely acquired somatic genetic abnormalitiesA gene abnormality that occurs as a new event ('de novo') during cell division in the individual after his/her conception. The gene abnormality is therefore not inherited from the individual's parents. The stage of embryogenesis, or later life, when the gene abnormality occurs determines which tissues in the mature individual, and in what percentage of cells in those tissues, the gene abnormality will be found. An acquired somatic gene abnormality, is one that does not affect the individuals egg/sperm cells, and therefore cannot be passed on to his/her offspring. , without risk of transmission to offspring.
+
+Differential diagnoses
+
+	Focal cortical dysplasia
+	Cortical tuber
+	Dysembryoplastic neuroepithelial tumor
+	Other low grade tumors (e.g. oligodendroglioma, astrocytoma)
+
+
+
+
+
+PORENCEPHALIC CYST
+Clinical Overview
+OVERVIEW
+
+Porencephalic cysts are cavities seen in the cerebral hemispheres, that may arise due to past hypoxia-ischemia, vascular occlusion (stroke), haemorrhage, or infection. These cysts may co-exist with other structural sequelae of the original cerebral insult or with hippocampal sclerosis.
+
+Clinical context
+
+The clinical presentation of a porencephalic cyst relates to the location of the cyst and to the antecedent insult. Seizure onset can occur from birth, or later, but is usually in the first decade of life. Individuals may have motor impairment (such as hemiparesis), developmental impairment and/or cognitive impairment.
+
+CAUTION developmental and cognitive outcome may be worse in children with uncontrolled seizures in early life, especially if epileptic spasms or generalized seizure types appear, therefore proactive seizure control, which may include consideration of epilepsy surgery, is important in these patients.
+
+Seizures
+Focal seizures are usually the initial seizure type, with features referable to the location of the cyst, and/or the antecedent cerebral injury.  If these do not have motor features, they may be difficult to detect in infants and young children.
+
+Evolution to bilateral convulsions can occur, these may have focal features if this information is carefully sought.
+
+Epileptic spasms may occur; these may have focal features that are referable to the location of the cyst.
+
+Status epilepticus, including focal status epilepticus, can occur.
+
+CAUTION patients with porencephalic cyst, who have earlier age of seizure onset, may have a change in their seizure types over time, with the emergence of epileptic spasms or generalized seizure types, such as atypical absence, atonic and tonic seizures. Developmental and cognitive impairments are more common inthis group. If these seizure types are seen, achieving full seizure control is important, if this is not achieved with medication, epilepsy surgery should be considered.
+
+EEG
+Background
+
+The background EEG may be normal, or may show focal slowing over the cyst. Widespread slowing may be seen if a widespread antecedent insult occurred previously. In the presence of epileptic spasms or generalized seizure types, the background may show widespread slowing or hypsarrhythmia.
+
+Interictal
+
+The interictal EEG may be normal or may show focal interictal spikes, polyspikes or spike-and-wave at the location of the cyst. Multifocal interictal discharges may be seen if a widespread antecedent insult occurred previously.
+
+Multi-focal independent spikes or generalized spike-and-wave (usually < 3 Hz) can be seen in those with generalized seizures types.
+
+Hypsarrhythmia can be seen in those with epileptic spasms.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep. Obtaining a sleep EEG is important in infants at risk of epileptic spasms, as the awake EEG may be normal, and abnormality may only be present in sleep.
+
+Ictal
+
+The presence of focal, rhythmic epileptiform discharges is the most characteristic feature of the scalp EEG in patients with porencephalic cyst related seizures, showing spatial correlation with the cyst and its margins.
+
+If epileptic spasms or generalized seizures are present, the ictal EEG associated with these seizure types may be seen.
+
+Imaging
+Imaging
+
+Imaging for optimized detection of a porencephalic cyst:
+
+Porencephalic cysts may be seen on cranial USS, CT and MRI. However, MRI is the imaging of choice for assessing the detail of the cyst, the cortex of the cyst margin and for any co-existing structural abnormality related to the antecedent insult. MRI should include thin slice volumetric T1-weighted images, axial and coronal T2-weighted and FLAIR images.
+
+Imaging characteristics of a porencephalic cyst:
+
+Imaging shows a fluid filled cavity replacing an area of the cerebral hemisphere. There may be cortical atrophy and gliosis around the cyst margin. There may be ex vacuo dilation of the ipsilateral ventricle.
+
+Imaging of a porencephalic cyst
+
+Both images below are from the same patient and illustrate a large porencephalic cyst in the right frontal lobe. The cyst is in communication with the lateral ventricle and has a margin of atrophic cortex, related to its lateral and mesial margins. There is also atrophy, most notable in the left frontal lobe, with ex vacuo dilation of the anterior horn of the left ventricle. The porencephalic cyst in this patient is the sequelae of neonatal meningitis, which was complicated by a left frontal abscess.
+
+grey matter 1
+
+grey matter 1
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Sporadic A term used to denote either: the chance occurrence of a non-genetic disorder, or a genetic disorder that occurs for the first time in an individual due to an acquired gene abnormality
+
+KNOWN GENES
+
+Not applicable - due to an acquired cerebral insult in the majority of cases.
+COL41A (rare)
+FAMILY HISTORY
+
+Not applicable - due to an acquired cerebral insult in the majority of cases.
+
+Differential diagnoses
+
+Schizencephaly
+
+
+
+
+
+METABOLIC
+Metabolic epilepsies are conceptualized as having a distinct metabolic abnormality that has been demonstrated to be associated with a substantially increased risk of developing epilepsy in appropriately designed studies. Metabolic disorders have genetic origin; however, as we currently understand it, the metabolic abnormalities are a separate disorder interposed between the genetic defect and the epilepsy.
+
+Metabolic epilepsies, that are important to recognize (particularly those where epilepsy is the predominant condition and early treatment optimizes outcome), are presented in this section of EpilepsyDiagnosis.org.
+
+
+
+METABOLIC EPILEPSIES
+
+	Biotinidase and holocarboxylase synthase deficiency
+	Cerebral folate deficiency
+	Creatine disorders
+	Folinic acid responsive seizures
+	Glucose transporter 1 (GLUT1) deficiency
+	Mitochondrial disorders
+	Pyridoxine dependent epilepsy/PNPO deficiency
+	PEROXISOMAL DISORDERS
+
+BIOTINIDASE AND HOLOCARBOXYLASE SYNTHASE DEFICIENCY
+
+In biotinidase deficiency, the endogenous recycling of biotin is impaired. Epilepsy is frequent, often starting after the first 3 or 4 months of life, and often as epileptic spasms; optic atrophy and hearing loss are also often seen. Clues to the diagnosis are alopecia and dermatitis. The refractory seizures respond promptly to small doses of biotin. In holocarboxylase synthase deficiency, symptoms start during the neonatal period. Seizures are less frequent, occurring in 25-50% of all children.
+
+CEREBRAL FOLATE DEFICIENCY
+
+Cerebral folate deficiency is defined as a neurological syndrome associated with low CSF 5-methyltetrahydrofolate (5MTHF), the active folate metabolite, in the presence of normal folate metabolism outside the nervous system. Cerebral folate deficiency can result from either disturbed folate transport or from increased folate turnover within the central nervous system. Typical features manifest from 4 months of age, with irritability, sleep disturbance, developmental delay, cerebellar ataxia, spastic paraplegia, deceleration of head growth, progressive hearing and visual impairment, dyskinesia and epilepsy (seen in one third of children). Neuroimaging shows progressive atrophy and demyelination. Causes include mutations in receptor-mediated folate receptor protein 1 (FR1), folate antagonists (irreversible binding or antibodies that block folate binding to FR1) and other causes of functional impairment in FR1. Secondary forms of cerebral folate deficiency have been recognized during chronic use of anti-folate (including anti-seizure) medications and in various conditions such as Rett syndrome and Aicardi-Goutières syndrome. Treatment is with folinic acid, to normalize CSF 5MTHF values.
+
+CREATINE DISORDERS
+
+Disorders of creatine metabolism comprise three different defects: impaired creatine transport into the brain in the X-linked creatine transporter defect and impaired creatine synthesis in GAMT (guanidinoacetate methyltransferase) and AGAT (arginineglycine amidinotransferase) deficiencies. Only GAMT deficiency is regularly associated with epilepsy, which is often refractory to conventional treatment. Creatine supplementation alone frequently leads to improvement. Several seizure types may occur. Infants can present with West syndrome. Atypical absences, atonic and generalised convulsive seizures are common later in childhood.
+
+FOLINIC ACID RESPONSIVE SEIZURES
+
+This metabolic disorder is an allelic condition to pyridoxine dependent epilepsy with similar biochemical markers. Individuals may have a partial pyridoxine response, then may require co-therapy with folinic acid. Research is underway into the mechanism for folinic acid response. In CSF studies of biogenic amines, an unknown peak (peak X) is seen.
+
+GLUCOSE TRANSPORTER 1 (GLUT1) DEFICIENCY
+
+The predominant seizure type in this metabolic disorder is absence seizures; myoclonic seizures and focal seizures are also seen. Around 10% of patients with early onset absence seizures and 5% of patients with epilepsy with myoclonic-atonic seizures have GLUT1 deficiency. A strong clue is the presence of paroxysmal exercise-induced dyskinesia in family members (or in the affected individual), which may be worse in the morning or after a period of fasting and relieved by carbohydrate. The ketogenic diet is the treatment of choice for GLUT1 deficiency and may result in seizure control and potentially improve cognitive outcome. Diagnosis may be suspected if a reduced CSF-blood glucose ratio (< 0.46) is found. The diagnosis can be confirmed by looking for reduced glucose transport across the erythrocyte membrane (which carries the same glucose transporter), and by mutation analysis of the solute carrier family 2, facilitated glucose transporter member 1 (SLC2A1) gene.
+
+MITOCHONDRIAL DISORDERS
+
+Epilepsy (with prominent myoclonic seizures) is a common feature of a number of mitochondrial disorders including:
+
+	Alpers' syndrome - intractable seizures with status epilepticus and epilepsia partialis continua occur, with developmental regression and liver dysfunction. Caused by mutations in POLG.
+	MELAS (mitochondrial encephalopathy with lactic acidosis and stroke-like episodes) frequently leads to seizures, especially during acute stroke-like episodes where focal seizures arise in the involved cortical areas. Epilepsia partialis continua may occur.
+	MERRF (myoclonic epilepsy with ragged red fibres) presents in the second decade or later, as progressive myoclonus epilepsy with typical EEG findings of giant somatosensory potentials and photosensitivity. Clinically, patients show prominent myoclonic seizures as well as other seizure types.
+PYRIDOXINE DEPENDENT EPILEPSY/PNPO DEFICIENCY
+
+In pyridoxine dependent epilepsy, there is a defect in a-aminoadipic semialdehyde (AASA) dehydrogenase, with accumulation of products that inactivate pyridoxal-5-phosphate (PLP). Biochemical markers include increased AASA (specific) and pipecolic acid (non specific) in urine, plasma and CSF (even on treatment). The diagnosis is supported by finding a mutation in the antiquitin gene (ALDH7A1, chromosome 5q31).
+
+In pyridoxine 5' phosphate oxidase (PNPO) deficiency, biochemical markers may be unhelpful with only subtle findings. Pyridoxine supplementation is ineffective, the patients require PLP to ameliorate the neurological condition.
+
+For both pyridoxine dependent epilepsy and PNPO deficiency, the severity of the accompanying epilepsy can vary from severe early onset epilepsies (with suppression-burst patterns) to intractable focal seizures. Myoclonic seizures and unusual rotatory or bobbing eye movements with head nodding are distinctive seizure features. Any child with onset of intractable seizures under the age of 2 years warrants a trial of pyridoxine and pyridoxal-5-phosphate, for a minimum of one month. Neonates may be mistakenly thought to have hypoxic ischemic encephalopathy, as they may be in poor condition at birth, have lactic acidosis and a history of fetal distress in labour. Preterm delivery is common.
+
+PEROXISOMAL DISORDERS
+
+Peroxisomal disorders are an uncommon cause of epilepsy, usually presenting with seizures in early life, in a neonate or infant with severe neurological impairment. Malformations of cortical development may co-occur in specific peroxisomal disorders, including Zellweger syndrome and neonatal adrenoleucodystrophy. Focal seizures, generalised seizures and epileptic spasms may occur. Diagnosis is through identification of abnormal levels of very long chain fatty acids.
+
+Under Biotinidase deficiency (Metabolic epilepsies page), that last sentence that I got you to remove was not incorrect, can you add it back in (sorry my drongo fault): Biotin also is effective in this disorder.
+
+
+
+
+
+IMMUNE
+Immune epilepsies are conceptualized as having a distinct immune-mediated etiology with evidence of central nervous system inflammation, that has been demonstrated to be associated with a substantially increased risk of developing epilepsy. Important immune-mediated epilepsies are presented in this section of EpilepsyDiagnosis.org, these are important to recognize as outcome may be optimized with targeted immunotherapies.
+
+
+
+RASMUSSEN SYNDROME
+Clinical Overview
+OVERVIEW
+
+This immune-mediated epilepsy syndrome is characterized by the onset of intractable focal seizures (mainly focal motor, commonly epilepsia partialis continua) together with progressive neurological (hemiparesis) deterioration in a previously normal child. Progressive cognitive impairment may also develop. On imaging, progressive hemiatrophy (of the side contralateral to the hemiparesis) occurs over time. Pathology of brain tissue shows changes of chronic encephalitis; the exact pathophysiology of is unknown (previous studies implicating certain viruses have not been replicated), however there is sufficient evidence to support an autoimmune basis.
+
+Clinical context
+
+This syndrome is associated with onset of seizures between 1-10 years of age (peak 5-6 years), later onset is exceptional. Both sexes are affected equally. Antecedent and birth history is usually normal. Head size and neurological examination are usually normal prior to onset of the syndrome. With time, a progressive hemiparesis develops. Some children may first present with a unilateral movement disorder (hemidystonia, hemiathetosis) prior to onset of seizures. Iritis has been reported as an antecedent condition. CSF may show non-specific findings including the presence of oligo- or monoclonal bands. Medical treatment is targeted at both seizures (anti-seizure medications) and the underlying process (immunosuppression), ultimately most cases require hemi-disconnection surgery to eliminate seizures. The timing of such surgery is considered on a case-by-case basis and may depend on the rate of progression and the cognitive impact of frequent seizures.
+
+There are three stages to the illness i) an initial prodromal phase with infrequent seizures and no hemiparesis ii) an acute phase with frequent seizures and development of hemiparesis and iii) a residual stage with permanent stable hemiparesis.
+
+Seizures
+Seizures and videos
+
+Mandatory seizures
+
+Focal motor (clonic, myoclonic, tonic) seizures, with or without evolution to include dyscognitive features or bilateral convulsion.
+
+Epilepsia partialis continua refers to recurrent focal motor seizures (typically affecting hand and face, although body parts may be affected) that occur every few seconds or minutes for extended periods (days or years). The focal motor features may exhibit a Jacksonian march. A Todd's paresis may be seen in the affected body part.
+
+May have
+
+Atonic seizures
+
+Exclusionary
+
+Seizures arising independently in both hemispheres are not seen.
+
+EEG
+Background
+
+Asymmetry of the background EEG develops, with loss of normal physiological rhythms and progressive slow activity appearing over the affected hemisphere. The EEG may be normal at presentation in a minority of patients.
+
+Interictal
+
+Epileptiform activity is frequent over the affected hemisphere in the interictal EEG. There may be focal epileptiform activity that becomes widespread. The appearance of contralateral epileptiform activity may correlate with emerging cognitive decline.
+
+Activation
+
+EEG abnormality is enhanced by sleep deprivation and in sleep.
+
+Ictal
+
+Focal ictal EEG discharges may be seen with focal seizures. There may be multifocal seizures. Epilepsia partialis continua may not be accompanied by surface EEG change.
+
+Imaging
+Imaging
+
+Progressive atrophy of one hemisphere on serial neuroimaging is the hallmark of Rasmussen syndrome. This may not be evident in the initial prodromal phase of the illness, however within months of onset of the acute stage, most patients show unilateral enlargement of the outer and inner CSF compartments. The loss of cerebral volume often starts in the insular region, with enlargement of the temporal horn of the ventricle and the Sylvian fissure. Ipsilateral atrophy of the head of the caudate nucleus is another early diagnostic clue. T2/FLAIR hyperintense signal abnormality is seen in cortical or subcortical regions, or both. The occurrence of bilateral disease is debated but is certainly very rare.
+
+Imaging of Rasmussen syndrome
+
+Both images below are from the same patient and illustrate the findings of Rasmussen syndrome over time. The first image shows mild reduction in volume of the left hemisphere, with atrophy of the head of caudate (arrow). The second image shows progression of the atrophy over time, with atrophy of the head of caudate also seen on this image.
+
+rasmussen 1
+
+rasmussen 2
+
+Genetics
+GENETICS
+
+PATTERN OF INHERITANCE
+
+Not applicable.
+
+KNOWN GENES
+
+This is an acquired immune-mediated condition that occurs sporadically, no known genes are associated with this syndrome.
+
+FAMILY HISTORY OF SEIZURES/EPILEPSY
+
+Not applicable.
+
+Differential diagnoses
+
+Rasmussen syndrome may be difficult to diagnose in initial stages when it may have no distinguising features from other causes of focal motor seizures. Other conditions to consider in the differential diagnosis include:
+
+	Mitochondrial disorders - epilesia partialis continua may occur in MELAS (mitochondrial encephalopathy, lactic acidosis and stroke) or in Alpers' syndrome.
+	Antibody-mediated epilepsies - usually not limited to one hemisphere
+	Acute encephalitis due to varied etiologies, presenting with hemiplegia and seizures
+
+
+
+ANTIBODY MEDIATED
+
+	ANTI-NMDA RECEPTOR ENCEPHALITIS
+	VOLTAGE-GATED POTASSIUM CHANNEL ANTIBODY
+	GAD65 ANTIBODY
+	GABA-B RECEPTOR ANTIBODY
+	AMPA RECEPTOR ANTIBODY
+	STEROID-RESPONSIVE ENCEPHALOPATHY ASSOCIATED WITH THYROID DISEASE
+	CELIAC DISEASE, EPILEPSY AND CEREBRAL CALCIFICATION SYNDROME
+
+ANTI-NMDA RECEPTOR ENCEPHALITIS
+
+Antibodies are directed against the NR1 subunit of the NMDA receptor. Clinical manifestations typically include:
+
+	A prodrome, this may last several weeks, symptoms include fever, headache, nausea, vomiting and diarrhea
+	A symptomatic phase, symptoms may include all of the following:
+		Psychiatric and behavioral symptoms: anxiety, bizarre behavior, delirium, paranoia
+		Insomnia or hypersomnia
+		Altered level of consciousness
+		Seizures (focal or generalized)
+		Movement disorders: oral-motor dyskinesias, choreiform movements
+		Hypoventilation
+		Autonomic instability: incontinence, tachycardia, hypertension, hyperthermia
+
+CSF may show lymptocytic pleocytosis, elevated protein, positive oligoclonal bands. MRI is abnormal in a third of cases with cortical/subcortical hyperintensities commonly seen. EEG usually shows diffuse slowing and may show extreme delta brush pattern. Diagnosis is supported by identification of NMDA receptor antibody in CSF (serum may be negative). In women the risk of ovarian teratoma is high and this should be excluded.
+
+VOLTAGE-GATED POTASSIUM CHANNEL ANTIBODY (LGI1 or CASPR2)
+
+Antibodies directed against the voltage gated potassium channels bind to other proteins including LGI1 (leucine-rich, glioma-inactivated 1 protein) and CASPR2 (contactin-associated protein 2) resulting in a complex antibody. These antibodies cause limbic encephalitis with the following common features:
+
+	Short term memory loss
+	Intractable focal seizures with a high frequency, these commonly have temporal lobe features; however olfactory aura and pilomotor features (resulting in shivering phenomena) may be distinctive
+	Faciobrachial dystonic seizures (brief episodes of unilateral facial grimace and arm posturing) - these are characteristic of antibody to LGI1
+	Hyponatremia
+	Dysautonomia
+	Sleep disturbance
+	Psychiatric symptoms
+
+CSF findings are usually normal. Neuroimaging may be normal but often shows mesial temporal T2 hyperintensity which is usually asymmetric and does not enhance. EEG often shows frontotemporal or generalized slowing and focal temporal epileptiform discharges. Diagnosis is supported by identification of voltage gated potassium channel antibody in serum (or anti-LGI1 or anti-CASPR2), antibody may not be present in CSF.
+
+GAD65 ANTIBODY
+
+Low titers of GAD65 are commonly seen as a marker of thyrogastric autoimmunity and are not concerning for neurological disease. Very high titers (>20 nmol/l in serum) can be associated with variable neurological symptoms including limbic encephalitis. Diagnosis is supported by identification of GAD65 antibody in serum.
+
+GABA-B RECEPTOR ANTIBODY
+
+GABA-B receptor antibodies may present with limbic encephalitis and are most commonly found in adults with small cell lung cancer. Diagnosis is supported by identification of GABA-B receptor antibody in serum.
+
+AMPA RECEPTOR ANTIBODY
+
+AMPA receptor antibodies may present with limbic encephalitis and are most commonly found in older patients in association with cancers of the thymus, breast or lung. Diagnosis is supported by identification of AMPA receptor antibody in serum. Given the risk of cancer, this should be excluded.
+
+STEROID-RESPONSIVE ENCEPHALOPATHY ASSOCIATED WITH THYROID DISEASE
+
+Anti-TPO antibody, present in this disorder, is common in the population. The following criteria are therefore proposed for the clinical diagnosis of steroid-responsive encephalopathy associated with thyroid disease:
+
+	Encephalopathy with cognitive impairment, neuropsychiatric features, seizures and/or focal neurological deficits
+	Euthyroid or mildly hypothyroid (requires T4 and TSH evaluation)
+	No evidence of toxic, metabolic, infectious or neoplastic cause
+	No other specific anti-neuronal antibody implicated
+	No findings on MRI to suggest vascular, neoplastic or other structural etiology
+	Complete or near complete response to steroids
+
+Diagnosis is supported by identification of anti-TPO receptor antibody in serum and the exclusion of other etiologies (requiring full testing of serum and CSF, including searches for other anti-neuronal antibodies).
+
+CELIAC DISEASE, EPILEPSY AND CEREBRAL CALCIFICATION SYNDROME
+
+An association between epilepsy and celiac disease has been debated however has not been convincingly established in more careful studies. Celiac disease, epilepsy and occipital calcifications is a rare condition with the following characteristics:
+
+	Mean age at onset is 6 years
+	Bilateral cortical/subcortical parieto-occipital calcifications without brain atrophy
+	Focal seizures with elementary visual aura are common, these may evolve to a bilateral convulsion
+	Many cases respond to anti-seizure medications, however some require a gluten free diet for seizure control
+
+
+
+
+
+INFECTIOUS
+OVERVIEW
+
+The commonest etiology for epilepsy worldwide is infectious, especially in developing countries. Infections in the central nervous system can cause both acute symptomatic seizures (which occur closely related to the timing of the initial infection) and epilepsy. Infectious etiologies include tuberculosis, HIV, cerebral malaria, neurocysticercosis, subacute sclerosing panencephalitis, cerebral toxoplasmosis. These infections sometimes have a structural correlate, however the primary cause of the epilepsy is conceptualized as the infectious process. An infectious etiology may have specific treatment implications. There are also public health implications as prevention of such infections may reduce the burden of epilepsy, particularly in developing countries.
+
+BACTERIAL MENINGITIS OR MENINGOENCEPHALITIS
+
+The commonest etiologies for bacterial meningitis are meningococus, pneumococcus and haemophilus influenza B. Acute seizures may occur related to fever or to complications such as subdural collections, cerebritis or cerebral infarction. Immunization programs may reduce the incidence of specific bacterial meningitides.
+
+CEREBRAL MALARIA
+
+Plasmodium falciparum in sub-Saharan Africa can cause neurologic complications in half of affected individuals. This infection is the most important cause of epileptic seizures in these regions. Cerebral malaria with related coma may be fatal, especially in children. Plasmodium vivax in Asia causes similar neurological complications and epilepsy.
+
+CEREBRAL TOXOPLASMOSIS
+
+Toxoplasmosis, found worldwide, is caused by Toxoplasma gondii. Immunocompetent persons with primary infection are usually asymptomatic, but latent infection can occur. In immunosuppressed patients, especially those with HIV, reactivation can cause disease (usually when CD4 lymphocyte count falls below 100 cells/mm3). Most patients with cerebral toxoplasmosis have multiple, ring-enhancing, brain lesions often associated with edema and with predilection for involvement of the basal ganglia.
+
+CMV
+
+CMV is the commonest fetal viral infection. Fetal CNS infection after 20 weeks gestation can cause malformations of cortical development (including polymycrogyria and schizencephaly (link)), and intracranial calcification in the developing brain. Direct perinatal CNS CMV infection can also occur, with clinical signs manifesting after an incubation period of 2-6 weeks. Overall, 90% of affected infants are asymptomatic at birth, resulting in challenges in early correct diagnosis of CMV neuroinfection. Some of these infants may only present with sensorineural hearing loss at a later date. However, 10% of infants may have early symptoms which may include microcephaly, anaemia, thrombocytopenia, hepatitis, chorioretinitis, neurological impairment and sensorineural hearing impairment. Diagnosis is by detection of CMV DNA in CSF. CMV DNA may also be detected in in urine. Seizures may have onset in the first month of life, in the first year or rarely later. Treatment with gancyclovir may ameliorate the clinical course.
+
+HIV
+
+Seizures can result from primary cerebral HIV infection, especially in children. In adults, most seizures are cause by related opportunistic central nervous system infections such as toxoplasmosis, cryptococcal meningitis and tuberculomas; or due to secondary neoplastic lesions.
+
+NEUROCYSTERICOSIS
+
+Neurocysticercosis is caused by ingestion of food contaminated with Taenia solium eggs. Eggs hatch in the intestine, larvae migrate to the central nervous system and then form cysts. Cysts have four phases: 1) vesicular (asymptomatic); 2) colloidal (degeneration and inflammation); 3) granular nodular; and 4) calcification. Although seizures are most often associated with cyst degeneration, they can occur at any stage. Although neurocysticercosis is more prevalent in developing countries (Latin-America, India and Africa), individuals in developed countries may be affected, if they have had foreign travel to endemic areas.
+
+The diagnosis of neurocysticercosis is complex; no diagnostic test identifies all cases. The diagnosis depends on supportive clinical history (including exposure history), laboratory results and imaging findings. In most patients, neuroimaging findings are not pathognomonic. If an eccentric scolex is seen within the cyst, neurocystericosis may be diagnosed confidently. During the degeneration of the cyst, contrast-enhancing lesions with surrounding edema may be observed on imaging. Enzyme-linked immunotransfer blotting is the most accurate serologic test. A negative serologic result does not exclude neurocysticercosis. The sensitivity of this test is higher early in the course of infection (when individuals are often asymptomatic) and lower late in the disease course (when individuals are symptomatic, and lesions calcified). The sensitivity in the presence of multiple intracranial cysts is higher (90-100%) but lower (20-30%) when inflammation is absent or in the presence of a single cyst.
+
+TUBERCULOSIS
+
+Seizures can occur in meningo-tuberculosis due to cerebral vasculitis and infarction, especially in young children and in people co-infected with HIV. Seizures with focal features may also occur as a consequence of tuberculomas, identified as ring-enhancing lesions on neuroimaging.
+
+VIRAL ENCEPHALITIS
+
+Encephalitis is a recognized complication of infections with a number of viruses. Herpes simplex virus type 1 is the most common viral cause. Affected individuals present with acute encephalopathy and seizures, epilepsy develops in around 50% of cases. Other less common etiologies for viral encephalitis include human herpes virus 6 (associated with acute limbic encephalitis and febrile status epilepticus), influenza B, varicella, measles, mumps and rubella viruses. In certain countries or regions there is a predominance of specific viral etiologies for encephalitis, examples include Japanese and enterovirus 71 in Asia, West Nile virus in the USA, arbovirus in Europe and Dengue virus in some African and Latin-American countries.
+
+Sub-acute sclerosing panencephalitis is a rare progressive chronic encephalitis, seen predominantly in children and young adults as a consequence of chronic measles infection (typically with the initial infection occurring before the age of 2 years). Affected individuals show progressive cognitive deterioration, seizures (myoclonus), ataxia, photosensitivity, and a characteristic EEG (periodic discharges).
+
+OTHER INFECTIONS
+
+Other less common infectious causes of epilepsy include toxocariasis, schistosomiasis and Lyme disease (neuroborreliosis).
+
+
+
+
+
+UNKNOWN
+'Unknown' is meant to be viewed neutrally and to designate that the nature of the underlying cause of the epilepsy is as yet unknown; it may have a fundamental genetic defect at its core or there may be a separate as yet unrecognized disorder. Examples of epilepsies where the etiology may be considered as yet unknown are presented in this section of EpilepsyDiagnosis.org.
+
+
+
+FEBRILE INFECTION RELATED EPILEPSY
+Clinical Overview
+OVERVIEW
+
+Febrile infection related epilepsy syndrome (FIRES) has previously also been known as fever induced refractory epilepsy in school-aged children, devastating epileptic encephalopathy in school aged children (DESC) and acute encephalitis with refractory repetitive partial seizures (AERRPS). It is a severe post-infectious neurological disorder that presents with intractable status epilepticus in a previously normal child (or less commonly adult) after a febrile illness. If the patient survives, they have intellectual and motor impairment and ongoing intractable seizures.
+
+The pathogenesis of this condition is unknown. Despite extensive investigation for an immune mechanism, anti-neuronal antibody testing on CSF and blood has shown inconsistent findings or been negative. There is no consistent response to immunotherapies such as high dose steroids, immunoglobulin or plasma exchange. Taken together this suggests that the pathogenesis is unlikely to be immune-mediated. Pleocytosis is commonly identified on initial CSF studies of these patients, lending support for an encephalitis, however extensive testing of patients has failed to identify a pathogen. Metabolic encephalopathy has been extensively considered in existing patients, however metabolic testing has been unrevealing.
+
+Clinical context
+
+This syndrome presents with onset of seizures between 2-17 years of age (median 8 years). There is a slight male predominance. A febrile upper respiratory or gastrointestinal illness precedes the onset of seizures by 1-14 days (median 4 days). Seizures rapidly progress to refractory status epilepticus. The condition has a high mortality, surviving patients require prolonged ventilator support and have cognitive and neurological impairment and ongoing seizures. There are limited responses to specific therapies such as the early use of the ketogenic diet.
+
+Seizures
+Seizures and videos
+
+Mandatory seizures
+
+Focal seizures of multiple different types occur, including focal seizures with dyscognitive features. These seizures evolve to bilateral convulsions and are intractable.
+
+May have
+
+Myoclonic seizures of facial and oro-buccal muscles.
+
+EEG
+Background/Interictal
+
+Background focal or generalized slowing is common. Interictal abnormalities may be focal, multifocal or generalized.
+
+Ictal
+
+Focal ictal discharges are seen, most commonly temporal followed by frontal in onset.
+
+Imaging
+Imaging
+
+Neuroimaging may be normal at onset of the condition or may show bi-temporal or peri-insular hyperintensities. Over time, diffuse cerebral atrophy is seen, often with T2 hyperintensities in the temporal regions.
+
+Genetics
+GENETICS
+
+No known genetic etiologies have been identified for this disorder.
+
+Differential diagnoses
+
+	Acute encephalitis due to viral etiologies
+	Acute encephalopathy with seizures due to varied other etiologies e.g. hypoxic-ischemic brain injury, mitochondrial encephalopathy
+
+
+
+
+
+UNCLASSIFIED EPILEPSIES
+OVERVIEW
+
+For a third of epilepsies, the etiology may remain unknown and the epilepsies may not have distinct clinical and electrical features that allow organization by epilepsy syndromes. It is in this group of disorders that more specific phenotyping or time to observe the evolution of the patient's epilepsy may lead to the emergence of subgroups for which an etiological diagnosis can be found.
