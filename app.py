@@ -131,12 +131,40 @@ def semanticAnalysis(str1, dict1, list1, list2):
     dictKeys = list(dict1)
     dictLen = len(dict1)
 
+    maxSent = ''
+    sentPair = []
+    sentPairList = []
+    sentenceList = []
+
     sentList = sent_tokenize(strlc)
     # remove_sw = [word for word in tokenList if not word in list1]
-    #for sent in sentList:
-    #    tokenList = word_tokenize(sent)
-    #    for token in tokenList:
-    #        if token is in dictKeys and not in list1:
+    for sent in sentList:
+        maxNum = 0
+        sentPair = [0, '', '', 0, 0, '']
+        for i in range(len(dictValues)):
+            current = 0
+            tokenList = word_tokenize(sent)
+            for token in tokenList:
+                if token in dictValues[i] and token not in list1:
+                    current += 1
+            if current > maxNum:
+                maxNum = current
+                start = strlc.index(sent)
+                end = start + len(sent)
+                dt = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+                sentPair = [maxNum, dictKeys[i], sent, start, end, dt]
+                #print(sentPair)
+
+        if sentPair[0] > 1:
+            sentPairList.append(sentPair)
+
+    for index in range(len(sentPairList)):
+        key = sentPairList[index][1]
+        row = ['#', sentPairList[index][1], sentPairList[index][2], sentPairList[index][3], sentPairList[index][4], sentPairList[index][5], "Needs Review", "Sentence", "Semantic Match to Concept"]
+        
+        #print(row)
+        sentenceList.append(row) 
+    return sentenceList      
 
 # Updates values from dict1 to dict2
 def mergeDict(dict1, dict2):
@@ -180,19 +208,20 @@ def main(args):
 
     # Tokenize
     tokenList = tokenize(documentAsString, ontologyDict)
-    tokenListLen = len(tokenList)
+    #tokenListLen = len(tokenList)
     
     # Lemmatize and Semantically Analyze
     lemmaList = lemmitize(documentAsString, ontologyDict, stopWords, tokenList)
-    lemmaListLen = len(lemmaList)
+    #lemmaListLen = len(lemmaList)
     
     # Sentence Division
-    # sentence semanticAnalysis(documentAsString, ontologyDict, stopWords, tokenList)
+    sentenceList = semanticAnalysis(documentAsString, ontologyDict, stopWords, tokenList)
+    #sentenceListLen = len(sentenceList)
 
     # Combine lists
-    completeList = defaultList + tokenList + lemmaList
+    #completeList = defaultList + tokenList + lemmaList + sentenceList
+    completeList = sentenceList
     listLen = len(completeList) + 4
-    print(lemmaListLen)
 
     # Remove duplicates
     #completeList = set(tuple(x) for x in completeList)
