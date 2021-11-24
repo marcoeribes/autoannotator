@@ -34,8 +34,17 @@ def parseOntologies(ontologyClasses):
         lineLC = line.lower()
         tokenizedLine = word_tokenize(lineLC)
         ontologies[line] = tokenizedLine
-
     return ontologies
+
+def parseOntologyTerms(dict1):
+    dict2 = dict1
+    concepts = ['Epileptic Seizure Event', 'Complex Motor Seizure', 'Simple Motor Seizure', 'Motor Seizure', 'Convulsion', 'Dialeptic Seizure', 'Aura']
+    for key in dict2:
+        if key in concepts:
+            dict2[key] = 'Concept'
+        else:
+            dict2[key] = 'Term'
+    return dict2
 
 # Checks file type
 def checkFileType(str1):
@@ -45,14 +54,16 @@ def checkFileType(str1):
 # initialize the google sheets drive format regardless of data 
 def initialize():
     list1 = []
-    row1 = ['Epilepsy', 'Concept', 'Text', 'Span Start', 'Span End', 'Annotated Date', 'Status', 'Type', 'Rule Followed']
-    row2 = ['']
+    row1 = ['Epilepsy', 'Concept', 'Text', 'Span Start', 'Span End', 'Annotated Date', 'Status', 'Type', 'Rule Followed']        
+    row2 = []
+    for i in range(10):
+        row2.append('')
     list1.append(row1)
     list1.append(row2)
     return list1
 
 # This method gets list of tokens in text
-def tokenize(str1, list1):
+def tokenize(str1, list1, list2):
     strlc = str1.lower()
     tokenList = []
 
@@ -64,14 +75,16 @@ def tokenize(str1, list1):
             i = strlc.index(t)
             j = i + len(t)
             dt = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
-            row = ['#', term, t, i, j, dt, "Needs Review", "Isolated Term", "Token Match"]
-            #print(lowerTerm + " " + str(i) + " " + str(j))
+            if term in list2:
+                row = row = [term, '#', t, i, j, dt, "Needs Review", "Isolated Term", "Token Match"]
+            else:
+                row = ['#', term, t, i, j, dt, "Needs Review", "Isolated Term", "Token Match"]
             tokenList.append(row)     
 
     return tokenList
 
 # This method gets list of stemmed or lemmatized strings in text
-def lemmitize(str1, dict1, list1, list2):
+def lemmitize(str1, dict1, list1, list2, list3):
     wnl = WordNetLemmatizer()
     strlc = str1.lower()
     lemmaList = []
@@ -111,18 +124,21 @@ def lemmitize(str1, dict1, list1, list2):
                     start = int(float(item[3])) # float needed for ValueError
                     end = int(float(item[4]))
 
-                    if start >= i and j >= end: # if i or j out of range
-                        row = ['#', key, term, i, j, dt, "Needs Review", "Encapsulated Term", "Semantic Match to Concept"]
-                        lemmaList.append(row)     
+                    #if start >= i and j >= end: # if i or j out of range
+                    #    row = ['#', key, term, i, j, dt, "Needs Review", "Encapsulated Term", "Semantic Match to Concept"]
+                    #    lemmaList.append(row)     
+                    #else:
+                    if key in list3:
+                        row = [key, '#', term, i, j, dt, "Needs Review", "Encapsulated Term", "Semantic Match to Concept"]
                     else:
                         row = ['#', key, term, i, j, dt, "Needs Review", "Encapsulated Term", "Semantic Match to Concept"]
-                        lemmaList.append(row)        
+                    lemmaList.append(row)        
     
     lemmaList = list(lemmaList for lemmaList,_ in itertools.groupby(lemmaList))       
     return lemmaList
 
 
-def semanticAnalysis(str1, dict1, list1, list2):
+def semanticAnalysis(str1, dict1, list1, list2, list3):
     wnl = WordNetLemmatizer()
     strlc = str1.lower()
     sentList = []
@@ -160,7 +176,10 @@ def semanticAnalysis(str1, dict1, list1, list2):
 
     for index in range(len(sentPairList)):
         key = sentPairList[index][1]
-        row = ['#', sentPairList[index][1], sentPairList[index][2], sentPairList[index][3], sentPairList[index][4], sentPairList[index][5], "Needs Review", "Sentence", "Semantic Match to Concept"]
+        if key in list3:
+            row = [key, '#', sentPairList[index][2], sentPairList[index][3], sentPairList[index][4], sentPairList[index][5], "Needs Review", "Sentence", "Semantic Match to Concept"]
+        else:
+            row = ['#', key, sentPairList[index][2], sentPairList[index][3], sentPairList[index][4], sentPairList[index][5], "Needs Review", "Sentence", "Semantic Match to Concept"]
         
         #print(row)
         sentenceList.append(row) 
@@ -203,24 +222,26 @@ def main(args):
     for i in range(10):
         stopWords.add(str(i))
 
+    concepts = ['Epileptic Seizure Event', 'Complex Motor Seizure', 'Simple Motor Seizure', 'Motor Seizure', 'Convulsion', 'Dialeptic Seizure', 'Aura']
+
     # Initialize drive format
     defaultList = initialize()
 
     # Tokenize
-    tokenList = tokenize(documentAsString, ontologyDict)
+    tokenList = tokenize(documentAsString, ontologyDict, concepts)
     #tokenListLen = len(tokenList)
     
     # Lemmatize and Semantically Analyze
-    lemmaList = lemmitize(documentAsString, ontologyDict, stopWords, tokenList)
+    lemmaList = lemmitize(documentAsString, ontologyDict, stopWords, tokenList, concepts)
     #lemmaListLen = len(lemmaList)
     
     # Sentence Division
-    sentenceList = semanticAnalysis(documentAsString, ontologyDict, stopWords, tokenList)
+    sentenceList = semanticAnalysis(documentAsString, ontologyDict, stopWords, tokenList, concepts)
     #sentenceListLen = len(sentenceList)
 
     # Combine lists
-    #completeList = defaultList + tokenList + lemmaList + sentenceList
-    completeList = sentenceList
+    completeList = defaultList + tokenList + lemmaList + sentenceList
+    #completeList = sentenceList
     listLen = len(completeList) + 4
 
     # Remove duplicates
